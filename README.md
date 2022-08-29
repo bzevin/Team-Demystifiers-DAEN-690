@@ -3,8 +3,7 @@ George Mason DAEN 690 Capstone Project Repository
 
 ## GMU Faculty and Researcher Experts List
 
-Product Owner: Zevin, Benjamin
-
+Product Owner: Zevin, Benjamin  
 Scrum Master: Margulies, Derek
 Developers: Ghyabi, Mehrdad | Munnangi, Karthik | Vangoor, Harshith
 
