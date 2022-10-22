@@ -1,0 +1,68 @@
+USING PERIODIC COMMIT 5000
+LOAD CSV WITH HEADERS from 'file:///VSE%20Research%20Portfolio%20Explode.csv' as row with row where row.Topic is not null
+MERGE (n:Topic {Name: row.Topic})
+MERGE (m:Area {Name: row.Area})
+MERGE (b:Category {Name: row.Category})
+MERGE (n)-[ra:SUB_AREA]->(m)
+MERGE (m)-[rc:SUB_CATEGORY]-> (b)
+
+LOAD CSV WITH HEADERS from 'file:///CEC_GS.csv' as row with row where row.Name is not null
+
+
+
+
+LOAD CSV WITH HEADERS from 'file:///CEC_GS.csv' as row with row where row.Name is not null
+MERGE (n:Person {Name: row.Name})
+SET n.ID = row.ID
+SET n.Title = row.Title
+SET n.Personal_Link = row.Personal_Link
+SET n.Email = row.Email
+SET n.Phone = row.Phone_Number
+SET n.Degrees = row.Degrees
+
+LOAD CSV WITH HEADERS from 'file:///VSE%20Research%20Portfolio%20Explode.csv' as row with row where row.Topic is not null
+MERGE (topic:Topic {Name: row.Topic})
+SET topic.ID = row.Topic_ID
+MERGE (area:Area {Name: row.Area})
+SET area.ID = row.Area_ID
+MERGE (category:Category {Name: row.Category})
+SET category.ID = row.Category_ID
+MERGE (topic)-[ra:SUB_AREA]->(area)
+MERGE (area)-[rc:SUB_CATEGORY]-> (category)
+
+
+LOAD CSV WITH HEADERS from 'file:///in_area.csv' as row with row where row.Name is not null
+MATCH (n:Name {Name: row.Name})
+MATCH (area:Area {Name: row.All_Research_Interest})
+MERGE (n) - [:Research_Interest]->(area)
+
+LOAD CSV WITH HEADERS from 'file:///in_cat.csv' as row with row where row.Name is not null
+MATCH (n:Person {Name: row.Name})
+MATCH (category:Category {Name: row.All_Research_Interest})
+MERGE (n) - [:Research_Interest]->(category)
+
+LOAD CSV WITH HEADERS from 'file:///not_in_cat_or_area.csv' as row with row where row.Name is not null
+MATCH (n:Person {Name: row.Name})
+MERGE (category:Category {Name: row.All_Research_Interest})
+MERGE (n) - [:No_Area_Research_Interest]->(category)
+
+MATCH (n:Person {ID: '4'})-[cat]->(c)
+RETURN *
+
+MATCH (n:Person {ID: '4'})-[test] -> (c:Category)
+RETURN *
+
+MATCH (n:Person {ID: '4'})-[test] -> (c:Area)
+RETURN *
+
+MATCH (n:Person {ID: '4'})-[test] -> (c:Area) <-[r]- (t:Topic)
+RETURN *
+
+MATCH (n:Person)-[r]->(a:Area {ID: 'a4'})-[cat]->(c)
+Return *
+
+MATCH (n:Topic {Name: 'materials and mechanics'})-[:SUB_AREA]->(a:Area)-[:SUB_CATEGORY]->(c:Category)
+RETURN *
+
+
+
