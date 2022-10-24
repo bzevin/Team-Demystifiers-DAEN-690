@@ -21,6 +21,7 @@ The project consists of four elements, data collection, natural language process
 
 **Project Goals:**  
 A good data analytics problem for students might be to write a bot that would check out (a) bios for Mason faculty and researchers, (c) Google Scholar, ResearchGate, etc., to assemble lists of people working in particular areas. Some kind of Institutional Review Board (IRB) approval might be needed, but all the material would be public domain so it should not be a problem.
+
 The optimal outcome of this project was to create a working prototype that could be re-run periodically to keep the roster of faculty and their research interests updated without burdening the scholars; due to unanticipated setbacks and problems with the standardization of the data collected. The project's goal shifted to making a working database that could accurately label the relationships between researchers and their interests that would have to be updated manually and would need to be maintained by an individual or team.
 
 
@@ -32,9 +33,14 @@ Working Prototype
 
 **Repository Contents:**  
 The GitHub repository contains all the files not restricted by the university or LinkedIn.  The original taxonomy received from the university is not included, and the collected About sections and publications found on faculty members' LinkedIn profiles are not included.  The repository is split into five folders:
+
 •	Data Cleaning: This folder contains all the files used for data cleaning or created from the data cleaning process.
+
 •	Data Collection: This folder contains all the data collection files. This folder is where the self-built web scrapers are located.
+
 •	Data: The folder contains all the data collected from the web scrapers or the final data generated through the data cleaning process and natural language processing.  
+
 •	Database Files: This folder contains all of the files that are used to transform data to be passed into the database, the transformed files, and the database itself.
+
 •	Natural Language Processing: This folder contains all the files used to complete the Natural Language Processing, such as the stop word removal and the cosine similarity.
 
