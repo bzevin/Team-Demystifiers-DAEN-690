@@ -34,13 +34,13 @@ Working Prototype
 **Repository Contents:**  
 The GitHub repository contains all the files not restricted by the university or LinkedIn.  The original taxonomy received from the university is not included, and the collected About sections and publications found on faculty members' LinkedIn profiles are not included.  The repository is split into five folders:
 
-•	Data Cleaning: This folder contains all the files used for data cleaning or created from the data cleaning process.
+-	Data Cleaning: This folder contains all the files used for data cleaning or created from the data cleaning process.
 
-•	Data Collection: This folder contains all the data collection files. This folder is where the self-built web scrapers are located.
+-	Data Collection: This folder contains all the data collection files. This folder is where the self-built web scrapers are located.
 
-•	Data: The folder contains all the data collected from the web scrapers or the final data generated through the data cleaning process and natural language processing.  
+-	Data: The folder contains all the data collected from the web scrapers or the final data generated through the data cleaning process and natural language processing.  
 
-•	Database Files: This folder contains all of the files that are used to transform data to be passed into the database, the transformed files, and the database itself.
+-	Database Files: This folder contains all of the files that are used to transform data to be passed into the database, the transformed files, and the database itself.
 
-•	Natural Language Processing: This folder contains all the files used to complete the Natural Language Processing, such as the stop word removal and the cosine similarity.
+-	Natural Language Processing: This folder contains all the files used to complete the Natural Language Processing, such as the stop word removal and the cosine similarity.
 
