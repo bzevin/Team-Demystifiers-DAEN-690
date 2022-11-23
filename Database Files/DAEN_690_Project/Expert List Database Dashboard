@@ -1,0 +1,712 @@
+{
+  "title": "Expert List Dashboards",
+  "version": "2.2",
+  "settings": {
+    "pagenumber": 0,
+    "editable": false,
+    "fullscreenEnabled": false,
+    "parameters": {
+      "neodash_category_name": "software resilience",
+      "neodash_area_name": "software engineering",
+      "neodash_person_name": "bo han",
+      "neodash_document_id": "1865",
+      "undefined": ""
+    },
+    "downloadImageEnabled": true
+  },
+  "pages": [
+    {
+      "title": "Database Schema",
+      "reports": [
+        {
+          "title": "Database Schema",
+          "query": "CALL db.schema.visualization()\n\n\n",
+          "width": 6,
+          "height": 4,
+          "x": 0,
+          "y": 0,
+          "type": "graph",
+          "selection": {
+            "area": "name",
+            "person": "name",
+            "document": "name",
+            "topic": "name",
+            "category": "name"
+          },
+          "settings": {
+            "nodePositions": {
+              "-13": [
+                -44.02649526822677,
+                24.872679015461124
+              ],
+              "-14": [
+                -5.656415184916005,
+                -40.20656403340168
+              ],
+              "-12": [
+                -48.986319365920664,
+                -36.52516280300898
+              ],
+              "-15": [
+                21.407113128506303,
+                22.005063651901086
+              ],
+              "-11": [
+                46.15645334556032,
+                -29.604290786280533
+              ]
+            },
+            "description": "Displays Database Schema",
+            "frozen": false,
+            "hideSelections": true
+          }
+        },
+        {
+          "title": "List of Categories",
+          "query": "Match (n:category)\nreturn n.Name as Category\norder by n.Name\n\n\n",
+          "width": 3,
+          "height": 2,
+          "x": 6,
+          "y": 2,
+          "type": "table",
+          "selection": {},
+          "settings": {
+            "description": "List of all categories within database."
+          }
+        },
+        {
+          "title": "List of Areas",
+          "query": "Match (n:area)\nreturn n.Name as Area\norder by n.Name\n\n",
+          "width": 3,
+          "height": 2,
+          "x": 9,
+          "y": 0,
+          "type": "table",
+          "selection": {},
+          "settings": {
+            "description": "List of all areas within database."
+          }
+        },
+        {
+          "title": "List of People",
+          "query": "Match (n:person)\nreturn n.Name as Person\norder by n.Name\n\n",
+          "width": 3,
+          "height": 2,
+          "x": 9,
+          "y": 2,
+          "type": "table",
+          "selection": {},
+          "settings": {
+            "description": "List of all people within database."
+          }
+        },
+        {
+          "title": "List of Topics",
+          "query": "Match (n:topic)\nreturn n.Name as Topic\norder by n.Name\n\n",
+          "width": 3,
+          "height": 2,
+          "x": 6,
+          "y": 0,
+          "type": "table",
+          "selection": {},
+          "settings": {
+            "description": "List of all topics within database."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Area Search",
+      "reports": [
+        {
+          "title": "Search for An Area",
+          "query": "MATCH (n:`area`) \nWHERE toLower(toString(n.`Name`)) CONTAINS toLower($input) \nRETURN DISTINCT n.`Name` as value ORDER BY size(toString(value)) ASC LIMIT 10",
+          "width": 3,
+          "height": 2,
+          "x": 0,
+          "y": 0,
+          "type": "select",
+          "selection": {},
+          "settings": {
+            "type": "Node Property",
+            "suggestionLimit": 10,
+            "description": "Enter an area filter database with.",
+            "entityType": "area",
+            "propertyType": "Name",
+            "parameterName": "neodash_area_name"
+          }
+        },
+        {
+          "title": "Possible Research Interest in Area",
+          "query": "MATCH (a:area)<-[r:possible_research_interest|research_interest] - (p:person)\nWHERE a.Name = $neodash_area_name\nRETURN r as Relationship, r.score AS Score, p.Name AS Name, p.email AS Email_Address\nORDER BY Score DESC\n \n\n\n",
+          "width": 4,
+          "height": 3,
+          "x": 3,
+          "y": 0,
+          "type": "table",
+          "selection": {},
+          "settings": {
+            "description": "Displays a list of people with a research interest in the selected area or a possible research interest in the chosen area with similarity scores in descending order."
+          }
+        },
+        {
+          "title": "Graph Representation - Research Interest",
+          "query": "MATCH (a:area)-[r:possible_research_interest|research_interest] - (p:person)\nWHERE a.Name = $neodash_area_name\nRETURN (a)-[r]-(p)",
+          "width": 5,
+          "height": 3,
+          "x": 7,
+          "y": 0,
+          "type": "graph",
+          "selection": {
+            "area": "Name",
+            "person": "Name"
+          },
+          "settings": {
+            "type": "Relationship Property",
+            "nodePositions": {},
+            "relWidthProp": "score",
+            "relColorProp": "score",
+            "description": "Displays data from possible research interest table in graph format."
+          }
+        },
+        {
+          "title": "Previous Collaborations",
+          "query": "MATCH (a:area)-[r] - (p:person)-[r2:author_of]->(d:document)\nWHERE a.Name = $neodash_area_name \nRETURN (p)-[r2]-(d)\n",
+          "width": 5,
+          "height": 2,
+          "x": 7,
+          "y": 6,
+          "type": "graph",
+          "selection": {
+            "person": "Name",
+            "document": "(label)"
+          },
+          "settings": {
+            "type": "Relationship Property",
+            "nodePositions": {},
+            "frozen": false,
+            "relColorProp": "score",
+            "relWidthProp": "score"
+          }
+        },
+        {
+          "title": "Area List",
+          "query": "Match (n:area)\nreturn n.Name as Area\norder by n.Name\n\n",
+          "width": 3,
+          "height": 2,
+          "x": 0,
+          "y": 2,
+          "type": "table",
+          "selection": {},
+          "settings": {
+            "description": "Displays list of all areas within database."
+          }
+        },
+        {
+          "title": "Possible Expert In Area",
+          "query": "MATCH (a:area)-[r:possible_expert|expert] - (p:person)\nWHERE a.Name = $neodash_area_name\nRETURN r as Relationship, r.score AS Score, p.Name AS Name, p.email AS Email_Address\nORDER BY Score DESC\n\n\n",
+          "width": 4,
+          "height": 3,
+          "x": 3,
+          "y": 3,
+          "type": "table",
+          "selection": {},
+          "settings": {
+            "description": "Displays a list of people who are experts in the selected area or are possible experts in that chosen area with similarity scores in descending order."
+          }
+        },
+        {
+          "title": "Graph Representation - Experts",
+          "query": "MATCH (a:area)-[r:possible_expert|expert] - (p:person)\nWHERE a.Name = $neodash_area_name\nRETURN (a)-[r]-(p)",
+          "width": 5,
+          "height": 3,
+          "x": 7,
+          "y": 3,
+          "type": "graph",
+          "selection": {
+            "area": "Name",
+            "person": "Name"
+          },
+          "settings": {
+            "type": "Relationship Property",
+            "nodePositions": {},
+            "relWidthProp": "score",
+            "relColorProp": "score",
+            "description": "Displays data from possible expert table in graph format."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Category Search",
+      "reports": [
+        {
+          "title": "Choose a category",
+          "query": "MATCH (n:`category`) \nWHERE toLower(toString(n.`Name`)) CONTAINS toLower($input) \nRETURN DISTINCT n.`Name` as value ORDER BY size(toString(value)) ASC LIMIT 10",
+          "width": 3,
+          "height": 2,
+          "x": 0,
+          "y": 0,
+          "type": "select",
+          "selection": {},
+          "settings": {
+            "nodePositions": {},
+            "type": "Node Property",
+            "suggestionLimit": 10,
+            "description": "Enter a category filter database with.\n\n",
+            "entityType": "category",
+            "propertyType": "Name",
+            "parameterName": "neodash_category_name"
+          }
+        },
+        {
+          "title": "Graph Representation - Research Interest",
+          "query": "MATCH path = (n:category)-[r:possible_research_interest|research_interest]-(p:person)\nWhere n.Name = $neodash_category_name\nreturn path",
+          "width": 5,
+          "height": 3,
+          "x": 7,
+          "y": 0,
+          "type": "graph",
+          "selection": {
+            "category": "Name",
+            "person": "Name"
+          },
+          "settings": {
+            "nodePositions": {},
+            "frozen": false,
+            "relColorProp": "score",
+            "relWidthProp": "score",
+            "description": "Displays data from possible research interest table in graph format."
+          }
+        },
+        {
+          "title": "Category List",
+          "query": "Match (n:category)\nreturn n.Name as Category\norder by n.Name\n",
+          "width": 3,
+          "height": 3,
+          "x": 0,
+          "y": 2,
+          "type": "table",
+          "selection": {},
+          "settings": {
+            "description": "List of all available categories"
+          }
+        },
+        {
+          "title": "Possible Research Interest Category",
+          "query": "MATCH (n:category)-[r:possible_research_interest|research_interest]-(p:person)\nWHERE n.Name = $neodash_category_name\nRETURN r as Relationship, r.score AS Score, p.Name AS Name, p.email as Email\nORDER BY r.score DESC\n\n\n\n",
+          "width": 4,
+          "height": 3,
+          "x": 3,
+          "y": 0,
+          "type": "table",
+          "selection": {},
+          "settings": {
+            "description": "Displays a list of people with a research interest in the selected category or a possible research interest in the chosen category with similarity scores in descending order."
+          }
+        },
+        {
+          "title": "Possible Expert In Categroy",
+          "query": "MATCH (n:category)-[r:possible_expert|expert]-(p:person)\nWHERE n.Name = $neodash_category_name\nRETURN r AS Relationship, r.score AS Score, p.Name AS Name, p.email as Email\nORDER BY r.score DESC\n\n\n\n",
+          "width": 4,
+          "height": 3,
+          "x": 3,
+          "y": 3,
+          "type": "table",
+          "selection": {},
+          "settings": {
+            "description": "Displays a list of people who are experts in the selected category or are possible experts in that chosen category with similarity scores in descending order."
+          }
+        },
+        {
+          "title": "Graph Representation - Experts",
+          "query": "MATCH path = (n:category)-[r:possible_expert|expert]-(p:person)\nWhere n.Name = $neodash_category_name\nreturn path",
+          "width": 5,
+          "height": 3,
+          "x": 7,
+          "y": 3,
+          "type": "graph",
+          "selection": {
+            "category": "Name",
+            "person": "Name"
+          },
+          "settings": {
+            "nodePositions": {},
+            "frozen": false,
+            "relColorProp": "score",
+            "relWidthProp": "score",
+            "description": "Displays data from possible expert table in graph format."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Name Search",
+      "reports": [
+        {
+          "title": "Search for a name below",
+          "query": "MATCH (n:`person`) \nWHERE toLower(toString(n.`Name`)) CONTAINS toLower($input) \nRETURN DISTINCT n.`Name` as value ORDER BY size(toString(value)) ASC LIMIT 5",
+          "width": 3,
+          "height": 2,
+          "x": 0,
+          "y": 0,
+          "type": "select",
+          "selection": {},
+          "settings": {
+            "type": "Node Property",
+            "description": "Search for a faculty member's name to view their information, cosine similarity scores of associated areas, and associated categories, documents, & areas",
+            "entityType": "person",
+            "propertyType": "Name",
+            "parameterName": "neodash_person_name"
+          }
+        },
+        {
+          "title": "Person Information",
+          "query": "MATCH (p:person)\nWhere p.Name = $neodash_person_name\nReturn p.Name as Name, p.phone as Phone_Number, p.email as Email, p.personal_link as Personal_Link, p.title as Title \n\n",
+          "width": 6,
+          "height": 2,
+          "x": 3,
+          "y": 0,
+          "type": "table",
+          "selection": {},
+          "settings": {
+            "nodePositions": {},
+            "description": "Displays the selected person's name, phone number, email, personal link, and title if the information is in the database (N/A otherwise). "
+          }
+        },
+        {
+          "title": "Persons' Possible Research Interests",
+          "query": "MATCH (p:person)-[r:possible_research_interest|research_interest]-(a)\nWHERE p.Name=$neodash_person_name\nRETURN r as Relationship, r.score AS Score, a.Name AS Subject_Name, a AS Subject_Type\nORDER BY r.score DESC\n",
+          "width": 5,
+          "height": 2,
+          "x": 0,
+          "y": 2,
+          "type": "table",
+          "selection": {},
+          "settings": {
+            "nodePositions": {},
+            "description": "Displays a list of selected persons' potential research interests from either areas or categories sorted by similarity scores in descending order."
+          }
+        },
+        {
+          "title": "Area Interest Association",
+          "query": "MATCH (p:person)-[r]->(a:area)\nWHERE p.Name=$neodash_person_name\nRETURN (p)-[r]-(a)\n",
+          "width": 3,
+          "height": 2,
+          "x": 5,
+          "y": 2,
+          "type": "graph",
+          "selection": {
+            "person": "Name",
+            "area": "Name"
+          },
+          "settings": {
+            "nodePositions": {},
+            "nodeColorScheme": "category10",
+            "relColorProp": "score",
+            "relWidthProp": "score",
+            "description": "Displays persons' possible research interests in areas in graph format."
+          }
+        },
+        {
+          "title": "Category Interest Association",
+          "query": "MATCH (p:person)-[r]->(a:category)\nWHERE p.Name=$neodash_person_name\nRETURN (p)-[r]-(a)\n\n",
+          "width": 3,
+          "height": 2,
+          "x": 8,
+          "y": 2,
+          "type": "graph",
+          "selection": {
+            "person": "Name",
+            "category": "Name"
+          },
+          "settings": {
+            "nodePositions": {},
+            "relColorProp": "score",
+            "relWidthProp": "score",
+            "description": "Displays persons' possible research interests in categories in graph format."
+          }
+        },
+        {
+          "title": "Persons' Possible Expertise",
+          "query": "MATCH (p:person)-[r:possible_expert|expert]-(a)\nWHERE p.Name=$neodash_person_name\nRETURN r as Relationship, r.score AS Score, a.Name AS Subject_Name, a AS Subject_Type\nORDER BY r.score DESC\n\n",
+          "width": 5,
+          "height": 2,
+          "x": 0,
+          "y": 4,
+          "type": "table",
+          "selection": {},
+          "settings": {
+            "description": "Displays a list of selected persons' potential expertise from either areas or categories sorted by similarity scores in descending order."
+          }
+        },
+        {
+          "title": "Area Expert Association",
+          "query": "MATCH (p:person)<-[r]-(a:area)\nWHERE p.Name=$neodash_person_name\nRETURN (p)-[r]-(a)\n",
+          "width": 3,
+          "height": 2,
+          "x": 5,
+          "y": 4,
+          "type": "graph",
+          "selection": {
+            "person": "Name",
+            "area": "Name"
+          },
+          "settings": {
+            "nodePositions": {},
+            "nodeColorScheme": "category10",
+            "relColorProp": "score",
+            "relWidthProp": "score",
+            "description": "Displays persons' possible expertise in areas in graph format."
+          }
+        },
+        {
+          "title": "Category Expert Association",
+          "query": "MATCH (p:person)<-[r]-(a:category)\nWHERE p.Name=$neodash_person_name\nRETURN (p)-[r]-(a)\n\n",
+          "width": 3,
+          "height": 2,
+          "x": 8,
+          "y": 4,
+          "type": "graph",
+          "selection": {
+            "person": "Name",
+            "category": "(label)"
+          },
+          "settings": {
+            "nodePositions": {},
+            "relColorProp": "score",
+            "relWidthProp": "score",
+            "description": "Displays persons' possible expertise in categories in graph format."
+          }
+        }
+      ]
+    },
+    {
+      "title": "Document Search",
+      "reports": [
+        {
+          "title": "Document Select",
+          "query": "MATCH (n:`document`) \nWHERE toLower(toString(n.`ID`)) CONTAINS toLower($input) \nRETURN DISTINCT n.`ID` as value ORDER BY size(toString(value)) ASC LIMIT 10",
+          "width": 2,
+          "height": 1,
+          "x": 0,
+          "y": 6,
+          "type": "select",
+          "selection": {},
+          "settings": {
+            "type": "Node Property",
+            "suggestionLimit": 10,
+            "helperText": "Enter Document_ID here",
+            "description": "Enter Document ID of document you want to observe.",
+            "entityType": "document",
+            "propertyType": "ID",
+            "parameterName": "neodash_document_id"
+          }
+        },
+        {
+          "title": "Name",
+          "query": "RETURN $neodash_person_name\n\n\n",
+          "width": 2,
+          "height": 2,
+          "x": 0,
+          "y": 4,
+          "type": "value",
+          "selection": {},
+          "settings": {
+            "fontSize": 18,
+            "description": "Displays current name selected to filter name table and name knowledge graph."
+          }
+        },
+        {
+          "title": "Category",
+          "query": "RETURN $neodash_category_name\n\n\n",
+          "width": 2,
+          "height": 2,
+          "x": 0,
+          "y": 0,
+          "type": "value",
+          "selection": {},
+          "settings": {
+            "fontSize": 18,
+            "description": "Displays current category selected to filter category table and category knowledge graph."
+          }
+        },
+        {
+          "title": "Area",
+          "query": "RETURN $neodash_area_name\n\n\n",
+          "width": 2,
+          "height": 2,
+          "x": 0,
+          "y": 2,
+          "type": "value",
+          "selection": {},
+          "settings": {
+            "fontSize": 18,
+            "description": "Displays current area selected to filter area table and area knowledge graph."
+          }
+        },
+        {
+          "title": "Category Table",
+          "query": "MATCH (c:category)-[r:possible_document_subject]-(d:document)--(p:person)\nWHERE c.Name = $neodash_category_name\nRETURN r.score as Score, d.Name as Document_Name, d.ID as Document_ID, p.Name as Person\nOrder by Score DESC\n\n",
+          "width": 5,
+          "height": 2,
+          "x": 2,
+          "y": 0,
+          "type": "table",
+          "selection": {},
+          "settings": {
+            "nodePositions": {},
+            "description": "Displays current category relationships to documents and the document's author in a table format listed in descending order by score."
+          }
+        },
+        {
+          "title": "Category Knowledge Graph",
+          "query": "MATCH path = (c:category)-[r:possible_document_subject]-(d:document)--(p:person)\nWHERE c.Name = $neodash_category_name\nReturn path\nOrder by r.score DESC\nLimit 500\n\n\n",
+          "width": 5,
+          "height": 2,
+          "x": 7,
+          "y": 0,
+          "type": "graph",
+          "selection": {
+            "category": "Name",
+            "document": "ID",
+            "person": "Name"
+          },
+          "settings": {
+            "nodePositions": {},
+            "hideSelections": false,
+            "description": "Displays current category relationships to documents and the document's author in a knowledge graph format.",
+            "relColorProp": "score",
+            "relWidthProp": "score"
+          }
+        },
+        {
+          "title": "Area Table",
+          "query": "MATCH (a:area)-[r:possible_document_subject]-(d:document)--(p:person)\nWHERE a.Name = $neodash_area_name\nRETURN r.score as Score, d.Name as Document_Name, d.ID as Document_ID, p.Name as Person\nOrder by Score DESC\n\n\n",
+          "width": 5,
+          "height": 2,
+          "x": 2,
+          "y": 2,
+          "type": "table",
+          "selection": {},
+          "settings": {
+            "nodePositions": {},
+            "description": "Displays current area relationships to documents and the document's author in a table format listed in descending order by score."
+          }
+        },
+        {
+          "title": "Area Knowledge Graph",
+          "query": "MATCH path = (a:area)-[r:possible_document_subject]-(d:document)--(p:person)\nWHERE a.Name = $neodash_area_name\nReturn path\nOrder by r.score DESC\nLimit 500\n\n\n",
+          "width": 5,
+          "height": 2,
+          "x": 7,
+          "y": 2,
+          "type": "graph",
+          "selection": {
+            "area": "Name",
+            "document": "ID",
+            "person": "Name"
+          },
+          "settings": {
+            "nodePositions": {},
+            "hideSelections": false,
+            "description": "Displays current area relationships to documents and the document's author in a knowledge graph format.",
+            "relColorProp": "score",
+            "relWidthProp": "score"
+          }
+        },
+        {
+          "title": "Document Knowledge Graph",
+          "query": "MATCH path = (a)-[r:possible_document_subject]-(d:document)--(p:person)\nWHERE d.ID = $neodash_document_id\nReturn path\n\n\n\n",
+          "width": 5,
+          "height": 2,
+          "x": 7,
+          "y": 6,
+          "type": "graph",
+          "selection": {
+            "category": "Name",
+            "document": "ID",
+            "person": "Name"
+          },
+          "settings": {
+            "nodePositions": {},
+            "relationshipParticles": false,
+            "hideSelections": false,
+            "description": "Displays relationships of selected document in knowledge graph format.",
+            "relColorProp": "score",
+            "relWidthProp": "score"
+          }
+        },
+        {
+          "title": "Document Info",
+          "query": "MATCH (d:document)\nWhere d.ID = $neodash_document_id\nReturn d\n\n\n",
+          "width": 2,
+          "height": 1,
+          "x": 0,
+          "y": 7,
+          "type": "value",
+          "selection": {},
+          "settings": {
+            "nodePositions": {},
+            "description": "Displays current document object selected to filter Document Possible Subjects table and Document Knowledge Graph."
+          }
+        },
+        {
+          "title": "Name Table",
+          "query": "MATCH (a)-[r:possible_document_subject]-(d:document)--(p:person)\nWHERE p.Name = $neodash_person_name\nRETURN a as Type, a.Name as Subject, r.score as Score, d.Name as Document_Name, d.ID as Document_ID\nOrder by Score DESC\n\n\n",
+          "width": 5,
+          "height": 2,
+          "x": 2,
+          "y": 4,
+          "type": "table",
+          "selection": {},
+          "settings": {
+            "nodePositions": {},
+            "description": "Display all documents the current person is an author of and the possible document subjects of each document in a table format listed in descending order by score."
+          }
+        },
+        {
+          "title": "Document Possible Subjects",
+          "query": "MATCH (a)-[r:possible_document_subject]-(d:document)--(p:person)\nWHERE d.ID = $neodash_document_id\nReturn a as Type, a.Name as Subject_Name, r.score as Score, p.Name as Person, d.type as Doc_Type, d.date as Publishing_Date\nOrder by Score DESC\n\n\n",
+          "width": 5,
+          "height": 2,
+          "x": 2,
+          "y": 6,
+          "type": "table",
+          "selection": {},
+          "settings": {
+            "nodePositions": {},
+            "description": "Displays relationships of selected document in table format."
+          }
+        },
+        {
+          "title": "Name Knowledge Graph",
+          "query": "MATCH path = (a)-[r:possible_document_subject]-(d:document)--(p:person)\nWHERE p.Name = $neodash_person_name\nReturn path\n\n\n",
+          "width": 5,
+          "height": 2,
+          "x": 7,
+          "y": 4,
+          "type": "graph",
+          "selection": {
+            "category": "Name",
+            "document": "ID",
+            "person": "Name",
+            "area": "Name"
+          },
+          "settings": {
+            "nodePositions": {},
+            "hideSelections": false,
+            "description": "Display all documents the current person is an author of and the possible document subjects in a knowledge graph format.",
+            "relColorProp": "score",
+            "relWidthProp": "score"
+          }
+        }
+      ]
+    }
+  ],
+  "parameters": {},
+  "extensions": {
+    "advanced-charts": true,
+    "styling": true
+  }
+}
