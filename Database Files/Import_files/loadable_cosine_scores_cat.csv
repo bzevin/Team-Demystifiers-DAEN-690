@@ -1,0 +1,2235 @@
+,Name,similar_categories,category_score
+0,abolfazl safikhani,modeling,0.323252197
+0,abolfazl safikhani,musculoskeletal modeling,0.315320028
+0,abolfazl safikhani,probabilistic modeling,0.309612133
+0,abolfazl safikhani,time series modeling,0.30326629
+0,abolfazl safikhani,recycled materials geo environmental modeling,0.30130157
+0,abolfazl safikhani,geometric modeling,0.301209224
+0,abolfazl safikhani,climate weather modeling remote sensing,0.287350142
+1,aditya johri,results clinical studies,0.276995502
+1,aditya johri,bioengineering,0.276432252
+1,aditya johri,engineering computing student learning methods effectiveness,0.272210758
+1,aditya johri,distance computer based learning,0.260538371
+1,aditya johri,computing education research,0.232461056
+1,aditya johri,information technology,0.228403675
+1,aditya johri,ultrasound imaging devices,0.217499019
+1,aditya johri,analytic hierarchy process optimization,0.216509277
+1,aditya johri,knowledge information engineering,0.214945722
+2,ahmed bin zaman,structural stress,0.338787043
+2,ahmed bin zaman,structural health monitoring inspection,0.326000395
+2,ahmed bin zaman,dependent complex structured data ,0.240451258
+2,ahmed bin zaman,coastal building resilience,0.143241535
+2,ahmed bin zaman,predictive analytics,0.139816362
+2,ahmed bin zaman,building material properties structures,0.133169968
+2,ahmed bin zaman,particle filtering,0.130288755
+2,ahmed bin zaman,system level optimization applied ,0.118275631
+2,ahmed bin zaman,fabric synthesis,0.116356334
+3,alexander brodsky,model based systems engineering,0.256068511
+3,alexander brodsky,network modeling,0.22484437
+3,alexander brodsky,bio metrics forensic science,0.224361157
+3,alexander brodsky,subsystems,0.218730292
+3,alexander brodsky,recycled materials geo environmental modeling,0.216663014
+3,alexander brodsky,systems modeling  analysis,0.211083659
+3,alexander brodsky,procurement economic models,0.20535353
+3,alexander brodsky,modeling performance,0.203737424
+3,alexander brodsky,analytic hierarchy process optimization,0.202294033
+3,alexander brodsky,probabilistic modeling,0.198669259
+4,alexander levis,network modeling,0.315163821
+4,alexander levis,model based systems engineering,0.313822808
+4,alexander levis,subsystems,0.310454697
+4,alexander levis,recycled materials geo environmental modeling,0.292411884
+4,alexander levis,procurement economic models,0.285093485
+4,alexander levis,analytic hierarchy process optimization,0.281571441
+4,alexander levis,geometric modeling,0.274021462
+4,alexander levis,modeling performance,0.271535805
+5,ali beheshti,hydraulic land surface modeling,0.242910258
+5,ali beheshti,land surface modeling,0.236102828
+5,ali beheshti,nanoindentation scratch,0.203690189
+5,ali beheshti,model based systems engineering,0.197918911
+5,ali beheshti,indentation scratch,0.196045473
+5,ali beheshti,analytic hierarchy process optimization,0.194171099
+5,ali beheshti,systems modeling  analysis,0.183168895
+5,ali beheshti,land data assimilation systems,0.182345232
+5,ali beheshti,system level optimization applied ,0.173218824
+5,ali beheshti,bio nano sensors wearable,0.171071169
+6,ali k raz,subsystems,0.568923056
+6,ali k raz,neural networks,0.350391689
+6,ali k raz,neuroscience,0.342487835
+6,ali k raz,network forensics,0.293868443
+6,ali k raz,wireless networks,0.278283564
+6,ali k raz,neuroinformatics computational neuroanatomy,0.276425892
+6,ali k raz,computational neuroanatomy,0.276425892
+6,ali k raz,network architecture,0.273751503
+6,ali k raz,bio metrics forensic science,0.268815873
+6,ali k raz,cognitive networks,0.268669562
+7,alok berry,computing education research,0.109268345
+7,alok berry,electronics,0.108147614
+7,alok berry,engineering education,0.105890579
+7,alok berry,engineering education research,0.101742275
+7,alok berry,information technology,0.094649705
+7,alok berry,neural interfaces,0.093658581
+7,alok berry,computer science education,0.090590994
+7,alok berry,ai nlp programming,0.090371285
+7,alok berry,cs education,0.090184888
+8,amarda shehu,structural stress,0.268677605
+8,amarda shehu,structural health monitoring inspection,0.260892571
+8,amarda shehu,systems modeling  analysis,0.224829797
+8,amarda shehu,dependent complex structured data ,0.222375889
+8,amarda shehu,model based systems engineering,0.195011581
+8,amarda shehu,system analysis simulation,0.188282373
+8,amarda shehu,air pollution modeling policy analysis,0.18408036
+8,amarda shehu,modeling health outcomes statistical analysis including longitudinal,0.18133883
+8,amarda shehu,system level optimization applied ,0.180144185
+9,anand vidyashankar,bayesian statistics,0.186614588
+9,anand vidyashankar,model based systems engineering,0.184390311
+9,anand vidyashankar,analytic hierarchy process optimization,0.179667025
+9,anand vidyashankar,evidence based reasoning,0.176634458
+9,anand vidyashankar,bio metrics forensic science,0.168693062
+9,anand vidyashankar,systems modeling  analysis,0.167334654
+9,anand vidyashankar,high dimensional statistics,0.166342088
+9,anand vidyashankar,functional electrical stimulation,0.166093742
+9,anand vidyashankar,substance use disorders,0.165480854
+9,anand vidyashankar,google,0.163797936
+10,andrew richardson,leadership,0.151957668
+10,andrew richardson,data driven biomechanical simulation,0.14834827
+10,andrew richardson,model based systems engineering,0.125038922
+10,andrew richardson,information technology,0.124125703
+10,andrew richardson,data driven control,0.118073228
+10,andrew richardson,assistive technology,0.1148692
+10,andrew richardson,system enterprise architecture design,0.10630084
+10,andrew richardson,hardware software co design neural archi,0.106066802
+10,andrew richardson,operating systems,0.105888087
+10,andrew richardson,computer games technology,0.101815469
+11,andrzej manitius,subsystems,0.209274032
+11,andrzej manitius,gpu computing,0.196003089
+11,andrzej manitius,ubiquitous computing,0.186436126
+11,andrzej manitius,semantic computing,0.180863329
+11,andrzej manitius,computing networking theory,0.164083933
+11,andrzej manitius,computing components,0.162755297
+11,andrzej manitius,neural networks,0.161173242
+12,angelos stavrou,next g communications networks,0.199862121
+12,angelos stavrou,data mining big data analysis,0.175447128
+12,angelos stavrou,subsystems,0.171281719
+12,angelos stavrou,analytic hierarchy process optimization,0.169856928
+12,angelos stavrou,bayesian statistics,0.167821126
+12,angelos stavrou,bio metrics forensic science,0.164560061
+12,angelos stavrou,wireless optical communications,0.162960495
+12,angelos stavrou,wireless communications  networks,0.154313019
+12,angelos stavrou,electrical based transport,0.153542319
+13,antonios anastasopoulos,linguistics,0.426000818
+13,antonios anastasopoulos,computational linguistics,0.389751146
+13,antonios anastasopoulos,recycled materials geo environmental modeling,0.193288677
+13,antonios anastasopoulos,network modeling,0.187801381
+13,antonios anastasopoulos,computer simulation modeling,0.179978684
+13,antonios anastasopoulos,modeling,0.176086689
+13,antonios anastasopoulos,modeling performance,0.173910384
+13,antonios anastasopoulos,musculoskeletal modeling,0.173667321
+14,ariela sofer,model based systems engineering,0.256931721
+14,ariela sofer,analytic hierarchy process optimization,0.218619391
+14,ariela sofer,bayesian statistics,0.21785297
+14,ariela sofer,bio metrics forensic science,0.212992868
+14,ariela sofer,systems modeling  analysis,0.207354977
+14,ariela sofer,functional electrical stimulation,0.19468843
+14,ariela sofer,evidence based reasoning,0.194137206
+14,ariela sofer,ubiquitous computing,0.192523877
+14,ariela sofer,gpu computing,0.185442068
+15,arthur art pyster,subsystems,0.320970369
+15,arthur art pyster,neural networks,0.188768335
+15,arthur art pyster,neuroscience,0.183449846
+15,arthur art pyster,neuroinformatics computational neuroanatomy,0.149786172
+15,arthur art pyster,computational neuroanatomy,0.149786172
+15,arthur art pyster,wireless networks,0.147087101
+15,arthur art pyster,cognitive networks,0.143909899
+15,arthur art pyster,wireless communications  networks,0.139817281
+15,arthur art pyster,tribology,0.139771312
+15,arthur art pyster,network science,0.138984247
+16,Ã¶zlem uzuner,subsystems,0.248336055
+16,Ã¶zlem uzuner,analytic hierarchy process optimization,0.213559216
+16,Ã¶zlem uzuner,bio metrics forensic science,0.199055779
+16,Ã¶zlem uzuner,intelligence analysis,0.192814857
+16,Ã¶zlem uzuner,next g communications networks,0.189159226
+16,Ã¶zlem uzuner,neuroscience,0.185718879
+16,Ã¶zlem uzuner,intelligence strategic analysis,0.183441061
+16,Ã¶zlem uzuner,wireless communications  networks,0.180049847
+16,Ã¶zlem uzuner,network forensics,0.17243565
+17,ben seiyon lee,modeling,0.316773546
+17,ben seiyon lee,geometric modeling,0.30906958
+17,ben seiyon lee,musculoskeletal modeling,0.308013132
+17,ben seiyon lee,probabilistic modeling,0.299490007
+17,ben seiyon lee,network modeling,0.287372267
+17,ben seiyon lee,multi formalism modeling,0.273597278
+17,ben seiyon lee,recycled materials geo environmental modeling,0.270442875
+18,bernard schmidt,ai nlp programming,0.253949396
+18,bernard schmidt,integer programming optimization,0.219537517
+18,bernard schmidt,neuroinformatics computational neuroanatomy,0.181071492
+18,bernard schmidt,computational neuroanatomy,0.181071492
+18,bernard schmidt,computational neuroscience,0.167639627
+18,bernard schmidt,neural interfaces,0.1600461
+18,bernard schmidt,gpu computing,0.152630091
+18,bernard schmidt,ubiquitous computing,0.145180176
+19,bernd peter paris,wireless networks,0.273297955
+19,bernd peter paris,wireless communications  networks,0.269282461
+19,bernd peter paris,wireless,0.250183054
+19,bernd peter paris,wireless networking,0.240655045
+19,bernd peter paris,wireless optical communications,0.238823789
+19,bernd peter paris,wireless communications,0.23776922
+19,bernd peter paris,network forensics,0.21267646
+19,bernd peter paris,google,0.211517891
+19,bernd peter paris,ai ml wireless,0.209521532
+19,bernd peter paris,subsystems,0.205951631
+20,bijan jabbari,internet,0.478024353
+20,bijan jabbari,internet measurements,0.453604676
+20,bijan jabbari,internet things,0.332099539
+20,bijan jabbari,internet of things,0.332099539
+20,bijan jabbari,semantic web,0.224317201
+20,bijan jabbari,web applications,0.209944301
+20,bijan jabbari,model based systems engineering,0.1897395
+20,bijan jabbari,network web security,0.189599291
+20,bijan jabbari,web intelligence,0.187593085
+20,bijan jabbari,world wide web,0.178152581
+21,binqian yin,assistive technology,0.211829636
+21,binqian yin,neural interfaces,0.184900065
+21,binqian yin,bioengineering,0.184900065
+21,binqian yin,information technology,0.163499643
+21,binqian yin,hardware,0.160128154
+21,binqian yin,software resilience,0.155347127
+21,binqian yin,ai nlp programming,0.148675258
+21,binqian yin,computer games technology,0.144841365
+22,bo han,internet,0.264072038
+22,bo han,internet measurements,0.251858184
+22,bo han,internet things,0.192701513
+22,bo han,internet of things,0.192701513
+22,bo han,wireless communications  networks,0.162541804
+22,bo han,wireless networks,0.151854995
+22,bo han,wireless communications,0.150771176
+22,bo han,wireless optical communications,0.149171604
+22,bo han,bio metrics forensic science,0.147030523
+22,bo han,network web security,0.146164007
+23,bo liu,computing education research,0.189768029
+23,bo liu,urban computing,0.18924453
+23,bo liu,computer science education,0.188103472
+23,bo liu,engineering education research,0.169915064
+23,bo liu,engineering education,0.167183464
+23,bo liu,integer programming optimization,0.152127766
+23,bo liu,distance education,0.147931584
+23,bo liu,cs education,0.146183794
+23,bo liu,curricular development enhanced educational opportunities,0.13560626
+24,brett hunter,devices,0.156173762
+24,brett hunter,devices,0.156173762
+24,brett hunter,collecting analyzing data wearable devices,0.120526106
+24,brett hunter,ultrasound imaging devices,0.116325292
+24,brett hunter,safety security,0.110431526
+24,brett hunter,ar vr systems security,0.104764544
+24,brett hunter,auction design testing,0.104120067
+24,brett hunter,spatio temporal data,0.10254356
+25,brian hrolenok,subsystems,0.222222222
+25,brian hrolenok,computer networks architectures,0.181848242
+25,brian hrolenok,neuroinformatics computational neuroanatomy,0.166666667
+25,brian hrolenok,computational neuroanatomy,0.166666667
+25,brian hrolenok,network architecture,0.166019415
+25,brian hrolenok,neural interfaces,0.15713484
+25,brian hrolenok,computational neuroscience,0.15430335
+25,brian hrolenok,computer architecture,0.142133811
+25,brian hrolenok,neural networks,0.140028008
+25,brian hrolenok,neuroscience,0.136082763
+26,brian mark,internet,0.388112083
+26,brian mark,internet measurements,0.382954836
+26,brian mark,internet things,0.260372439
+26,brian mark,internet of things,0.260372439
+26,brian mark,web applications,0.216886686
+26,brian mark,model based systems engineering,0.201175627
+26,brian mark,semantic web,0.192324174
+26,brian mark,network web security,0.185273702
+26,brian mark,analytic hierarchy process optimization,0.185168239
+26,brian mark,evidence based reasoning,0.183733918
+27,brittany johnson matthews,creative tools,0.29950517
+27,brittany johnson matthews,analytic hierarchy process optimization,0.196878101
+27,brittany johnson matthews,new clinical trial methods,0.187025536
+27,brittany johnson matthews,hardware,0.185472524
+27,brittany johnson matthews,bioengineering,0.177463522
+27,brittany johnson matthews,diagnostic therapeutic applications ,0.176193967
+27,brittany johnson matthews,information technology,0.174105247
+27,brittany johnson matthews,substance use disorders,0.171352408
+27,brittany johnson matthews,google,0.170367392
+27,brittany johnson matthews,cryptographic hardware,0.169119164
+28,burak tanyu,analytic hierarchy process optimization,0.274049359
+28,burak tanyu,functional electrical stimulation,0.247302871
+28,burak tanyu,software testing,0.244459823
+28,burak tanyu,evidence based reasoning,0.227778986
+28,burak tanyu,substance use disorders,0.226014915
+28,burak tanyu,hydrology,0.222928113
+28,burak tanyu,digital forensics analysis,0.222141934
+28,burak tanyu,new clinical trial methods,0.221488077
+28,burak tanyu,electrical based transport,0.220540067
+28,burak tanyu,ultrasound imaging devices,0.218246718
+29,cameron nowzari,internet measurements,0.278333306
+29,cameron nowzari,internet,0.275744203
+29,cameron nowzari,time series modeling,0.250762536
+29,cameron nowzari,internet things,0.219206665
+29,cameron nowzari,internet of things,0.219206665
+29,cameron nowzari,real time embedded systems,0.21323139
+29,cameron nowzari,time series,0.2089377
+29,cameron nowzari,distributed control,0.202588357
+29,cameron nowzari,real time,0.200320506
+29,cameron nowzari,climate weather modeling remote sensing,0.193208007
+30,carlotta domeniconi,bayesian statistics,0.255918973
+30,carlotta domeniconi,model based systems engineering,0.22881619
+30,carlotta domeniconi,statistics,0.224004368
+30,carlotta domeniconi,functional electrical stimulation,0.219244657
+30,carlotta domeniconi,spatial statistics,0.219066304
+30,carlotta domeniconi,analytic hierarchy process optimization,0.217806197
+30,carlotta domeniconi,computational statistics,0.214616167
+30,carlotta domeniconi,distance computer based learning,0.212772005
+30,carlotta domeniconi,systems modeling  analysis,0.203788035
+31,caroline hoemann,bone,0.214166266
+31,caroline hoemann,analytic hierarchy process optimization,0.139766292
+31,caroline hoemann,hydraulic land surface modeling,0.139663012
+31,caroline hoemann,membrane biology,0.136586238
+31,caroline hoemann,articular cartilage,0.136480483
+31,caroline hoemann,model based systems engineering,0.133669327
+31,caroline hoemann,systems modeling  analysis,0.133145884
+31,caroline hoemann,land surface modeling,0.132461465
+31,caroline hoemann,air pollution modeling policy analysis,0.122389772
+31,caroline hoemann,digital forensics analysis,0.119811115
+32,celso moller ferreira,recycled materials geo environmental modeling,0.164982138
+32,celso moller ferreira,hydraulic land surface modeling,0.157998672
+32,celso moller ferreira,curricular development enhanced educational opportunities,0.151868173
+32,celso moller ferreira,climate weather modeling remote sensing,0.148829472
+32,celso moller ferreira,model based systems engineering,0.146125295
+32,celso moller ferreira,network modeling,0.145551029
+32,celso moller ferreira,hydrology,0.144006077
+32,celso moller ferreira,analytic hierarchy process optimization,0.143938988
+32,celso moller ferreira,land surface modeling,0.143695135
+33,charles white,memory,0.143019388
+33,charles white,cyber physical,0.1161895
+33,charles white,computational experimental neuroplasticity memory,0.115044748
+33,charles white,computer vision,0.11405319
+33,charles white,memory systems,0.102486449
+33,charles white,procurement economic models,0.099176941
+33,charles white,computer vision pattern recognition,0.095320625
+33,charles white,cyber physical systems,0.092051015
+33,charles white,cyber physical system,0.092051015
+33,charles white,physical layer security,0.090971765
+34,christine alonzo yee,hardware support security,0.112587994
+34,christine alonzo yee,decision support,0.104046104
+34,christine alonzo yee,decision support systems,0.099073966
+34,christine alonzo yee,acquisition decision support,0.093260303
+34,christine alonzo yee,engineering education,0.070428659
+34,christine alonzo yee,neural engineering,0.068980283
+34,christine alonzo yee,subsystems,0.068518871
+34,christine alonzo yee,power engineering,0.068518871
+34,christine alonzo yee,network web security,0.066136756
+35,christopher a carr,computing education research,0.136557748
+35,christopher a carr,decision support systems,0.128598276
+35,christopher a carr,hardware support security,0.120888202
+35,christopher a carr,decision support,0.120752489
+35,christopher a carr,distance education,0.111242438
+35,christopher a carr,engineering education,0.11028033
+35,christopher a carr,acquisition decision support,0.108234842
+35,christopher a carr,computer science education,0.108069619
+35,christopher a carr,basal ganglia,0.106202841
+36,chun hung chen,model based systems engineering,0.174011508
+36,chun hung chen,systems modeling  analysis,0.16729795
+36,chun hung chen,analytic hierarchy process optimization,0.162403301
+36,chun hung chen,google,0.158718707
+36,chun hung chen,data mining big data analysis,0.155618708
+36,chun hung chen,system level optimization applied ,0.152688607
+36,chun hung chen,web applications,0.151320657
+36,chun hung chen,internet measurements,0.14728242
+36,chun hung chen,ultrasound imaging devices,0.146401725
+36,chun hung chen,air pollution modeling policy analysis,0.144287198
+37,clifton sutton,bayesian statistics,0.167037911
+37,clifton sutton,high dimensional statistics,0.144513089
+37,clifton sutton,systems modeling  analysis,0.141302383
+37,clifton sutton,digital forensics analysis,0.140080866
+37,clifton sutton,air pollution modeling policy analysis,0.125864815
+37,clifton sutton,high dimensional data,0.123895737
+37,clifton sutton,modeling health outcomes statistical analysis including longitudinal,0.122326497
+37,clifton sutton,google,0.122232631
+37,clifton sutton,high dimensional search,0.121322685
+38,colin reagle,analytic hierarchy process optimization,0.175424135
+38,colin reagle,large scale computing,0.164890212
+38,colin reagle,high temperature tribology,0.161014295
+38,colin reagle,bio metrics forensic science,0.154782903
+38,colin reagle,high dimensional statistics,0.152183906
+38,colin reagle,high dimensional data,0.150894393
+38,colin reagle,nano scale surface engineering,0.144666171
+38,colin reagle,high dimensional search,0.144589807
+38,colin reagle,high temperature materials,0.14446462
+38,colin reagle,google,0.143757496
+39,colleen berg,bioengineering,0.189831599
+39,colleen berg,gpu computing,0.150862857
+39,colleen berg,classification,0.147042924
+39,colleen berg,ubiquitous computing,0.143499201
+39,colleen berg,neural interfaces,0.142373699
+39,colleen berg,semantic computing,0.126554399
+39,colleen berg,assistive technology,0.124273953
+40,craig lorie,computational neuroscience,0.203660057
+40,craig lorie,neuroinformatics computational neuroanatomy,0.199980003
+40,craig lorie,computational neuroanatomy,0.199980003
+40,craig lorie,computing education research,0.186186168
+40,craig lorie,neural interfaces,0.183829381
+40,craig lorie,subsystems,0.179982003
+40,craig lorie,gpu computing,0.179806496
+40,craig lorie,ubiquitous computing,0.171030093
+41,daigo shishika,serious games,0.18259943
+41,daigo shishika,bio metrics forensic science,0.182509485
+41,daigo shishika,computer games technology,0.180840841
+41,daigo shishika,computer game technology,0.17559796
+41,daigo shishika,algorithmic game theory,0.171954395
+41,daigo shishika,game theory,0.169937586
+41,daigo shishika,robotics,0.155631138
+41,daigo shishika,results clinical studies,0.150893366
+41,daigo shishika,model based systems engineering,0.14916756
+41,daigo shishika,electrical based transport,0.140333801
+42,damon mccoy,cognitive systems,0
+42,damon mccoy,intelligent agents,0
+42,damon mccoy,knowledge representation reasoning,0
+42,damon mccoy,machine learning,0
+42,damon mccoy,natural language processing,0
+42,damon mccoy,robotics,0
+42,damon mccoy,unmanned autonomous vehicles,0
+42,damon mccoy,computer architecture,0
+42,damon mccoy,computing components,0
+42,damon mccoy,devices,0
+43,dana richards,structural stress,0.28844377
+43,dana richards,structural health monitoring inspection,0.280307982
+43,dana richards,dependent complex structured data ,0.220329621
+43,dana richards,systems modeling  analysis,0.161217895
+43,dana richards,coastal building resilience,0.160213284
+43,dana richards,system level optimization applied ,0.152554622
+43,dana richards,system analysis simulation,0.151885886
+43,dana richards,building material properties structures,0.150535295
+43,dana richards,land data assimilation systems,0.140597275
+44,daniel barbara,google,0.274248177
+44,daniel barbara,analytic hierarchy process optimization,0.268986416
+44,daniel barbara,subsystems,0.261530366
+44,daniel barbara,bio metrics forensic science,0.259640723
+44,daniel barbara,bayesian statistics,0.254009815
+44,daniel barbara,next g communications networks,0.240236931
+44,daniel barbara,network forensics,0.237918791
+44,daniel barbara,model based systems engineering,0.237457453
+44,daniel barbara,evidence based reasoning,0.236359695
+44,daniel barbara,computational statistics,0.23467199
+45,daniel garrison,ai nlp programming,0.116731536
+45,daniel garrison,community informatics,0.114980512
+45,daniel garrison,networking,0.103695169
+45,daniel garrison,bioengineering,0.103695169
+45,daniel garrison,integer programming optimization,0.101600102
+45,daniel garrison,animal group behavior,0.099627096
+45,daniel garrison,land data assimilation systems,0.094595448
+45,daniel garrison,clustering,0.089802651
+45,daniel garrison,online communities,0.088431538
+45,daniel garrison,social computing,0.08776912
+46,daniel menasce,subsystems,0.352668938
+46,daniel menasce,network modeling,0.269934094
+46,daniel menasce,model based systems engineering,0.254365381
+46,daniel menasce,procurement economic models,0.238574985
+46,daniel menasce,bio metrics forensic science,0.234984413
+46,daniel menasce,neuroscience,0.224553053
+46,daniel menasce,network forensics,0.222651079
+46,daniel menasce,neural networks,0.222154033
+46,daniel menasce,recycled materials geo environmental modeling,0.222016038
+46,daniel menasce,analytic hierarchy process optimization,0.221982449
+47,david s rosenblum,bioengineering,0.149255579
+47,david s rosenblum,neural interfaces,0.124379649
+47,david s rosenblum,economics,0.109000863
+47,david s rosenblum,assistive technology,0.108567458
+47,david s rosenblum,gpu computing,0.105436716
+47,david s rosenblum,information technology,0.100556698
+47,david s rosenblum,leadership,0.100534873
+48,deborah goodings,tribology,0.138493934
+48,deborah goodings,computing education research,0.13839146
+48,deborah goodings,bioengineering,0.13839146
+48,deborah goodings,engineering education,0.131133125
+48,deborah goodings,transportation engineering,0.126319882
+48,deborah goodings,nanotechnology,0.125272477
+48,deborah goodings,engineering education research,0.120268847
+48,deborah goodings,dna nanotechnology,0.119939265
+48,deborah goodings,gpu computing,0.10998238
+49,diana wang,intelligence c4i  cyber,0.189193508
+49,diana wang,artifiicial intelligence,0.189193508
+49,diana wang,databases,0.163846384
+49,diana wang,web intelligence,0.158396278
+49,diana wang,ai nlp programming,0.136914794
+49,diana wang,intelligence analysis,0.134056132
+49,diana wang,computing education research,0.134012068
+50,dimitrios ioannou,electronics,0.257043619
+50,dimitrios ioannou,ultrasound imaging devices,0.186711107
+50,dimitrios ioannou,devices,0.174496364
+50,dimitrios ioannou,devices,0.174496364
+50,dimitrios ioannou,digital forensics,0.172957964
+50,dimitrios ioannou,memory,0.170217611
+50,dimitrios ioannou,safety security,0.168138326
+50,dimitrios ioannou,memory systems,0.166331534
+50,dimitrios ioannou,analytic hierarchy process optimization,0.16601875
+50,dimitrios ioannou,thermal based transport,0.165489344
+51,doaa bondok,subsystems,0.183788625
+51,doaa bondok,analytic hierarchy process optimization,0.161177506
+51,doaa bondok,network modeling,0.159873086
+51,doaa bondok,model based systems engineering,0.155031228
+51,doaa bondok,ultrasound imaging devices,0.141170938
+51,doaa bondok,systems modeling  analysis,0.13973232
+51,doaa bondok,geometric modeling,0.139120607
+51,doaa bondok,network forensics,0.138804024
+51,doaa bondok,bio metrics forensic science,0.135910131
+51,doaa bondok,functional electrical stimulation,0.135079138
+52,duminda wijesekera,subsystems,0.323194837
+52,duminda wijesekera,bio metrics forensic science,0.28007512
+52,duminda wijesekera,analytic hierarchy process optimization,0.268187061
+52,duminda wijesekera,evidence based reasoning,0.259310643
+52,duminda wijesekera,wireless communications  networks,0.244422949
+52,duminda wijesekera,network forensics,0.242737708
+52,duminda wijesekera,functional electrical stimulation,0.237130495
+52,duminda wijesekera,internet,0.23298967
+52,duminda wijesekera,internet measurements,0.230748327
+52,duminda wijesekera,wireless networks,0.229703697
+53,duoduo liao,neural interfaces,0.158985727
+53,duoduo liao,leadership,0.154896388
+53,duoduo liao,ai nlp programming,0.108662251
+53,duoduo liao,computer architecture,0.095872
+53,duoduo liao,computer graphics,0.092741674
+53,duoduo liao,architecture,0.092362361
+53,duoduo liao,photoacoustic imaging microscopy,0.092362361
+53,duoduo liao,graphics,0.091995113
+54,ebrima ceesay,transportation,0.144303409
+54,ebrima ceesay,transportation engineering,0.144148208
+54,ebrima ceesay,energy,0.141390196
+54,ebrima ceesay,ai ml wireless,0.140904409
+54,ebrima ceesay,computer networks architectures,0.139539601
+54,ebrima ceesay,next g communications networks,0.138441066
+54,ebrima ceesay,ai nlp programming,0.137350476
+54,ebrima ceesay,transportation systems,0.135043035
+54,ebrima ceesay,two dimensional materials,0.133317557
+54,ebrima ceesay,software maintenance,0.130915242
+55,edward huang,subsystems,0.299124519
+55,edward huang,model based systems engineering,0.279131368
+55,edward huang,network modeling,0.267730898
+55,edward huang,bio metrics forensic science,0.2441405
+55,edward huang,geometric modeling,0.241711241
+55,edward huang,procurement economic models,0.240903557
+55,edward huang,systems modeling  analysis,0.235619222
+55,edward huang,recycled materials geo environmental modeling,0.230446365
+55,edward huang,modeling,0.22360345
+56,elise miller hooks,time series modeling,0.276261318
+56,elise miller hooks,time series,0.252945135
+56,elise miller hooks,real time embedded systems,0.239036339
+56,elise miller hooks,real time,0.235712861
+56,elise miller hooks,bio metrics forensic science,0.229235492
+56,elise miller hooks,internet,0.229001675
+56,elise miller hooks,subsystems,0.222526279
+56,elise miller hooks,internet measurements,0.214860139
+56,elise miller hooks,internet things,0.188489073
+56,elise miller hooks,internet of things,0.188489073
+57,elizabeth white,computing education research,0.175164618
+57,elizabeth white,engineering education,0.156692149
+57,elizabeth white,engineering education research,0.152226494
+57,elizabeth white,computer science education,0.142176901
+57,elizabeth white,neural interfaces,0.141479115
+57,elizabeth white,assistive technology,0.132314031
+57,elizabeth white,distance education,0.12478355
+57,elizabeth white,information technology,0.122551106
+57,elizabeth white,bioengineering,0.121267813
+58,emanuela marasco,subsystems,0.257017301
+58,emanuela marasco,bio metrics forensic science,0.191025865
+58,emanuela marasco,neuroscience,0.177991137
+58,emanuela marasco,analytic hierarchy process optimization,0.177869799
+58,emanuela marasco,network forensics,0.170769309
+58,emanuela marasco,ultrasound imaging devices,0.166658295
+58,emanuela marasco,computational neuroscience,0.163202532
+58,emanuela marasco,neural networks,0.162235935
+58,emanuela marasco,ultrasound,0.160042595
+58,emanuela marasco,neuroinformatics computational neuroanatomy,0.156094277
+59,eric osterweil,bio metrics forensic science,0.194441364
+59,eric osterweil,internet,0.1913986
+59,eric osterweil,subsystems,0.182595297
+59,eric osterweil,internet measurements,0.182226431
+59,eric osterweil,internet things,0.178770973
+59,eric osterweil,internet of things,0.178770973
+59,eric osterweil,network web security,0.164265197
+59,eric osterweil,web applications,0.160896126
+59,eric osterweil,evidence based reasoning,0.159904092
+59,eric osterweil,google,0.153365615
+60,eugene kim,evidence based reasoning,0.132160417
+60,eugene kim,distance computer based learning,0.121514877
+60,eugene kim,high dimensional data,0.105096023
+60,eugene kim,electrical based transport,0.104122249
+60,eugene kim,high temperature tribology,0.103235958
+60,eugene kim,thermal based transport,0.098625764
+60,eugene kim,bio based transport,0.096977905
+60,eugene kim,physical layer security,0.094100807
+60,eugene kim,land surface modeling,0.092409611
+60,eugene kim,ultrasound,0.092096494
+61,evgenios kornaropoulos,bayesian statistics,0.223759064
+61,evgenios kornaropoulos,statistics,0.204073092
+61,evgenios kornaropoulos,computational statistics,0.197469872
+61,evgenios kornaropoulos,spatial statistics,0.185480657
+61,evgenios kornaropoulos,google,0.168471987
+61,evgenios kornaropoulos,model based systems engineering,0.165569185
+61,evgenios kornaropoulos,systems modeling  analysis,0.156422777
+61,evgenios kornaropoulos,distance computer based learning,0.150519238
+61,evgenios kornaropoulos,operating systems,0.14930977
+62,f berlin,display interaction,0.122825921
+62,f berlin,entrepreneurship innovation,0.106904497
+62,f berlin,high dimensional statistics,0.105644282
+62,f berlin,high temperature materials,0.102792785
+62,f berlin,high dimensional data,0.09953414
+62,f berlin,high dimensional search,0.097982725
+62,f berlin,bio metrics forensic science,0.092597317
+62,f berlin,intelligence c4i  cyber,0.086795634
+62,f berlin,artifiicial intelligence,0.086795634
+62,f berlin,general,0.085592099
+63,fei li,time series modeling,0.219996644
+63,fei li,time series,0.187247567
+63,fei li,real time embedded systems,0.174527896
+63,fei li,real time,0.17216089
+63,fei li,internet,0.167438206
+63,fei li,internet measurements,0.161374392
+63,fei li,model based systems engineering,0.150433826
+63,fei li,procurement economic models,0.150063476
+63,fei li,climate weather modeling remote sensing,0.148775002
+63,fei li,spatio temporal models,0.142048188
+64,filipe veiga,neural interfaces,0.170782513
+64,filipe veiga,subsystems,0.138013112
+64,filipe veiga,neuroinformatics computational neuroanatomy,0.138013112
+64,filipe veiga,computational neuroanatomy,0.138013112
+64,filipe veiga,computational neuroscience,0.127775313
+64,filipe veiga,assistive technology,0.127775313
+64,filipe veiga,ai nlp programming,0.125552964
+64,filipe veiga,advanced manufacturing,0.118146352
+64,filipe veiga,hardware,0.112687234
+64,filipe veiga,ai ml wireless,0.107334698
+65,foteini baldimtsi,subsystems,0.173767863
+65,foteini baldimtsi,systems network security,0.172412191
+65,foteini baldimtsi,network systems security,0.172412191
+65,foteini baldimtsi,bio metrics forensic science,0.167665872
+65,foteini baldimtsi,network web security,0.165603558
+65,foteini baldimtsi,network architecture,0.163507185
+65,foteini baldimtsi,network forensics,0.155078179
+65,foteini baldimtsi,evidence based reasoning,0.154020895
+65,foteini baldimtsi,next g communications networks,0.152056508
+65,foteini baldimtsi,time series modeling,0.151771931
+66,gene shuman,high dimensional data,0.156270771
+66,gene shuman,high dimensional search,0.144841584
+66,gene shuman,high dimensional statistics,0.142387716
+66,gene shuman,high temperature tribology,0.137224146
+66,gene shuman,high temperature materials,0.131840695
+66,gene shuman,cs education,0.12489157
+66,gene shuman,advanced manufacturing,0.119289724
+66,gene shuman,viscoelastic fluids,0.113295574
+66,gene shuman,semiconductor manufacturing,0.111361547
+66,gene shuman,water quality engineering,0.109892771
+67,george hazelrigg,subsystems,0.296186605
+67,george hazelrigg,bio metrics forensic science,0.249889943
+67,george hazelrigg,model based systems engineering,0.223754249
+67,george hazelrigg,neuroscience,0.217944358
+67,george hazelrigg,devices,0.216684772
+67,george hazelrigg,devices,0.216684772
+67,george hazelrigg,analytic hierarchy process optimization,0.209394166
+67,george hazelrigg,ultrasound imaging devices,0.204752452
+67,george hazelrigg,collecting analyzing data wearable devices,0.198665717
+68,gheorghe tecuci,learning engineering,0.355264746
+68,gheorghe tecuci,engineering computing student learning methods effectiveness,0.329642157
+68,gheorghe tecuci,distance computer based learning,0.329509108
+68,gheorghe tecuci,computer science education,0.321552348
+68,gheorghe tecuci,learning analytics,0.318746221
+68,gheorghe tecuci,unsupervised learning,0.313198555
+68,gheorghe tecuci,engineering education research,0.308308755
+68,gheorghe tecuci,engineering education,0.303981235
+68,gheorghe tecuci,knowledge information engineering,0.292434527
+68,gheorghe tecuci,ai machine learning,0.283279775
+69,gino manzo,devices,0.209165007
+69,gino manzo,devices,0.209165007
+69,gino manzo,system enterprise architecture design,0.141515732
+69,gino manzo,ultrasound imaging devices,0.138484953
+69,gino manzo,subsystems,0.138013112
+69,gino manzo,engineering design,0.135829716
+69,gino manzo,network architecture,0.128884816
+69,gino manzo,collecting analyzing data wearable devices,0.122988009
+69,gino manzo,hardware software co design neural archi,0.113446079
+70,giorgio ascoli,model based systems engineering,0.207111726
+70,giorgio ascoli,systems modeling  analysis,0.192409128
+70,giorgio ascoli,bayesian statistics,0.189836252
+70,giorgio ascoli,basal ganglia,0.186203897
+70,giorgio ascoli,data mining big data analysis,0.179610419
+70,giorgio ascoli,recycled materials geo environmental modeling,0.174074546
+70,giorgio ascoli,air pollution modeling policy analysis,0.172457261
+70,giorgio ascoli,statistics,0.172342529
+70,giorgio ascoli,computational statistics,0.171118414
+70,giorgio ascoli,modeling health outcomes statistical analysis including longitudinal,0.170486567
+71,girum urgessa,data mining big data analysis,0.158769513
+71,girum urgessa,information technology,0.125281668
+71,girum urgessa,air pollution modeling policy analysis,0.124129934
+71,girum urgessa,big data,0.119106314
+71,girum urgessa,high dimensional data,0.115837437
+71,girum urgessa,systems modeling  analysis,0.112952848
+71,girum urgessa,data science,0.111438254
+71,girum urgessa,digital forensics analysis,0.110325429
+71,girum urgessa,big data analytics  characterization,0.108055442
+72,giuseppe ateniese,system security including communications,0.193833019
+72,giuseppe ateniese,next g communications networks,0.18977662
+72,giuseppe ateniese,subsystems,0.189584763
+72,giuseppe ateniese,systems network security,0.18507431
+72,giuseppe ateniese,network systems security,0.18507431
+72,giuseppe ateniese,wireless communications  networks,0.180612394
+72,giuseppe ateniese,model based systems engineering,0.178338181
+72,giuseppe ateniese,communication networks,0.175238801
+72,giuseppe ateniese,network systems,0.173694657
+72,giuseppe ateniese,land data assimilation systems,0.172039692
+73,grigory yaroslavtsev,computer architecture,0.181649754
+73,grigory yaroslavtsev,neural interfaces,0.172132593
+73,grigory yaroslavtsev,bioengineering,0.172132593
+73,grigory yaroslavtsev,architecture,0.166666667
+73,grigory yaroslavtsev,hardware,0.149071198
+73,grigory yaroslavtsev,assistive technology,0.140859042
+73,grigory yaroslavtsev,computer networks architectures,0.139443338
+73,grigory yaroslavtsev,computer games technology,0.134839972
+73,grigory yaroslavtsev,cryptographic hardware,0.134839972
+74,gurdip singh,integer programming optimization,0.236363636
+74,gurdip singh,ai nlp programming,0.220833546
+74,gurdip singh,internet,0.152572071
+74,gurdip singh,internet measurements,0.14795154
+74,gurdip singh,chance constrained programming,0.14125429
+74,gurdip singh,neural interfaces,0.120618813
+74,gurdip singh,architecture,0.114991915
+74,gurdip singh,web applications,0.107898623
+74,gurdip singh,neuroinformatics computational neuroanatomy,0.104972776
+74,gurdip singh,computational neuroanatomy,0.104972776
+75,hadi el amine,model based systems engineering,0.206472956
+75,hadi el amine,bio metrics forensic science,0.199152914
+75,hadi el amine,systems modeling  analysis,0.186920545
+75,hadi el amine,data science,0.186908886
+75,hadi el amine,google,0.184138436
+75,hadi el amine,software testing,0.176728257
+75,hadi el amine,functional electrical stimulation,0.175764885
+75,hadi el amine,data mining big data analysis,0.173609831
+75,hadi el amine,system level optimization applied ,0.169166517
+75,hadi el amine,results clinical studies,0.167819254
+76,hadi rezazad,ai nlp programming,0.17065741
+76,hadi rezazad,neural interfaces,0.148566726
+76,hadi rezazad,time series,0.138204968
+76,hadi rezazad,intelligence c4i  cyber,0.127342908
+76,hadi rezazad,artifiicial intelligence,0.127342908
+76,hadi rezazad,bioengineering,0.127342908
+76,hadi rezazad,information retrieval,0.126088267
+76,hadi rezazad,time series modeling,0.124347904
+77,hakan aydin,subsystems,0.318935559
+77,hakan aydin,neuroscience,0.205586679
+77,hakan aydin,neural networks,0.195680926
+77,hakan aydin,network forensics,0.19060975
+77,hakan aydin,computational neuroscience,0.184270578
+77,hakan aydin,bio metrics forensic science,0.181125398
+77,hakan aydin,neuroinformatics computational neuroanatomy,0.17805237
+77,hakan aydin,computational neuroanatomy,0.17805237
+77,hakan aydin,network science,0.172369343
+77,hakan aydin,wireless networks,0.169349422
+78,hamza mughal,neural interfaces,0.365148372
+78,hamza mughal,neuroinformatics computational neuroanatomy,0.25819889
+78,hamza mughal,computational neuroanatomy,0.25819889
+78,hamza mughal,ai nlp programming,0.254462095
+78,hamza mughal,hardware,0.245954929
+78,hamza mughal,computational neuroscience,0.239045722
+78,hamza mughal,cryptographic hardware,0.222474604
+78,hamza mughal,probabilistic ontologies,0.204646871
+78,hamza mughal,bioengineering,0.182574186
+79,hans hoyer,tribology,0.211999576
+79,hans hoyer,nanotechnology,0.191760832
+79,hans hoyer,bioengineering,0.183597018
+79,hans hoyer,dna nanotechnology,0.183597018
+79,hans hoyer,gpu computing,0.145908115
+79,hans hoyer,ubiquitous computing,0.138786301
+79,hans hoyer,social computing,0.129499352
+80,harry foxwell,network modeling,0.173441205
+80,harry foxwell,google,0.172202039
+80,harry foxwell,subsystems,0.168001989
+80,harry foxwell,bayesian statistics,0.16460766
+80,harry foxwell,recycled materials geo environmental modeling,0.163413094
+80,harry foxwell,procurement economic models,0.16206879
+80,harry foxwell,multi formalism modeling,0.161351656
+80,harry foxwell,model based systems engineering,0.160754457
+80,harry foxwell,statistics,0.155774797
+80,harry foxwell,computational statistics,0.149151502
+81,harry wechsler,internet,0.165757485
+81,harry wechsler,subsystems,0.162396007
+81,harry wechsler,data mining big data analysis,0.162346229
+81,harry wechsler,wireless communications  networks,0.161327915
+81,harry wechsler,internet measurements,0.156950011
+81,harry wechsler,web applications,0.156667017
+81,harry wechsler,wireless networks,0.155092113
+81,harry wechsler,bio metrics forensic science,0.153297517
+81,harry wechsler,analytic hierarchy process optimization,0.151748627
+81,harry wechsler,systems modeling  analysis,0.15018538
+82,hemant purohit,economics,0.215898976
+82,hemant purohit,google,0.191000858
+82,hemant purohit,wireless optical communications,0.184380117
+82,hemant purohit,wireless communications,0.174525696
+82,hemant purohit,control theory,0.172757209
+82,hemant purohit,air pollution modeling policy analysis,0.170781937
+82,hemant purohit,scheduling control,0.170431254
+82,hemant purohit,wireless communications  networks,0.1702702
+82,hemant purohit,web intelligence,0.165447587
+82,hemant purohit,model based systems engineering,0.164686655
+83,henry coffman,memory,0.067002521
+83,henry coffman,computer vision,0.060111309
+83,henry coffman,information security assurance,0.058025885
+83,henry coffman,computational experimental neuroplasticity memory,0.053896806
+83,henry coffman,iot security,0.05053987
+83,henry coffman,cyber security,0.05053987
+83,henry coffman,security,0.05053987
+83,henry coffman,hardware security,0.047023041
+83,henry coffman,computer security,0.045679247
+83,henry coffman,cps iot security,0.045360921
+84,holger dannenberg,time series modeling,0.187960773
+84,holger dannenberg,time series,0.159726596
+84,holger dannenberg,real time,0.148394618
+84,holger dannenberg,o ran,0.142269884
+84,holger dannenberg,real time embedded systems,0.141510849
+84,holger dannenberg,rapid prototyping,0.139626419
+84,holger dannenberg,cryptography,0.137803324
+84,holger dannenberg,spatio temporal models,0.132048333
+84,holger dannenberg,memory,0.127399927
+84,holger dannenberg,functional electrical stimulation,0.119863539
+85,huzefa rangwala,functional electrical stimulation,0.207689324
+85,huzefa rangwala,systems modeling  analysis,0.176326397
+85,huzefa rangwala,ultrasound imaging devices,0.173804109
+85,huzefa rangwala,model based systems engineering,0.173645865
+85,huzefa rangwala,data mining big data analysis,0.173052071
+85,huzefa rangwala,high dimensional data,0.158361187
+85,huzefa rangwala,system analysis simulation,0.156858683
+85,huzefa rangwala,digital forensics analysis,0.153737422
+85,huzefa rangwala,system level optimization applied ,0.153726486
+86,inchi hu,bioengineering,0.181130889
+86,inchi hu,assistive technology,0.130435801
+86,inchi hu,statistics,0.129553411
+86,inchi hu,bayesian statistics,0.125491161
+86,inchi hu,computational statistics,0.120396624
+86,inchi hu,economics,0.119051369
+86,inchi hu,information technology,0.118980986
+86,inchi hu,spatial statistics,0.117750222
+86,inchi hu,gpu computing,0.115158587
+87,ioulia rytikova,ai nlp programming,0.168030887
+87,ioulia rytikova,engineering education,0.1508611
+87,ioulia rytikova,computing education research,0.150396302
+87,ioulia rytikova,engineering computing student learning methods effectiveness,0.137260782
+87,ioulia rytikova,bayesian statistics,0.137102124
+87,ioulia rytikova,engineering education research,0.135287656
+87,ioulia rytikova,computer science education,0.128069627
+87,ioulia rytikova,statistics,0.125813538
+87,ioulia rytikova,distance education,0.124891225
+88,irina hashmi,google,0.186761238
+88,irina hashmi,functional electrical stimulation,0.164273917
+88,irina hashmi,model based systems engineering,0.16190397
+88,irina hashmi,structural stress,0.160742289
+88,irina hashmi,systems modeling  analysis,0.160477921
+88,irina hashmi,structural health monitoring inspection,0.154670991
+88,irina hashmi,dependent complex structured data ,0.135499204
+88,irina hashmi,system analysis simulation,0.133938377
+89,isuru dassanayake,bayesian statistics,0.195972742
+89,isuru dassanayake,statistics,0.17190294
+89,isuru dassanayake,computational statistics,0.159752905
+89,isuru dassanayake,spatial statistics,0.156241423
+89,isuru dassanayake,modeling health outcomes statistical analysis including longitudinal,0.121026985
+89,isuru dassanayake,high dimensional statistics,0.118475925
+89,isuru dassanayake,biometrics,0.115278084
+89,isuru dassanayake,spatio temporal statistics,0.114517164
+90,ivan avramovic,internet,0.266848019
+90,ivan avramovic,internet measurements,0.246444501
+90,ivan avramovic,internet things,0.1798384
+90,ivan avramovic,internet of things,0.1798384
+90,ivan avramovic,time series modeling,0.174854303
+90,ivan avramovic,real time,0.170322887
+90,ivan avramovic,time series,0.167617985
+90,ivan avramovic,real time embedded systems,0.153638593
+90,ivan avramovic,command control,0.139991414
+90,ivan avramovic,scheduling control,0.135377713
+91,james baldo,bayesian statistics,0.17275578
+91,james baldo,bioengineering,0.166234327
+91,james baldo,statistics,0.165137059
+91,james baldo,computational statistics,0.153465234
+91,james baldo,spatial statistics,0.150091959
+91,james baldo,information technology,0.146994286
+91,james baldo,assistive technology,0.13603239
+91,james baldo,spatio temporal statistics,0.123944503
+91,james baldo,engineering computing student learning methods effectiveness,0.120108123
+91,james baldo,tribology,0.119969292
+92,jan allbeck,model based systems engineering,0.214921774
+92,jan allbeck,recycled materials geo environmental modeling,0.214181498
+92,jan allbeck,air pollution modeling policy analysis,0.20231871
+92,jan allbeck,time series modeling,0.195857279
+92,jan allbeck,modeling simulation,0.191263379
+92,jan allbeck,network modeling,0.189272414
+92,jan allbeck,systems modeling  analysis,0.188360691
+92,jan allbeck,computer simulation modeling,0.183193849
+92,jan allbeck,spatio temporal models,0.180990239
+92,jan allbeck,real time embedded systems,0.180708367
+93,janis terpenny,devices,0.335549925
+93,janis terpenny,devices,0.335549925
+93,janis terpenny,system enterprise architecture design,0.281746935
+93,janis terpenny,ultrasound imaging devices,0.27020511
+93,janis terpenny,model based systems engineering,0.266219717
+93,janis terpenny,system architectures,0.26525534
+93,janis terpenny,systems architecture,0.26525534
+93,janis terpenny,collecting analyzing data wearable devices,0.258095323
+94,jean pierre auffret,cognitive systems,0
+94,jean pierre auffret,intelligent agents,0
+94,jean pierre auffret,knowledge representation reasoning,0
+94,jean pierre auffret,machine learning,0
+94,jean pierre auffret,natural language processing,0
+94,jean pierre auffret,robotics,0
+94,jean pierre auffret,unmanned autonomous vehicles,0
+94,jean pierre auffret,computer architecture,0
+94,jean pierre auffret,computing components,0
+94,jean pierre auffret,devices,0
+95,jeff offutt,software testing,0.403370051
+95,jeff offutt,auction design testing,0.260524814
+95,jeff offutt,new clinical trial methods,0.242911208
+95,jeff offutt,digital forensics,0.224440851
+95,jeff offutt,network forensics,0.217519628
+95,jeff offutt,digital forensics analysis,0.205212911
+95,jeff offutt,analytic hierarchy process optimization,0.185390861
+95,jeff offutt,model based systems engineering,0.177860128
+95,jeff offutt,google,0.177088039
+95,jeff offutt,medical image analysis,0.161093357
+96,jeffrey moran,hydraulic land surface modeling,0.253736308
+96,jeffrey moran,land surface modeling,0.247336551
+96,jeffrey moran,nano scale surface engineering,0.222632304
+96,jeffrey moran,surface engineering,0.195091748
+96,jeffrey moran,model based systems engineering,0.191555996
+96,jeffrey moran,analytic hierarchy process optimization,0.181189859
+96,jeffrey moran,electrical based transport,0.172816769
+96,jeffrey moran,chemical sensors,0.171611999
+96,jeffrey moran,high temperature tribology,0.171045481
+96,jeffrey moran,high dimensional statistics,0.167780906
+97,jens peter kaps,analytic hierarchy process optimization,0.185343176
+97,jens peter kaps,ultrasound imaging devices,0.1804357
+97,jens peter kaps,functional electrical stimulation,0.178447375
+97,jens peter kaps,devices,0.165524974
+97,jens peter kaps,devices,0.165524974
+97,jens peter kaps,substance use disorders,0.156279809
+97,jens peter kaps,electronics,0.155646679
+97,jens peter kaps,creative tools,0.155559744
+97,jens peter kaps,evidence based reasoning,0.149876815
+98,jessica lin,time series,0.372878577
+98,jessica lin,time series modeling,0.36519455
+98,jessica lin,real time,0.334224136
+98,jessica lin,real time embedded systems,0.316751979
+98,jessica lin,spatio temporal statistics,0.243288702
+98,jessica lin,scheduling,0.234306387
+98,jessica lin,distance computer based learning,0.2097628
+98,jessica lin,analytic hierarchy process optimization,0.193630119
+98,jessica lin,life cycle maintenance analysis,0.190734868
+98,jessica lin,spatio temporal data,0.189244971
+99,jianli pan,internet,0.293216573
+99,jianli pan,internet measurements,0.269537962
+99,jianli pan,internet things,0.216147253
+99,jianli pan,internet of things,0.216147253
+99,jianli pan,semantic web,0.209407201
+99,jianli pan,web applications,0.19579826
+99,jianli pan,network web security,0.191898848
+99,jianli pan,web intelligence,0.188550032
+99,jianli pan,world wide web,0.159240878
+99,jianli pan,google,0.158003469
+100,jiayang sun,subsystems,0.291902553
+100,jiayang sun,neuroscience,0.218475984
+100,jiayang sun,computational neuroscience,0.217700786
+100,jiayang sun,bayesian statistics,0.210531402
+100,jiayang sun,bayesian networks,0.202849858
+100,jiayang sun,neuroinformatics computational neuroanatomy,0.202710106
+100,jiayang sun,computational neuroanatomy,0.202710106
+100,jiayang sun,neural networks,0.200966455
+100,jiayang sun,network architecture,0.193845965
+100,jiayang sun,bio metrics forensic science,0.192677707
+101,jie xu,model based systems engineering,0.218062551
+101,jie xu,analytic hierarchy process optimization,0.20658642
+101,jie xu,bio metrics forensic science,0.199101254
+101,jie xu,functional electrical stimulation,0.198998188
+101,jie xu,google,0.185650693
+101,jie xu,bayesian statistics,0.173860018
+101,jie xu,systems modeling  analysis,0.172267455
+101,jie xu,subsystems,0.167188193
+101,jie xu,ultrasound imaging devices,0.163201888
+102,jim chen,model based systems engineering,0.28108118
+102,jim chen,analytic hierarchy process optimization,0.280836279
+102,jim chen,systems modeling  analysis,0.256865017
+102,jim chen,bio metrics forensic science,0.250466234
+102,jim chen,high dimensional statistics,0.23749445
+102,jim chen,hydraulic land surface modeling,0.23595561
+102,jim chen,ultrasound imaging devices,0.235656908
+102,jim chen,distance computer based learning,0.233853605
+102,jim chen,land data assimilation systems,0.232416735
+102,jim chen,modeling health outcomes statistical analysis including longitudinal,0.230327235
+103,jinwei ye,ultrasound imaging devices,0.256446865
+103,jinwei ye,ultrasound,0.250283508
+103,jinwei ye,hydraulic land surface modeling,0.200602211
+103,jinwei ye,land surface modeling,0.199340093
+103,jinwei ye,analytic hierarchy process optimization,0.192557343
+103,jinwei ye,color,0.188646525
+103,jinwei ye,photoacoustic imaging microscopy,0.187825501
+103,jinwei ye,visualization,0.180737746
+103,jinwei ye,nano scale surface engineering,0.180444889
+103,jinwei ye,side channel,0.17006102
+104,john mclaughlin,ai nlp programming,0.200039518
+104,john mclaughlin,bioengineering,0.186584441
+104,john mclaughlin,computing education research,0.15663879
+104,john mclaughlin,integer programming optimization,0.145574644
+104,john mclaughlin,engineering education,0.136170552
+104,john mclaughlin,computer science education,0.128822667
+104,john mclaughlin,cs education,0.124212308
+104,john mclaughlin,assistive technology,0.122148189
+104,john mclaughlin,engineering education research,0.122113619
+105,john otten,neural interfaces,0.376559258
+105,john otten,subsystems,0.355023473
+105,john otten,neuroinformatics computational neuroanatomy,0.355023473
+105,john otten,computational neuroanatomy,0.355023473
+105,john otten,computational neuroscience,0.328687868
+105,john otten,internet,0.303108891
+105,john otten,internet measurements,0.272934504
+105,john otten,ai nlp programming,0.249568593
+105,john otten,network architecture,0.229065341
+105,john otten,hardware,0.210818511
+106,john shortle,analytic hierarchy process optimization,0.24992452
+106,john shortle,model based systems engineering,0.239248717
+106,john shortle,bayesian statistics,0.234463558
+106,john shortle,systems modeling  analysis,0.225888667
+106,john shortle,time series modeling,0.222104486
+106,john shortle,modeling health outcomes statistical analysis including longitudinal,0.21053706
+106,john shortle,air pollution modeling policy analysis,0.209357108
+106,john shortle,bio metrics forensic science,0.208874911
+106,john shortle,high dimensional statistics,0.207844181
+107,john stufken,devices,0.141170979
+107,john stufken,devices,0.141170979
+107,john stufken,bayesian statistics,0.135144926
+107,john stufken,collecting analyzing data wearable devices,0.134089605
+107,john stufken,wearable computing,0.126420892
+107,john stufken,architecture,0.123624508
+107,john stufken,transportation engineering,0.114256571
+107,john stufken,gpu computing,0.112743172
+108,jonathan goldman,distance education,0.113302693
+108,jonathan goldman,computing education research,0.096053775
+108,jonathan goldman,computer science education,0.086521619
+108,jonathan goldman,cs education,0.084821241
+108,jonathan goldman,engineering education,0.079462383
+108,jonathan goldman,results clinical studies,0.077016765
+108,jonathan goldman,distance computer based learning,0.075716854
+108,jonathan goldman,integer programming optimization,0.072306402
+108,jonathan goldman,engineering education research,0.071259453
+109,jonathan l auerbach,bayesian statistics,0.308077274
+109,jonathan l auerbach,statistics,0.302904745
+109,jonathan l auerbach,computational statistics,0.294900102
+109,jonathan l auerbach,spatial statistics,0.275308081
+109,jonathan l auerbach,high dimensional statistics,0.231958543
+109,jonathan l auerbach,spatio temporal statistics,0.219296647
+109,jonathan l auerbach,analytic hierarchy process optimization,0.205549354
+109,jonathan l auerbach,model based systems engineering,0.184375467
+109,jonathan l auerbach,distance computer based learning,0.182856879
+110,joy hughes,neural interfaces,0.267200364
+110,joy hughes,ai nlp programming,0.226035703
+110,joy hughes,neuroinformatics computational neuroanatomy,0.207056646
+110,joy hughes,computational neuroanatomy,0.207056646
+110,joy hughes,wireless communications  networks,0.20554177
+110,joy hughes,computational neuroscience,0.201282064
+110,joy hughes,wireless optical communications,0.19843744
+110,joy hughes,online communities,0.196654272
+110,joy hughes,ai ml wireless,0.193236966
+110,joy hughes,wireless communications,0.18977055
+111,juan cebral,blood flow,0.20758283
+111,juan cebral,model based systems engineering,0.171025664
+111,juan cebral,systems modeling  analysis,0.168016328
+111,juan cebral,recycled materials geo environmental modeling,0.166136404
+111,juan cebral,probabilistic modeling,0.157047841
+111,juan cebral,modeling,0.155990928
+111,juan cebral,geometric modeling,0.154975852
+112,kai zeng,internet,0.301784763
+112,kai zeng,internet measurements,0.28746457
+112,kai zeng,internet things,0.212218692
+112,kai zeng,internet of things,0.212218692
+112,kai zeng,wireless communications  networks,0.202604433
+112,kai zeng,wireless networks,0.191352059
+112,kai zeng,wireless communications,0.188416151
+112,kai zeng,wireless optical communications,0.18654432
+112,kai zeng,wireless,0.180819804
+112,kai zeng,wireless networking,0.176404621
+113,kamaljeet sanghera,ai nlp programming,0.136103711
+113,kamaljeet sanghera,integer programming optimization,0.12001984
+113,kamaljeet sanghera,bioengineering,0.089087081
+113,kamaljeet sanghera,computing education research,0.089087081
+113,kamaljeet sanghera,human centered computing,0.081751912
+113,kamaljeet sanghera,hardware,0.077151675
+113,kamaljeet sanghera,economics,0.073192505
+113,kamaljeet sanghera,chance constrained programming,0.071725573
+113,kamaljeet sanghera,gpu computing,0.070799233
+114,karla hoffman,model based systems engineering,0.222018155
+114,karla hoffman,analytic hierarchy process optimization,0.218895731
+114,karla hoffman,results clinical studies,0.21438023
+114,karla hoffman,bio metrics forensic science,0.199657436
+114,karla hoffman,evidence based reasoning,0.188846056
+114,karla hoffman,functional electrical stimulation,0.187473395
+114,karla hoffman,biophysics,0.186033729
+114,karla hoffman,air pollution modeling policy analysis,0.185683818
+114,karla hoffman,time series modeling,0.181471402
+115,katherine russell,internet,0.210561088
+115,katherine russell,internet measurements,0.202951902
+115,katherine russell,next g communications networks,0.183144911
+115,katherine russell,wireless optical communications,0.181860675
+115,katherine russell,wireless communications,0.180162531
+115,katherine russell,evidence based reasoning,0.179003749
+115,katherine russell,intelligence strategic analysis,0.173869076
+115,katherine russell,wireless communications  networks,0.173321298
+115,katherine russell,intelligence analysis,0.172772084
+115,katherine russell,robotics,0.172416219
+116,kathleen wage,analytic hierarchy process optimization,0.192187613
+116,kathleen wage,model based systems engineering,0.185174664
+116,kathleen wage,recycled materials geo environmental modeling,0.175785121
+116,kathleen wage,systems modeling  analysis,0.17154664
+116,kathleen wage,google,0.169044547
+116,kathleen wage,computational statistics,0.163766976
+116,kathleen wage,substance use disorders,0.163020304
+116,kathleen wage,network modeling,0.162148496
+116,kathleen wage,musculoskeletal modeling,0.161836453
+116,kathleen wage,data mining big data analysis,0.161027695
+117,kenneth ball,blood flow,0.264858975
+117,kenneth ball,particle filtering,0.193806175
+117,kenneth ball,viscoelastic fluids,0.188368766
+117,kenneth ball,fluid mechanics,0.184054977
+117,kenneth ball,analytic hierarchy process optimization,0.177813245
+117,kenneth ball,turbulence,0.166955339
+117,kenneth ball,power systems,0.15010268
+117,kenneth ball,bio metrics forensic science,0.150036776
+117,kenneth ball,power system reliability,0.147084479
+118,kenneth strazzeri,decision guidance,0.173526402
+118,kenneth strazzeri,nonparametric inference,0.155555556
+118,kenneth strazzeri,curricular development enhanced educational opportunities,0.126062597
+118,kenneth strazzeri,analytic hierarchy process optimization,0.12454412
+118,kenneth strazzeri,biometrics,0.111111111
+118,kenneth strazzeri,survey sampling,0.111111111
+118,kenneth strazzeri,governance policy,0.108953408
+118,kenneth strazzeri,statistical signal processing,0.09958424
+118,kenneth strazzeri,photoacoustic imaging microscopy,0.099380799
+119,kevin andrea,internet,0.258497684
+119,kevin andrea,internet measurements,0.232764327
+119,kevin andrea,devices,0.1741143
+119,kevin andrea,devices,0.1741143
+119,kevin andrea,internet things,0.168114357
+119,kevin andrea,internet of things,0.168114357
+119,kevin andrea,hardware support security,0.15993554
+119,kevin andrea,decision support systems,0.156827934
+119,kevin andrea,ultrasound imaging devices,0.156106188
+120,kevin lybarger,analytic hierarchy process optimization,0.218939343
+120,kevin lybarger,recycled materials geo environmental modeling,0.213134095
+120,kevin lybarger,model based systems engineering,0.196264313
+120,kevin lybarger,new clinical trial methods,0.196143912
+120,kevin lybarger,natural language processing,0.194959894
+120,kevin lybarger,network modeling,0.189296214
+120,kevin lybarger,functional electrical stimulation,0.187274943
+120,kevin lybarger,modeling performance,0.184946333
+120,kevin lybarger,google,0.182781962
+120,kevin lybarger,air pollution modeling policy analysis,0.181007568
+121,kevin moran,new clinical trial methods,0.148312272
+121,kevin moran,creative tools,0.143962843
+121,kevin moran,mobile computing,0.142838601
+121,kevin moran,mobile system,0.136836833
+121,kevin moran,mobile iot systems,0.136836833
+121,kevin moran,google,0.133523975
+121,kevin moran,model based systems engineering,0.13276261
+121,kevin moran,analytic hierarchy process optimization,0.131775746
+121,kevin moran,digital forensics analysis,0.128246669
+121,kevin moran,collecting analyzing data wearable devices,0.127659329
+122,khaled khasawneh,analytic hierarchy process optimization,0.15442145
+122,khaled khasawneh,substance use disorders,0.145385673
+122,khaled khasawneh,functional electrical stimulation,0.145358378
+122,khaled khasawneh,evidence based reasoning,0.141592994
+122,khaled khasawneh,ultrasound imaging devices,0.137023243
+122,khaled khasawneh,ultrasound,0.136568412
+122,khaled khasawneh,distance computer based learning,0.134732946
+122,khaled khasawneh,bio metrics forensic science,0.133497964
+122,khaled khasawneh,new clinical trial methods,0.129823444
+122,khaled khasawneh,google,0.129612837
+123,khondkar islam,results clinical studies,0.236543574
+123,khondkar islam,internet,0.234709135
+123,khondkar islam,internet measurements,0.222106805
+123,khondkar islam,distance computer based learning,0.192803866
+123,khondkar islam,neuroscience,0.190452574
+123,khondkar islam,distance education,0.180915242
+123,khondkar islam,internet things,0.176236541
+123,khondkar islam,internet of things,0.176236541
+123,khondkar islam,bio metrics forensic science,0.167213546
+124,kim blackwell,modeling,0.21745825
+124,kim blackwell,musculoskeletal modeling,0.212017046
+124,kim blackwell,probabilistic modeling,0.211351734
+124,kim blackwell,network modeling,0.21086033
+124,kim blackwell,geometric modeling,0.207863294
+124,kim blackwell,modeling performance,0.206072645
+124,kim blackwell,recycled materials geo environmental modeling,0.203350405
+125,kirin emlet furst,hydrology,0.266079303
+125,kirin emlet furst,wastewater reuse,0.262990282
+125,kirin emlet furst,drinking water,0.254751538
+125,kirin emlet furst,water resources engineering,0.253398263
+125,kirin emlet furst,water quality engineering,0.240603006
+125,kirin emlet furst,wash,0.234569912
+125,kirin emlet furst,precipitation,0.175508237
+125,kirin emlet furst,side channel,0.140214575
+125,kirin emlet furst,side channels,0.138964495
+126,krzysztof gaj,analytic hierarchy process optimization,0.231010846
+126,krzysztof gaj,ultrasound imaging devices,0.217966049
+126,krzysztof gaj,functional electrical stimulation,0.214662906
+126,krzysztof gaj,evidence based reasoning,0.203840589
+126,krzysztof gaj,distance computer based learning,0.194160119
+126,krzysztof gaj,bio metrics forensic science,0.190271284
+126,krzysztof gaj,electrical based transport,0.190156478
+126,krzysztof gaj,substance use disorders,0.188337974
+126,krzysztof gaj,new clinical trial methods,0.185951013
+126,krzysztof gaj,ultrasound,0.179658933
+127,kun sun,internet,0.259628249
+127,kun sun,internet measurements,0.254987093
+127,kun sun,subsystems,0.244198095
+127,kun sun,network web security,0.194411737
+127,kun sun,internet things,0.179646808
+127,kun sun,internet of things,0.179646808
+127,kun sun,neuroscience,0.176546091
+127,kun sun,bio metrics forensic science,0.173472878
+127,kun sun,wireless communications  networks,0.17054573
+127,kun sun,network forensics,0.169457744
+128,kuo tian,wastewater reuse,0.195537274
+128,kuo tian,software testing,0.150652574
+128,kuo tian,water quality engineering,0.136835964
+128,kuo tian,water resources engineering,0.130383249
+128,kuo tian,new clinical trial methods,0.128996868
+128,kuo tian,drinking water,0.124718655
+128,kuo tian,analytic hierarchy process optimization,0.120157112
+128,kuo tian,hydrology,0.113089324
+128,kuo tian,ultrasound,0.111952719
+129,lance sherry,subsystems,0.257102656
+129,lance sherry,analytic hierarchy process optimization,0.217902312
+129,lance sherry,model based systems engineering,0.1881628
+129,lance sherry,time series modeling,0.183993605
+129,lance sherry,real time embedded systems,0.182162242
+129,lance sherry,bio metrics forensic science,0.182048889
+129,lance sherry,evidence based reasoning,0.18180661
+129,lance sherry,functional electrical stimulation,0.18139002
+129,lance sherry,neuroscience,0.177309825
+129,lance sherry,thermal based transport,0.172624676
+130,larry kerschberg,subsystems,0.203605405
+130,larry kerschberg,google,0.130889189
+130,larry kerschberg,electronics,0.126661422
+130,larry kerschberg,neural networks,0.126260605
+130,larry kerschberg,bio metrics forensic science,0.125667984
+130,larry kerschberg,viscoelastic fluids,0.125313156
+130,larry kerschberg,neural interfaces,0.12340351
+130,larry kerschberg,bioengineering,0.12340351
+130,larry kerschberg,information technology,0.121245254
+130,larry kerschberg,neuroscience,0.118745083
+131,laura kosoglu,bioengineering,0.23473428
+131,laura kosoglu,hydrology,0.172484963
+131,laura kosoglu,semantic computing,0.17071584
+131,laura kosoglu,gpu computing,0.16958899
+131,laura kosoglu,ubiquitous computing,0.161311306
+131,laura kosoglu,computing education research,0.13515004
+131,laura kosoglu,water resources engineering,0.130207151
+132,lei yang,subsystems,0.230060406
+132,lei yang,wireless networks,0.204972038
+132,lei yang,wireless,0.193986312
+132,lei yang,wireless networking,0.188337419
+132,lei yang,bio metrics forensic science,0.171824004
+132,lei yang,wireless communications  networks,0.170372047
+132,lei yang,model based systems engineering,0.170101376
+132,lei yang,network modeling,0.16749021
+132,lei yang,ai ml wireless,0.166428427
+132,lei yang,devices,0.162691512
+133,leigh mccue weil,tribology,0.137340321
+133,leigh mccue weil,bioengineering,0.118940207
+133,leigh mccue weil,nanotechnology,0.093171746
+133,leigh mccue weil,edge computing,0.090450352
+133,leigh mccue weil,information technology,0.090149151
+133,leigh mccue weil,dna nanotechnology,0.089205155
+133,leigh mccue weil,human centered computing,0.088681953
+133,leigh mccue weil,gpu computing,0.08270858
+134,leonard adelman,real time embedded systems,0.192874394
+134,leonard adelman,real time,0.18527544
+134,leonard adelman,computational statistics,0.18219799
+134,leonard adelman,analytic hierarchy process optimization,0.177090954
+134,leonard adelman,time series modeling,0.17532083
+134,leonard adelman,time series,0.174655518
+134,leonard adelman,spatio temporal statistics,0.171786202
+134,leonard adelman,system level optimization applied ,0.168589657
+134,leonard adelman,decision support systems,0.166175789
+135,liling huang,subsystems,0.209699646
+135,liling huang,network architecture,0.13925685
+135,liling huang,neural networks,0.137031177
+135,liling huang,computer networks architectures,0.122027238
+135,liling huang,neuroinformatics computational neuroanatomy,0.116499803
+135,liling huang,computational neuroanatomy,0.116499803
+135,liling huang,neuroscience,0.114146029
+135,liling huang,power system security,0.107937724
+135,liling huang,computational neuroscience,0.107857859
+135,liling huang,network security,0.107804583
+136,lily wang,recycled materials geo environmental modeling,0.226164841
+136,lily wang,modeling,0.220339982
+136,lily wang,systems modeling  analysis,0.21933544
+136,lily wang,modeling performance,0.218136555
+136,lily wang,model based systems engineering,0.217552165
+136,lily wang,probabilistic modeling,0.217306201
+136,lily wang,musculoskeletal modeling,0.216282047
+137,linghan zhang,subsystems,0.204411537
+137,linghan zhang,google,0.156096083
+137,linghan zhang,wireless networks,0.152066776
+137,linghan zhang,malware detection,0.150455943
+137,linghan zhang,bio metrics forensic science,0.14566385
+137,linghan zhang,wireless communications  networks,0.140103116
+137,linghan zhang,neuroscience,0.136555626
+137,linghan zhang,network forensics,0.131860265
+137,linghan zhang,wireless sensing,0.131491303
+137,linghan zhang,neural networks,0.131146942
+138,lisa luo,applied cryptography,0.192480163
+138,lisa luo,subsystems,0.189212294
+138,lisa luo,bio metrics forensic science,0.160204191
+138,lisa luo,analytic hierarchy process optimization,0.158420839
+138,lisa luo,cryptography,0.158208543
+138,lisa luo,system level optimization applied ,0.151275318
+138,lisa luo,digital forensics analysis,0.149457145
+138,lisa luo,building material properties structures,0.149293206
+139,lishan yang,analytic hierarchy process optimization,0.180422597
+139,lishan yang,bio metrics forensic science,0.165514353
+139,lishan yang,model based systems engineering,0.158650672
+139,lishan yang,spatial statistics,0.151962014
+139,lishan yang,statistics,0.151795067
+139,lishan yang,functional electrical stimulation,0.151511042
+139,lishan yang,computational statistics,0.149244002
+139,lishan yang,bayesian statistics,0.147674697
+139,lishan yang,high dimensional statistics,0.14707102
+139,lishan yang,evidence based reasoning,0.143339634
+140,liza wilson durant,environmental health,0.136060485
+140,liza wilson durant,electronics,0.119309997
+140,liza wilson durant,analytic hierarchy process optimization,0.11080836
+140,liza wilson durant,bioengineering,0.110213854
+140,liza wilson durant,wastewater reuse,0.107157825
+140,liza wilson durant,substance use disorders,0.101862769
+140,liza wilson durant,air sea gas transport,0.101696701
+140,liza wilson durant,recycled materials geo environmental modeling,0.10090827
+140,liza wilson durant,photonics synthesis,0.09920421
+141,lucas henneman,air pollution modeling policy analysis,0.25018205
+141,lucas henneman,air transportation,0.216955157
+141,lucas henneman,air sea gas transport,0.207742235
+141,lucas henneman,transportation air quality,0.207452685
+141,lucas henneman,high dimensional statistics,0.203511088
+141,lucas henneman,electronics,0.193551448
+141,lucas henneman,hydraulic land surface modeling,0.181435165
+141,lucas henneman,high dimensional data,0.17620275
+141,lucas henneman,land surface modeling,0.172163884
+141,lucas henneman,high dimensional search,0.167180355
+142,mahdi hashemi,internet measurements,0.21989092
+142,mahdi hashemi,internet,0.215695093
+142,mahdi hashemi,distance computer based learning,0.210411024
+142,mahdi hashemi,analytic hierarchy process optimization,0.20334456
+142,mahdi hashemi,google,0.201847333
+142,mahdi hashemi,model based systems engineering,0.195104439
+142,mahdi hashemi,functional electrical stimulation,0.189023802
+142,mahdi hashemi,next g communications networks,0.186839738
+142,mahdi hashemi,recycled materials geo environmental modeling,0.185732202
+142,mahdi hashemi,evidence based reasoning,0.183984147
+143,marcos zampieri,linguistics,0.338751219
+143,marcos zampieri,computational linguistics,0.301440749
+143,marcos zampieri,analytic hierarchy process optimization,0.200583165
+143,marcos zampieri,new clinical trial methods,0.18373789
+143,marcos zampieri,natural language processing,0.183308172
+143,marcos zampieri,subsystems,0.175129049
+143,marcos zampieri,creative tools,0.163834864
+143,marcos zampieri,medical image analysis,0.156229625
+143,marcos zampieri,bio metrics forensic science,0.154784797
+143,marcos zampieri,model based systems engineering,0.148386335
+144,mark snyder,subsystems,0.201092216
+144,mark snyder,bio metrics forensic science,0.173246381
+144,mark snyder,linguistics,0.160892814
+144,mark snyder,computational linguistics,0.159071957
+144,mark snyder,functional electrical stimulation,0.149505162
+144,mark snyder,type theory,0.145760363
+144,mark snyder,analytic hierarchy process optimization,0.144603903
+144,mark snyder,network forensics,0.141014044
+144,mark snyder,neural networks,0.140792712
+144,mark snyder,model based systems engineering,0.134745928
+145,martha bushong,information science,0.112265937
+145,martha bushong,collecting analyzing data wearable devices,0.096053081
+145,martha bushong,accessible ubiquitous computing,0.0947045
+145,martha bushong,results clinical studies,0.092178591
+145,martha bushong,computing education research,0.091957897
+145,martha bushong,computer science education,0.091787039
+145,martha bushong,engineering computing student learning methods effectiveness,0.088068427
+145,martha bushong,information extraction,0.087988655
+146,martin slawski,analytic hierarchy process optimization,0.16668191
+146,martin slawski,substance use disorders,0.152008081
+146,martin slawski,systems modeling  analysis,0.145037354
+146,martin slawski,model based systems engineering,0.140224139
+146,martin slawski,high dimensional statistics,0.137763907
+146,martin slawski,recycled materials geo environmental modeling,0.13678911
+146,martin slawski,coastal building resilience,0.134857761
+146,martin slawski,hydraulic land surface modeling,0.134646491
+146,martin slawski,sustainability resilience,0.134438543
+146,martin slawski,air pollution modeling policy analysis,0.133514737
+147,massimiliano albanese,subsystems,0.276095378
+147,massimiliano albanese,internet,0.20819022
+147,massimiliano albanese,bio metrics forensic science,0.203071639
+147,massimiliano albanese,internet measurements,0.202906878
+147,massimiliano albanese,wireless communications  networks,0.189270071
+147,massimiliano albanese,network web security,0.188620439
+147,massimiliano albanese,next g communications networks,0.18569121
+147,massimiliano albanese,network modeling,0.181779811
+147,massimiliano albanese,model based systems engineering,0.179946565
+147,massimiliano albanese,time series modeling,0.177489886
+148,matthew amissah,subsystems,0.454858826
+148,matthew amissah,neural networks,0.28661839
+148,matthew amissah,neuroscience,0.278543007
+148,matthew amissah,network connectivity,0.245651842
+148,matthew amissah,neuroinformatics computational neuroanatomy,0.227429413
+148,matthew amissah,computational neuroanatomy,0.227429413
+148,matthew amissah,wireless networks,0.22333125
+148,matthew amissah,cognitive networks,0.218507112
+148,matthew amissah,network modeling,0.214422507
+148,matthew amissah,computational neuroscience,0.210558722
+149,md tanvir arafin,model based systems engineering,0.201444932
+149,md tanvir arafin,functional electrical stimulation,0.181268386
+149,md tanvir arafin,ultrasound imaging devices,0.179904362
+149,md tanvir arafin,internet,0.179563664
+149,md tanvir arafin,distance computer based learning,0.175521092
+149,md tanvir arafin,internet measurements,0.174274666
+149,md tanvir arafin,systems network security,0.170789282
+149,md tanvir arafin,network systems security,0.170789282
+149,md tanvir arafin,devices,0.169697416
+149,md tanvir arafin,devices,0.169697416
+150,mehdi amiri darehbidi,analytic hierarchy process optimization,0.183745949
+150,mehdi amiri darehbidi,model based systems engineering,0.176519703
+150,mehdi amiri darehbidi,hydraulic land surface modeling,0.173060891
+150,mehdi amiri darehbidi,recycled materials geo environmental modeling,0.173033443
+150,mehdi amiri darehbidi,procurement economic models,0.16687067
+150,mehdi amiri darehbidi,land surface modeling,0.165988007
+150,mehdi amiri darehbidi,bio metrics forensic science,0.159506678
+150,mehdi amiri darehbidi,modeling performance,0.157264639
+150,mehdi amiri darehbidi,systems modeling  analysis,0.15653762
+150,mehdi amiri darehbidi,bayesian statistics,0.155683273
+151,michael eagle,results clinical studies,0.258075146
+151,michael eagle,distance computer based learning,0.216551631
+151,michael eagle,model based systems engineering,0.198913541
+151,michael eagle,computer games technology,0.191090802
+151,michael eagle,analytic hierarchy process optimization,0.191007186
+151,michael eagle,internet,0.190970561
+151,michael eagle,engineering computing student learning methods effectiveness,0.18896239
+151,michael eagle,bayesian statistics,0.186010824
+151,michael eagle,computer game technology,0.185802181
+152,michael hieb,subsystems,0.236241946
+152,michael hieb,model based systems engineering,0.224519469
+152,michael hieb,command,0.203921816
+152,michael hieb,command control,0.202182495
+152,michael hieb,analytic hierarchy process optimization,0.200198889
+152,michael hieb,bio metrics forensic science,0.193358987
+152,michael hieb,network modeling,0.190848472
+152,michael hieb,evidence based reasoning,0.188992618
+152,michael hieb,recycled materials geo environmental modeling,0.188638064
+152,michael hieb,distance computer based learning,0.185747556
+153,michael holland,biometrics,0.22866478
+153,michael holland,computing education research,0.16502459
+153,michael holland,engineering education,0.159923255
+153,michael holland,engineering education research,0.157755754
+153,michael holland,computer science education,0.156717388
+153,michael holland,bayesian statistics,0.137198868
+153,michael holland,information science,0.129640745
+153,michael holland,ai nlp programming,0.127385951
+154,michael lyons,hydrology,0.177296883
+154,michael lyons,subsystems,0.162857586
+154,michael lyons,functional electrical stimulation,0.159164918
+154,michael lyons,bio metrics forensic science,0.150776827
+154,michael lyons,next g communications networks,0.141034641
+154,michael lyons,analytic hierarchy process optimization,0.138402335
+154,michael lyons,google,0.135714655
+154,michael lyons,network forensics,0.123462017
+154,michael lyons,spectrum sharing,0.120950345
+154,michael lyons,curricular development enhanced educational opportunities,0.118864052
+155,mihai boicu,learning engineering,0.310960843
+155,mihai boicu,distance computer based learning,0.295094707
+155,mihai boicu,engineering computing student learning methods effectiveness,0.288679654
+155,mihai boicu,computer science education,0.282039795
+155,mihai boicu,learning analytics,0.274364276
+155,mihai boicu,engineering education research,0.273627228
+155,mihai boicu,engineering education,0.27173004
+155,mihai boicu,unsupervised learning,0.268810336
+155,mihai boicu,knowledge information engineering,0.267710412
+155,mihai boicu,ai machine learning,0.257110289
+156,mingkui wei,internet,0.265317427
+156,mingkui wei,internet measurements,0.249965591
+156,mingkui wei,internet things,0.185833166
+156,mingkui wei,internet of things,0.185833166
+156,mingkui wei,command control,0.180526129
+156,mingkui wei,distributed control,0.175185656
+156,mingkui wei,bio inspired nanoarchitectures control cell behavior,0.164573644
+156,mingkui wei,control theory,0.158508022
+156,mingkui wei,wireless communications  networks,0.15668835
+156,mingkui wei,data driven control,0.156163158
+157,mingrui liu,results clinical studies,0.179203429
+157,mingrui liu,distance computer based learning,0.138185628
+157,mingrui liu,engineering computing student learning methods effectiveness,0.130123373
+157,mingrui liu,internet,0.126506061
+157,mingrui liu,internet measurements,0.124978204
+157,mingrui liu,knowledge information engineering,0.123280906
+157,mingrui liu,model based systems engineering,0.120616827
+157,mingrui liu,computer science education,0.118193985
+157,mingrui liu,ai machine learning,0.117477382
+158,mohamed gebril,computer security,0.138941135
+158,mohamed gebril,ar vr systems security,0.138832545
+158,mohamed gebril,robotics,0.136557748
+158,mohamed gebril,safety security,0.133798722
+158,mohamed gebril,hardware security,0.132812188
+158,mohamed gebril,iot security,0.131764746
+158,mohamed gebril,cyber security,0.131764746
+158,mohamed gebril,security,0.131764746
+158,mohamed gebril,information security assurance,0.126068226
+158,mohamed gebril,urban computing,0.125436302
+159,mohan venigalla,time series modeling,0.251574364
+159,mohan venigalla,recycled materials geo environmental modeling,0.239366595
+159,mohan venigalla,model based systems engineering,0.238987799
+159,mohan venigalla,bayesian statistics,0.22696967
+159,mohan venigalla,high dimensional statistics,0.220258357
+159,mohan venigalla,procurement economic models,0.217576253
+159,mohan venigalla,analytic hierarchy process optimization,0.214104009
+159,mohan venigalla,statistics,0.213506712
+159,mohan venigalla,air pollution modeling policy analysis,0.212367213
+159,mohan venigalla,modeling performance,0.211084296
+160,moinul hossain,internet,0.413811926
+160,moinul hossain,internet measurements,0.372617089
+160,moinul hossain,internet things,0.26527859
+160,moinul hossain,internet of things,0.26527859
+160,moinul hossain,semantic web,0.161500123
+160,moinul hossain,network web security,0.15582484
+160,moinul hossain,web intelligence,0.125874468
+160,moinul hossain,web applications,0.121417313
+160,moinul hossain,world wide web,0.103949997
+160,moinul hossain,online communities,0.083103983
+161,monson hayes,analytic hierarchy process optimization,0.270715721
+161,monson hayes,ultrasound,0.265278886
+161,monson hayes,bio metrics forensic science,0.248749069
+161,monson hayes,ultrasound imaging devices,0.248741363
+161,monson hayes,functional electrical stimulation,0.222222407
+161,monson hayes,distance computer based learning,0.213795796
+161,monson hayes,evidence based reasoning,0.210981301
+161,monson hayes,model based systems engineering,0.210590999
+161,monson hayes,google,0.207497636
+161,monson hayes,substance use disorders,0.202402054
+162,myeong lee,intelligence c4i  cyber,0.312291267
+162,myeong lee,artifiicial intelligence,0.312291267
+162,myeong lee,communications,0.298223746
+162,myeong lee,intelligence analysis,0.282872186
+162,myeong lee,next g communications networks,0.278106317
+162,myeong lee,intelligence strategic analysis,0.269530894
+162,myeong lee,wireless communications  networks,0.267752036
+162,myeong lee,wireless optical communications,0.267182038
+163,nathan kathir,tribology,0.173762012
+163,nathan kathir,nanotechnology,0.157173653
+163,nathan kathir,bioengineering,0.150482316
+163,nathan kathir,dna nanotechnology,0.150482316
+163,nathan kathir,integer programming optimization,0.132697761
+163,nathan kathir,computing education research,0.120385853
+163,nathan kathir,gpu computing,0.119591218
+163,nathan kathir,ai nlp programming,0.116160464
+164,nicholas rios,computational statistics,0.217990099
+164,nicholas rios,statistics,0.214606023
+164,nicholas rios,bayesian statistics,0.208843751
+164,nicholas rios,spatial statistics,0.195053968
+164,nicholas rios,spatio temporal statistics,0.19017646
+164,nicholas rios,computational experimental neuroplasticity memory,0.164497357
+164,nicholas rios,predictive analytics,0.164448996
+164,nicholas rios,high dimensional statistics,0.144467297
+164,nicholas rios,collecting analyzing data wearable devices,0.144217641
+165,niloofar ramezani,bayesian statistics,0.1831031
+165,niloofar ramezani,high dimensional statistics,0.169162197
+165,niloofar ramezani,collecting analyzing data wearable devices,0.165242883
+165,niloofar ramezani,ultrasound imaging devices,0.160729477
+165,niloofar ramezani,high dimensional data,0.160347506
+165,niloofar ramezani,data mining big data analysis,0.154663427
+165,niloofar ramezani,devices,0.152432397
+165,niloofar ramezani,devices,0.152432397
+166,ningshi yao,time series modeling,0.207541252
+166,ningshi yao,climate weather modeling remote sensing,0.165047716
+166,ningshi yao,time series,0.164159584
+166,ningshi yao,model based systems engineering,0.161985516
+166,ningshi yao,command control,0.161730193
+166,ningshi yao,probabilistic modeling,0.160028564
+166,ningshi yao,real time,0.157299229
+166,ningshi yao,real time embedded systems,0.155239382
+166,ningshi yao,scheduling control,0.155219503
+167,olcay ciftci,statistics,0.164817129
+167,olcay ciftci,computational statistics,0.153167916
+167,olcay ciftci,spatial statistics,0.149801177
+167,olcay ciftci,bayesian statistics,0.143684242
+167,olcay ciftci,general,0.115039462
+167,olcay ciftci,precipitation,0.105925428
+167,olcay ciftci,networking,0.103695169
+167,olcay ciftci,assistive technology,0.101826635
+167,olcay ciftci,computers,0.099627096
+168,omoche agada,statistics,0.163468539
+168,omoche agada,computational statistics,0.15799123
+168,omoche agada,spatial statistics,0.148575453
+168,omoche agada,bayesian statistics,0.148208911
+168,omoche agada,spatio temporal statistics,0.120804615
+168,omoche agada,data science,0.108344008
+168,omoche agada,information technology,0.108092458
+168,omoche agada,assistive technology,0.107726352
+168,omoche agada,applied cryptography,0.098530303
+169,parag chitnis,ultrasound,0.302633448
+169,parag chitnis,ultrasound imaging devices,0.25526459
+169,parag chitnis,analytic hierarchy process optimization,0.237361944
+169,parag chitnis,chemical sensors,0.226164495
+169,parag chitnis,bio metrics forensic science,0.215439626
+169,parag chitnis,functional electrical stimulation,0.21213468
+169,parag chitnis,high dimensional statistics,0.212128175
+169,parag chitnis,wireless optical communications,0.194566817
+169,parag chitnis,electrical based transport,0.192772954
+169,parag chitnis,substance use disorders,0.192636015
+170,parth pathak,internet,0.367121676
+170,parth pathak,internet measurements,0.335891099
+170,parth pathak,ultrasound imaging devices,0.268034428
+170,parth pathak,functional electrical stimulation,0.257880715
+170,parth pathak,internet things,0.255647728
+170,parth pathak,internet of things,0.255647728
+170,parth pathak,google,0.247232835
+170,parth pathak,evidence based reasoning,0.238963287
+170,parth pathak,analytic hierarchy process optimization,0.238901181
+170,parth pathak,ultrasound,0.234204374
+171,paul ammann,software testing,0.37914021
+171,paul ammann,auction design testing,0.249544719
+171,paul ammann,model based systems engineering,0.213616513
+171,paul ammann,new clinical trial methods,0.207794709
+171,paul ammann,analytic hierarchy process optimization,0.203884729
+171,paul ammann,recycled materials geo environmental modeling,0.197398933
+171,paul ammann,systems modeling  analysis,0.196808524
+171,paul ammann,network forensics,0.191682933
+171,paul ammann,modeling health outcomes statistical analysis including longitudinal,0.19038156
+171,paul ammann,digital forensics,0.188431895
+172,pelin kurtay,neural interfaces,0.19641855
+172,pelin kurtay,ai nlp programming,0.151619609
+172,pelin kurtay,probabilistic ontologies,0.150970271
+172,pelin kurtay,databases,0.136082763
+172,pelin kurtay,social computing,0.133001245
+172,pelin kurtay,collaborative social computing,0.131059517
+172,pelin kurtay,computing education research,0.1309457
+172,pelin kurtay,semantic computing,0.1309457
+172,pelin kurtay,gpu computing,0.124878108
+173,peter pachowicz,subsystems,0.28088828
+173,peter pachowicz,assistive technology,0.190038011
+173,peter pachowicz,wireless networks,0.183884544
+173,peter pachowicz,information technology,0.177559862
+173,peter pachowicz,neural engineering,0.174018342
+173,peter pachowicz,neural networks,0.172456685
+173,peter pachowicz,engineering education,0.167801519
+173,peter pachowicz,wireless communications  networks,0.162901598
+173,peter pachowicz,engineering education research,0.159331034
+173,peter pachowicz,neuroscience,0.158776837
+174,ping deng,statistics,0.179968508
+174,ping deng,computational statistics,0.167248402
+174,ping deng,spatial statistics,0.163572164
+174,ping deng,bayesian statistics,0.156892908
+174,ping deng,spatio temporal statistics,0.103904867
+174,ping deng,computer science education,0.079650306
+174,ping deng,distance education,0.077673564
+174,ping deng,high dimensional statistics,0.077521709
+175,pouyan ahmadi,internet,0.257008755
+175,pouyan ahmadi,internet measurements,0.239688749
+175,pouyan ahmadi,results clinical studies,0.222921169
+175,pouyan ahmadi,internet things,0.197121452
+175,pouyan ahmadi,internet of things,0.197121452
+175,pouyan ahmadi,neuroscience,0.192720138
+175,pouyan ahmadi,distance computer based learning,0.170827925
+175,pouyan ahmadi,semantic web,0.166288635
+175,pouyan ahmadi,engineering computing student learning methods effectiveness,0.162305682
+176,pramita bagchi,bayesian statistics,0.215046828
+176,pramita bagchi,software testing,0.208320929
+176,pramita bagchi,statistics,0.200726248
+176,pramita bagchi,analytic hierarchy process optimization,0.19496316
+176,pramita bagchi,computational statistics,0.18878645
+176,pramita bagchi,functional electrical stimulation,0.186024231
+176,pramita bagchi,spatial statistics,0.18463679
+176,pramita bagchi,digital forensics analysis,0.182089937
+176,pramita bagchi,bio metrics forensic science,0.181950464
+176,pramita bagchi,medical image analysis,0.17789345
+177,qi wei,musculoskeletal modeling,0.280454819
+177,qi wei,model based systems engineering,0.265861917
+177,qi wei,network modeling,0.253850553
+177,qi wei,recycled materials geo environmental modeling,0.249086404
+177,qi wei,modeling,0.24819836
+177,qi wei,systems modeling  analysis,0.245191345
+177,qi wei,probabilistic modeling,0.244775995
+178,qiang zeng,subsystems,0.194303371
+178,qiang zeng,google,0.163986533
+178,qiang zeng,bio metrics forensic science,0.161603279
+178,qiang zeng,analytic hierarchy process optimization,0.159991259
+178,qiang zeng,applied cryptography,0.15601959
+178,qiang zeng,network forensics,0.150435069
+178,qiang zeng,digital forensics analysis,0.149347487
+178,qiang zeng,model based systems engineering,0.148701509
+178,qiang zeng,ultrasound imaging devices,0.146571431
+178,qiang zeng,automated machine learning,0.146090567
+179,qiliang li,electronics,0.228431553
+179,qiliang li,hydraulic land surface modeling,0.214209345
+179,qiliang li,land surface modeling,0.205973749
+179,qiliang li,model based systems engineering,0.197460005
+179,qiliang li,ultrasound imaging devices,0.193396741
+179,qiliang li,land data assimilation systems,0.188070952
+179,qiliang li,distance computer based learning,0.18489482
+179,qiliang li,electrical based transport,0.183934379
+179,qiliang li,analytic hierarchy process optimization,0.183037927
+179,qiliang li,high dimensional statistics,0.182642513
+180,rajesh ganesan,analytic hierarchy process optimization,0.248761397
+180,rajesh ganesan,real time embedded systems,0.230738186
+180,rajesh ganesan,time series modeling,0.225663333
+180,rajesh ganesan,subsystems,0.220821402
+180,rajesh ganesan,real time,0.218025711
+180,rajesh ganesan,land data assimilation systems,0.217895679
+180,rajesh ganesan,distance computer based learning,0.21755046
+180,rajesh ganesan,time series,0.214770993
+180,rajesh ganesan,model based systems engineering,0.213566367
+180,rajesh ganesan,bio metrics forensic science,0.199686453
+181,ran ji,probabilistic modeling,0.211279284
+181,ran ji,modeling,0.209640583
+181,ran ji,model based systems engineering,0.205330321
+181,ran ji,musculoskeletal modeling,0.204778005
+181,ran ji,geometric modeling,0.198324387
+181,ran ji,modeling performance,0.19367389
+181,ran ji,computer simulation modeling,0.193066555
+182,rao v mulpuri,high dimensional statistics,0.166040236
+182,rao v mulpuri,high dimensional data,0.157060751
+182,rao v mulpuri,analytic hierarchy process optimization,0.156086477
+182,rao v mulpuri,high dimensional search,0.154493538
+182,rao v mulpuri,high temperature tribology,0.152033452
+182,rao v mulpuri,hydraulic land surface modeling,0.151561403
+182,rao v mulpuri,high temperature materials,0.149530367
+182,rao v mulpuri,electronics,0.149241921
+182,rao v mulpuri,land surface modeling,0.146155933
+182,rao v mulpuri,ultrasound,0.144241975
+183,ray hong,devices,0.244656756
+183,ray hong,devices,0.244656756
+183,ray hong,ultrasound imaging devices,0.241066349
+183,ray hong,model based systems engineering,0.227922937
+183,ray hong,google,0.216872746
+183,ray hong,distance computer based learning,0.208522591
+183,ray hong,next g communications networks,0.207581419
+183,ray hong,functional electrical stimulation,0.201755973
+183,ray hong,wireless optical communications,0.201393595
+184,remi veneziano,ultrasound imaging devices,0.212172693
+184,remi veneziano,analytic hierarchy process optimization,0.20546338
+184,remi veneziano,functional electrical stimulation,0.199575952
+184,remi veneziano,model based systems engineering,0.183171386
+184,remi veneziano,substance use disorders,0.181103677
+184,remi veneziano,next g communications networks,0.174983474
+184,remi veneziano,electrical based transport,0.170354119
+184,remi veneziano,5g next g,0.170026859
+184,remi veneziano,chemical engineering,0.169711845
+184,remi veneziano,ultrasound,0.168975528
+185,riki morikawa,bioengineering,0.225610897
+185,riki morikawa,information technology,0.184570118
+185,riki morikawa,subsystems,0.182321138
+185,riki morikawa,assistive technology,0.175829764
+185,riki morikawa,wireless communications  networks,0.175641618
+185,riki morikawa,wireless communications,0.164116153
+185,riki morikawa,web intelligence,0.16190193
+185,riki morikawa,tribology,0.161269968
+185,riki morikawa,intelligence c4i  cyber,0.161150641
+185,riki morikawa,artifiicial intelligence,0.161150641
+186,robert handler,blood flow,0.232906394
+186,robert handler,hydraulic land surface modeling,0.231177945
+186,robert handler,land surface modeling,0.22462465
+186,robert handler,nano scale surface engineering,0.201054112
+186,robert handler,surface engineering,0.188330621
+186,robert handler,viscoelastic fluids,0.187745393
+186,robert handler,system level optimization applied ,0.18682129
+186,robert handler,model based systems engineering,0.17242996
+186,robert handler,particle filtering,0.171193842
+187,robert osgood,ai nlp programming,0.174852864
+187,robert osgood,neural interfaces,0.160872957
+187,robert osgood,integer programming optimization,0.141316871
+187,robert osgood,internet,0.133321024
+187,robert osgood,web intelligence,0.126325985
+187,robert osgood,neuroinformatics computational neuroanatomy,0.125522051
+187,robert osgood,computational neuroanatomy,0.125522051
+187,robert osgood,information retrieval,0.125233295
+187,robert osgood,internet measurements,0.120048961
+187,robert osgood,computational neuroscience,0.116210838
+188,robert pettit,subsystems,0.295026517
+188,robert pettit,malware detection,0.236286664
+188,robert pettit,devices,0.234718125
+188,robert pettit,devices,0.234718125
+188,robert pettit,network modeling,0.212807519
+188,robert pettit,model based systems engineering,0.208622868
+188,robert pettit,ultrasound imaging devices,0.203157415
+188,robert pettit,neural networks,0.20102526
+188,robert pettit,network architecture,0.198791364
+189,rochelle jones,subsystems,0.238750858
+189,rochelle jones,computing education research,0.198614531
+189,rochelle jones,engineering education,0.179643187
+189,rochelle jones,engineering education research,0.169728838
+189,rochelle jones,computer science education,0.167659056
+189,rochelle jones,distance education,0.160091922
+189,rochelle jones,cs education,0.14789856
+189,rochelle jones,bio metrics forensic science,0.147360229
+190,sadegh torabi,internet,0.254414347
+190,sadegh torabi,internet measurements,0.245967615
+190,sadegh torabi,web intelligence,0.225467451
+190,sadegh torabi,spectrum sharing,0.189214878
+190,sadegh torabi,internet things,0.175112586
+190,sadegh torabi,internet of things,0.175112586
+190,sadegh torabi,databases,0.168684998
+190,sadegh torabi,intelligence c4i  cyber,0.164081533
+191,sam salem,architecture,0.101782672
+191,sam salem,economics,0.095961623
+191,sam salem,urban computing,0.082186351
+191,sam salem,infrastructure,0.080984407
+191,sam salem,computer architecture,0.079237702
+191,sam salem,tribology,0.075864324
+191,sam salem,network architecture,0.069415206
+191,sam salem,nanotechnology,0.068621863
+192,samuel gordon,neuroinformatics computational neuroanatomy,0.166895422
+192,samuel gordon,computational neuroanatomy,0.166895422
+192,samuel gordon,computational neuroscience,0.166400916
+192,samuel gordon,computational linguistics,0.131670742
+192,samuel gordon,computational statistics,0.126267782
+192,samuel gordon,evidence based reasoning,0.125808066
+192,samuel gordon,computational geometry,0.125787269
+192,samuel gordon,functional electrical stimulation,0.123677723
+192,samuel gordon,time series modeling,0.122879047
+192,samuel gordon,science evidence,0.122664486
+193,sanjeev setia,internet,0.343135201
+193,sanjeev setia,internet measurements,0.319973666
+193,sanjeev setia,internet things,0.231528287
+193,sanjeev setia,internet of things,0.231528287
+193,sanjeev setia,subsystems,0.184665858
+193,sanjeev setia,bio metrics forensic science,0.169763368
+193,sanjeev setia,web applications,0.168425571
+193,sanjeev setia,evidence based reasoning,0.167873203
+193,sanjeev setia,analytic hierarchy process optimization,0.167052466
+193,sanjeev setia,network web security,0.166697478
+194,sanmay das,model based systems engineering,0.210061111
+194,sanmay das,aneurysm risk assessment,0.204766287
+194,sanmay das,recycled materials geo environmental modeling,0.203329579
+194,sanmay das,google,0.194387759
+194,sanmay das,analytic hierarchy process optimization,0.187050023
+194,sanmay das,operational risk management,0.186785506
+194,sanmay das,systems modeling  analysis,0.185862054
+194,sanmay das,functional electrical stimulation,0.183309304
+194,sanmay das,substance use disorders,0.183228111
+194,sanmay das,bio metrics forensic science,0.180248419
+195,sara gopalkrishna,computing education research,0.115944265
+195,sara gopalkrishna,engineering education,0.11236013
+195,sara gopalkrishna,computer science education,0.104864501
+195,sara gopalkrishna,distance education,0.102261999
+195,sara gopalkrishna,high dimensional statistics,0.102062073
+195,sara gopalkrishna,high dimensional search,0.100970993
+195,sara gopalkrishna,engineering education research,0.100761154
+195,sara gopalkrishna,high dimensional data,0.099720563
+195,sara gopalkrishna,high temperature tribology,0.09647146
+196,scott lewis,learning engineering,0.196890652
+196,scott lewis,learning analytics,0.169956393
+196,scott lewis,unsupervised learning,0.165793563
+196,scott lewis,engineering computing student learning methods effectiveness,0.146366924
+196,scott lewis,engineering education,0.143868348
+196,scott lewis,personalized learning,0.141596999
+196,scott lewis,engineering education research,0.138941135
+196,scott lewis,distance computer based learning,0.133279016
+196,scott lewis,machine learning,0.130550515
+196,scott lewis,adversarial machine learning,0.130550515
+197,shahnaz kamberi,neural interfaces,0.327194783
+197,shahnaz kamberi,bioengineering,0.295273341
+197,shahnaz kamberi,ai nlp programming,0.290043131
+197,shahnaz kamberi,probabilistic ontologies,0.241519396
+197,shahnaz kamberi,hardware,0.239588092
+197,shahnaz kamberi,gpu computing,0.225146235
+197,shahnaz kamberi,semantic computing,0.223450096
+197,shahnaz kamberi,cryptographic hardware,0.216715584
+198,shani ross,functional electrical stimulation,0.183598347
+198,shani ross,google,0.167277393
+198,shani ross,chemical sensors,0.166449257
+198,shani ross,next g communications networks,0.164849834
+198,shani ross,analytic hierarchy process optimization,0.162020461
+198,shani ross,deep brain stimulation,0.158510468
+198,shani ross,bio inspired nanoarchitectures control cell behavior,0.155268996
+198,shani ross,bio metrics forensic science,0.154868773
+198,shani ross,high dimensional data,0.154328179
+198,shani ross,high dimensional statistics,0.151388291
+199,sharmin sultana,land surface modeling,0.185552869
+199,sharmin sultana,hydraulic land surface modeling,0.183149677
+199,sharmin sultana,recycled materials geo environmental modeling,0.182347932
+199,sharmin sultana,modeling performance,0.182018725
+199,sharmin sultana,model based systems engineering,0.18139616
+199,sharmin sultana,modeling,0.178639717
+199,sharmin sultana,probabilistic modeling,0.177773804
+200,sharon adamus,ai nlp programming,0.327373862
+200,sharon adamus,integer programming optimization,0.278900904
+200,sharon adamus,computing education research,0.201269121
+200,sharon adamus,bioengineering,0.189768029
+200,sharon adamus,chance constrained programming,0.16667517
+200,sharon adamus,engineering education,0.1560379
+200,sharon adamus,neural interfaces,0.155264751
+200,sharon adamus,responsible ai,0.151448037
+200,sharon adamus,gpu computing,0.150812337
+201,sherif hashem,internet,0.403556075
+201,sherif hashem,internet measurements,0.386725814
+201,sherif hashem,internet things,0.273661155
+201,sherif hashem,internet of things,0.273661155
+201,sherif hashem,model based systems engineering,0.219385714
+201,sherif hashem,network modeling,0.203310564
+201,sherif hashem,recycled materials geo environmental modeling,0.194297307
+201,sherif hashem,modeling performance,0.190373828
+202,shuochao yao,internet,0.241913302
+202,shuochao yao,internet measurements,0.229049674
+202,shuochao yao,recycled materials geo environmental modeling,0.205876912
+202,shuochao yao,time series modeling,0.204135646
+202,shuochao yao,climate weather modeling remote sensing,0.198038842
+202,shuochao yao,network modeling,0.194368345
+202,shuochao yao,model based systems engineering,0.193770572
+202,shuochao yao,internet things,0.187694754
+202,shuochao yao,internet of things,0.187694754
+202,shuochao yao,systems modeling  analysis,0.180390118
+203,shvetha soundararajan,gpu computing,0.194938811
+203,shvetha soundararajan,neural interfaces,0.190101784
+203,shvetha soundararajan,ubiquitous computing,0.185423795
+203,shvetha soundararajan,hardware,0.184105692
+203,shvetha soundararajan,cryptographic hardware,0.166529864
+203,shvetha soundararajan,semantic computing,0.163528416
+203,shvetha soundararajan,bioengineering,0.159440206
+204,siddhartha sikdar,ultrasound,0.276617294
+204,siddhartha sikdar,ultrasound imaging devices,0.24459374
+204,siddhartha sikdar,analytic hierarchy process optimization,0.232550614
+204,siddhartha sikdar,bio metrics forensic science,0.229013396
+204,siddhartha sikdar,functional electrical stimulation,0.210939571
+204,siddhartha sikdar,new clinical trial methods,0.203306727
+204,siddhartha sikdar,distance computer based learning,0.199970079
+204,siddhartha sikdar,high dimensional statistics,0.197070855
+204,siddhartha sikdar,substance use disorders,0.194846302
+204,siddhartha sikdar,google,0.194828177
+205,socrates dimitriadis,internet measurements,0.158073563
+205,socrates dimitriadis,internet,0.150470959
+205,socrates dimitriadis,neural interfaces,0.118957738
+205,socrates dimitriadis,land data assimilation systems,0.104499447
+205,socrates dimitriadis,web applications,0.102471509
+205,socrates dimitriadis,memory systems,0.098135127
+205,socrates dimitriadis,internet things,0.096461028
+205,socrates dimitriadis,internet of things,0.096461028
+205,socrates dimitriadis,computational experimental neuroplasticity memory,0.096171631
+205,socrates dimitriadis,memory,0.09564562
+206,songjun luo ,leadership,0.183597018
+206,songjun luo ,engineering education,0.108429898
+206,songjun luo ,engineering education research,0.097236642
+206,songjun luo ,ultrasound imaging devices,0.093116425
+206,songjun luo ,biophysics,0.091798509
+206,songjun luo ,high dimensional statistics,0.087087712
+206,songjun luo ,computer science education,0.086993447
+207,songqing chen,internet,0.236289706
+207,songqing chen,internet measurements,0.224802871
+207,songqing chen,subsystems,0.213268931
+207,songqing chen,network web security,0.188447291
+207,songqing chen,web applications,0.185252268
+207,songqing chen,internet things,0.18516968
+207,songqing chen,internet of things,0.18516968
+207,songqing chen,semantic web,0.184229254
+207,songqing chen,bio metrics forensic science,0.178688695
+207,songqing chen,google,0.178568404
+208,steven schorling,cognitive systems,0
+208,steven schorling,intelligent agents,0
+208,steven schorling,knowledge representation reasoning,0
+208,steven schorling,machine learning,0
+208,steven schorling,natural language processing,0
+208,steven schorling,robotics,0
+208,steven schorling,unmanned autonomous vehicles,0
+208,steven schorling,computer architecture,0
+208,steven schorling,computing components,0
+208,steven schorling,devices,0
+209,syed abbas zaidi,time series modeling,0.284671156
+209,syed abbas zaidi,model based systems engineering,0.259936875
+209,syed abbas zaidi,real time embedded systems,0.242464652
+209,syed abbas zaidi,real time,0.236680939
+209,syed abbas zaidi,network modeling,0.231088804
+209,syed abbas zaidi,spatio temporal models,0.230665465
+209,syed abbas zaidi,procurement economic models,0.226841768
+209,syed abbas zaidi,time series,0.224719116
+209,syed abbas zaidi,modeling performance,0.222601397
+209,syed abbas zaidi,subsystems,0.221947003
+210,tamara maddox,neural interfaces,0.282138246
+210,tamara maddox,ai nlp programming,0.272235555
+210,tamara maddox,integer programming optimization,0.207328422
+210,tamara maddox,neuroinformatics computational neuroanatomy,0.199501867
+210,tamara maddox,computational neuroanatomy,0.199501867
+210,tamara maddox,computational neuroscience,0.184702839
+210,tamara maddox,responsible ai,0.182119455
+210,tamara maddox,human ai collaboration,0.180456229
+210,tamara maddox,internet,0.178439895
+210,tamara maddox,ai machine learning,0.177782655
+211,thanhvu nguyen,integer programming optimization,0.328767488
+211,thanhvu nguyen,ai nlp programming,0.294524978
+211,thanhvu nguyen,chance constrained programming,0.245122244
+211,thanhvu nguyen,analytic hierarchy process optimization,0.202513341
+211,thanhvu nguyen,functional electrical stimulation,0.196518968
+211,thanhvu nguyen,model based systems engineering,0.186216895
+211,thanhvu nguyen,new clinical trial methods,0.185267042
+211,thanhvu nguyen,evidence based reasoning,0.182125314
+211,thanhvu nguyen,bio metrics forensic science,0.179278905
+211,thanhvu nguyen,google,0.178848127
+212,thomas latoza,model based systems engineering,0.213367746
+212,thomas latoza,system enterprise architecture design,0.210540027
+212,thomas latoza,devices,0.203843355
+212,thomas latoza,devices,0.203843355
+212,thomas latoza,ultrasound imaging devices,0.19297953
+212,thomas latoza,creative tools,0.189570469
+212,thomas latoza,systems modeling  analysis,0.17728934
+212,thomas latoza,engineering design,0.176270285
+213,tianshu feng,bayesian statistics,0.272427502
+213,tianshu feng,recycled materials geo environmental modeling,0.247930159
+213,tianshu feng,systems modeling  analysis,0.246334666
+213,tianshu feng,modeling,0.244451688
+213,tianshu feng,probabilistic modeling,0.242054
+213,tianshu feng,musculoskeletal modeling,0.237691344
+213,tianshu feng,statistics,0.235290937
+214,tokunbo fadahunsi,subsystems,0.23830003
+214,tokunbo fadahunsi,network modeling,0.190168311
+214,tokunbo fadahunsi,network security,0.189938513
+214,tokunbo fadahunsi,bio metrics forensic science,0.189105392
+214,tokunbo fadahunsi,systems network security,0.185884947
+214,tokunbo fadahunsi,network systems security,0.185884947
+214,tokunbo fadahunsi,model based systems engineering,0.179295337
+214,tokunbo fadahunsi,network web security,0.1774404
+214,tokunbo fadahunsi,neuroscience,0.177198735
+214,tokunbo fadahunsi,computer network security,0.176315956
+215,tolga soyata,subsystems,0.241150949
+215,tolga soyata,analytic hierarchy process optimization,0.21198411
+215,tolga soyata,computational statistics,0.200607572
+215,tolga soyata,statistics,0.19907533
+215,tolga soyata,bayesian statistics,0.196027691
+215,tolga soyata,natural language processing,0.189921552
+215,tolga soyata,spatial statistics,0.186388172
+215,tolga soyata,bio metrics forensic science,0.185393405
+215,tolga soyata,ultrasound imaging devices,0.183546447
+215,tolga soyata,functional electrical stimulation,0.182885272
+216,vadim sokolov,model based systems engineering,0.28483693
+216,vadim sokolov,recycled materials geo environmental modeling,0.270891333
+216,vadim sokolov,modeling performance,0.25957913
+216,vadim sokolov,modeling,0.252148577
+216,vadim sokolov,analytic hierarchy process optimization,0.250580672
+216,vadim sokolov,musculoskeletal modeling,0.246560547
+216,vadim sokolov,network modeling,0.245936748
+217,vasiliki ikonomidou,ultrasound imaging devices,0.242188391
+217,vasiliki ikonomidou,analytic hierarchy process optimization,0.235593011
+217,vasiliki ikonomidou,ultrasound,0.214104725
+217,vasiliki ikonomidou,substance use disorders,0.204704098
+217,vasiliki ikonomidou,bio metrics forensic science,0.194421882
+217,vasiliki ikonomidou,results clinical studies,0.19315712
+217,vasiliki ikonomidou,functional electrical stimulation,0.192870465
+217,vasiliki ikonomidou,evidence based reasoning,0.192482425
+217,vasiliki ikonomidou,new clinical trial methods,0.191794925
+217,vasiliki ikonomidou,photoacoustic imaging microscopy,0.189001297
+218,vijay shah,internet,0.404465975
+218,vijay shah,internet measurements,0.378701351
+218,vijay shah,internet things,0.282362013
+218,vijay shah,internet of things,0.282362013
+218,vijay shah,web intelligence,0.200122423
+218,vijay shah,wireless communications,0.195510389
+218,vijay shah,wireless optical communications,0.194245331
+218,vijay shah,wireless communications  networks,0.188964967
+218,vijay shah,wireless,0.179580392
+218,vijay shah,wireless networking,0.173989958
+219,vivian genaro motti,google,0.230263457
+219,vivian genaro motti,devices,0.218422892
+219,vivian genaro motti,devices,0.218422892
+219,vivian genaro motti,ultrasound imaging devices,0.202317763
+219,vivian genaro motti,collecting analyzing data wearable devices,0.181739737
+219,vivian genaro motti,functional electrical stimulation,0.176102049
+219,vivian genaro motti,model based systems engineering,0.162240451
+219,vivian genaro motti,system enterprise architecture design,0.145401323
+219,vivian genaro motti,analytic hierarchy process optimization,0.143434708
+220,viviana maggioni,hydraulic land surface modeling,0.240508633
+220,viviana maggioni,land surface modeling,0.226600957
+220,viviana maggioni,climate weather modeling remote sensing,0.201986444
+220,viviana maggioni,model based systems engineering,0.198363388
+220,viviana maggioni,procurement economic models,0.191488678
+220,viviana maggioni,recycled materials geo environmental modeling,0.191066293
+220,viviana maggioni,network modeling,0.184893849
+220,viviana maggioni,modeling,0.176036348
+221,wanli qiao,bayesian statistics,0.207256668
+221,wanli qiao,bayesian optimization,0.179622446
+221,wanli qiao,probabilistic ontologies,0.172447972
+221,wanli qiao,bayesian networks,0.169341027
+221,wanli qiao,software analysis,0.129232469
+221,wanli qiao,data mining big data analysis,0.129048245
+221,wanli qiao,digital forensics analysis,0.12561651
+221,wanli qiao,distance computer based learning,0.125329744
+221,wanli qiao,spectrum analysis,0.122341918
+221,wanli qiao,uncertainty analysis,0.117335983
+222,wassim masri,malware detection,0.158396079
+222,wassim masri,structural stress,0.071295485
+222,wassim masri,structural health monitoring inspection,0.067703902
+222,wassim masri,dependent complex structured data ,0.065663123
+222,wassim masri,linguistics,0.061724606
+222,wassim masri,tribology,0.056865933
+222,wassim masri,systems network security,0.056865933
+222,wassim masri,network systems security,0.056865933
+222,wassim masri,neural engineering,0.056092211
+223,weiwen jiang,subsystems,0.258280587
+223,weiwen jiang,devices,0.200205214
+223,weiwen jiang,devices,0.200205214
+223,weiwen jiang,internet,0.177894409
+223,weiwen jiang,internet measurements,0.175272653
+223,weiwen jiang,ultrasound imaging devices,0.175061127
+223,weiwen jiang,model based systems engineering,0.173578948
+223,weiwen jiang,bio metrics forensic science,0.173190779
+223,weiwen jiang,wireless networks,0.169345267
+224,william rosenberger,structural stress,0.20626489
+224,william rosenberger,structural health monitoring inspection,0.205854932
+224,william rosenberger,dependent complex structured data ,0.197943807
+224,william rosenberger,systems modeling  analysis,0.180171258
+224,william rosenberger,data mining big data analysis,0.175187728
+224,william rosenberger,coastal building resilience,0.166827482
+224,william rosenberger,system analysis simulation,0.161424895
+224,william rosenberger,air pollution modeling policy analysis,0.155531129
+224,william rosenberger,building material properties structures,0.154453817
+225,wing lam,neural interfaces,0.144337567
+225,wing lam,bioengineering,0.144337567
+225,wing lam,malware detection,0.123796892
+225,wing lam,gpu computing,0.114707867
+225,wing lam,hardware,0.111111111
+225,wing lam,ubiquitous computing,0.109108945
+225,wing lam,ai nlp programming,0.108322281
+226,xiang chen,internet,0.22098808
+226,xiang chen,internet measurements,0.209100745
+226,xiang chen,model based systems engineering,0.195998768
+226,xiang chen,systems modeling  analysis,0.189276803
+226,xiang chen,probabilistic modeling,0.181785937
+226,xiang chen,network modeling,0.178067376
+226,xiang chen,recycled materials geo environmental modeling,0.175369842
+226,xiang chen,modeling,0.173945146
+226,xiang chen,geometric modeling,0.173806993
+227,xiaokuan zhang,google,0.159948931
+227,xiaokuan zhang,neuroscience,0.152894933
+227,xiaokuan zhang,ultrasound imaging devices,0.140923112
+227,xiaokuan zhang,next g communications networks,0.136165532
+227,xiaokuan zhang,digital forensics analysis,0.1361066
+227,xiaokuan zhang,bio metrics forensic science,0.134840657
+227,xiaokuan zhang,intelligence analysis,0.127702018
+227,xiaokuan zhang,devices,0.126694973
+227,xiaokuan zhang,devices,0.126694973
+227,xiaokuan zhang,computational neuroscience,0.126413116
+228,xiaonan guo,subsystems,0.23721965
+228,xiaonan guo,wireless communications  networks,0.216735628
+228,xiaonan guo,wireless networks,0.19883785
+228,xiaonan guo,wireless optical communications,0.191551512
+228,xiaonan guo,bio metrics forensic science,0.184729391
+228,xiaonan guo,sensors,0.184638144
+228,xiaonan guo,wireless communications,0.183598453
+228,xiaonan guo,neural networks,0.180677794
+228,xiaonan guo,analytic hierarchy process optimization,0.174785847
+228,xiaonan guo,devices,0.172798523
+229,xinyuan wang,clustering,0.147087101
+229,xinyuan wang,spatial statistics,0.130857731
+229,xinyuan wang,internet measurements,0.128965176
+229,xinyuan wang,internet,0.128900677
+229,xinyuan wang,bayesian statistics,0.125514326
+229,xinyuan wang,high dimensional statistics,0.124034735
+229,xinyuan wang,computational statistics,0.117073881
+229,xinyuan wang,bio metrics forensic science,0.113658229
+229,xinyuan wang,statistics,0.107981105
+229,xinyuan wang,high dimensional data,0.107122533
+230,xuan wang,internet,0.218042182
+230,xuan wang,internet measurements,0.201033194
+230,xuan wang,distributed computing,0.175893252
+230,xuan wang,distributed systems,0.160068015
+230,xuan wang,distributed system,0.160068015
+230,xuan wang,internet things,0.154491792
+230,xuan wang,internet of things,0.154491792
+230,xuan wang,distributed control,0.149594516
+230,xuan wang,subsystems,0.142301367
+230,xuan wang,parallel distributed systems,0.137647193
+231,xuesu xiao,robotics,0.277396084
+231,xuesu xiao,bio metrics forensic science,0.173300539
+231,xuesu xiao,distance computer based learning,0.171799123
+231,xuesu xiao,analytic hierarchy process optimization,0.163395097
+231,xuesu xiao,electrical based transport,0.155552232
+231,xuesu xiao,intelligent robotics,0.155543615
+231,xuesu xiao,bioengineering,0.147624073
+231,xuesu xiao,model based systems engineering,0.147352802
+231,xuesu xiao,subsystems,0.144980532
+231,xuesu xiao,bio inspired robotics,0.142542955
+232,yariv ephraim,analytic hierarchy process optimization,0.209473857
+232,yariv ephraim,model based systems engineering,0.208003128
+232,yariv ephraim,emergency response,0.191760697
+232,yariv ephraim,emergency response systems,0.187060739
+232,yariv ephraim,modeling performance,0.185145099
+232,yariv ephraim,recycled materials geo environmental modeling,0.18360777
+232,yariv ephraim,high dimensional statistics,0.173638873
+232,yariv ephraim,modeling performance evaluation,0.169293148
+232,yariv ephraim,survival models,0.169218752
+232,yariv ephraim,climate weather modeling remote sensing,0.169084893
+233,yotam gingold,model based systems engineering,0.245334654
+233,yotam gingold,ultrasound imaging devices,0.237925155
+233,yotam gingold,hydraulic land surface modeling,0.237454126
+233,yotam gingold,land surface modeling,0.235585327
+233,yotam gingold,analytic hierarchy process optimization,0.228406785
+233,yotam gingold,time series modeling,0.221174033
+233,yotam gingold,systems modeling  analysis,0.212778594
+233,yotam gingold,real time embedded systems,0.204708271
+233,yotam gingold,functional electrical stimulation,0.204620865
+233,yotam gingold,recycled materials geo environmental modeling,0.20438494
+234,yue cheng,functional electrical stimulation,0.209003
+234,yue cheng,model based systems engineering,0.165899508
+234,yue cheng,analytic hierarchy process optimization,0.155077997
+234,yue cheng,bio metrics forensic science,0.152869011
+234,yue cheng,evidence based reasoning,0.150607041
+234,yue cheng,ultrasound imaging devices,0.145921681
+234,yue cheng,subsystems,0.145424502
+234,yue cheng,bayesian statistics,0.144712679
+234,yue cheng,recycled materials geo environmental modeling,0.142370822
+234,yue cheng,distance computer based learning,0.142322167
+235,yue wang,wireless communications  networks,0.212409687
+235,yue wang,wireless communications,0.20757931
+235,yue wang,wireless optical communications,0.202562967
+235,yue wang,wireless,0.198329587
+235,yue wang,wireless sensing,0.196841925
+235,yue wang,wireless networks,0.196181445
+235,yue wang,wireless networking,0.191098942
+235,yue wang,ai ml wireless,0.165110901
+235,yue wang,bayesian networks,0.162706276
+235,yue wang,bayesian statistics,0.160248988
+236,yutao zhong,neural interfaces,0.323380833
+236,yutao zhong,ai nlp programming,0.286028032
+236,yutao zhong,neuroinformatics computational neuroanatomy,0.285830975
+236,yutao zhong,computational neuroanatomy,0.285830975
+236,yutao zhong,computational neuroscience,0.264628062
+236,yutao zhong,integer programming optimization,0.257438361
+236,yutao zhong,subsystems,0.22866478
+236,yutao zhong,network architecture,0.19218664
+236,yutao zhong,hardware,0.186704011
+236,yutao zhong,ai ml wireless,0.177835749
+237,zelalem eshete,computing education research,0.111111111
+237,zelalem eshete,computer science education,0.09770173
+237,zelalem eshete,distance education,0.095276992
+237,zelalem eshete,engineering education,0.089730317
+237,zelalem eshete,engineering education research,0.080467425
+237,zelalem eshete,intelligent robotics,0.075485136
+237,zelalem eshete,energy,0.071474169
+237,zelalem eshete,cs education,0.071326749
+237,zelalem eshete,intelligent transportation,0.070014004
+238,zhisheng yan,internet,0.203696464
+238,zhisheng yan,internet measurements,0.191510544
+238,zhisheng yan,subsystems,0.180852011
+238,zhisheng yan,internet things,0.159866702
+238,zhisheng yan,internet of things,0.159866702
+238,zhisheng yan,network modeling,0.143038031
+238,zhisheng yan,wireless communications  networks,0.139296885
+238,zhisheng yan,model based systems engineering,0.138957158
+238,zhisheng yan,time series modeling,0.138031231
+238,zhisheng yan,wireless networks,0.135935497
+239,ziwei zhu,subsystems,0.194170606
+239,ziwei zhu,network modeling,0.191176313
+239,ziwei zhu,modeling,0.16363885
+239,ziwei zhu,musculoskeletal modeling,0.159113397
+239,ziwei zhu,probabilistic modeling,0.157780175
+239,ziwei zhu,geometric modeling,0.153977684
+239,ziwei zhu,recycled materials geo environmental modeling,0.151515799
+240,ziyu yao,cryptography,0.202142402
+240,ziyu yao,applied cryptography,0.161068964
+240,ziyu yao,model based systems engineering,0.15666073
+240,ziyu yao,recycled materials geo environmental modeling,0.153436463
+240,ziyu yao,survival models,0.150570172
+240,ziyu yao,linguistics,0.150515041
+240,ziyu yao,probabilistic modeling,0.148227387
+240,ziyu yao,modeling,0.145376385
+240,ziyu yao,computational linguistics,0.14409071

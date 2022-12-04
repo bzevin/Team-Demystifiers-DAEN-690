@@ -1,0 +1,2407 @@
+,Name,similar_area,area_score
+0,abolfazl safikhani,stochastic modeling,0.3258514946996161
+0,abolfazl safikhani,statistical modeling,0.3192429620458017
+0,abolfazl safikhani,applied probability statistics,0.1291905186975621
+0,abolfazl safikhani,visual computing,0.1059335577581125
+0,abolfazl safikhani,systems engineering,0.0960657935110125
+0,abolfazl safikhani,computational fluid dynamics,0.0853419914839675
+0,abolfazl safikhani,electrical engineering,0.0834262412462959
+0,abolfazl safikhani,design results clinical studies,0.0824619447838062
+0,abolfazl safikhani,theory computation,0.0779398827690404
+0,abolfazl safikhani,structural engineering,0.0770592249670235
+1,aditya johri,design results clinical studies,0.2703291053857606
+1,aditya johri,visual computing,0.2138578018171936
+1,aditya johri,education,0.1852209251576783
+1,aditya johri,biomedical imaging devices,0.1844028673170674
+1,aditya johri,electrical engineering,0.169374086958133
+1,aditya johri,systems engineering,0.1611081828675255
+1,aditya johri,environmental water resources engineering,0.1543931094568606
+1,aditya johri,applied probability statistics,0.1529491079835273
+1,aditya johri,structural engineering,0.142548233952738
+1,aditya johri,software engineering,0.1318329783578129
+2,ahmed bin zaman,structural engineering,0.3581828950543877
+2,ahmed bin zaman,autonomous systems,0.0906595679606622
+2,ahmed bin zaman,experimental understanding disease mechanisms,0.0905138137769086
+2,ahmed bin zaman,systems engineering,0.0892430315246081
+2,ahmed bin zaman,construction engineering management,0.0759898335867947
+2,ahmed bin zaman,applied probability statistics,0.0477943686257997
+2,ahmed bin zaman,computational biomedicine,0.0420565063905021
+2,ahmed bin zaman,design results clinical studies,0.0380914833564175
+2,ahmed bin zaman,theory computation,0.034885085306177
+2,ahmed bin zaman,multiscale transport engineering,0.0332183987616723
+3,alexander brodsky,stochastic modeling,0.1891808252395536
+3,alexander brodsky,statistical modeling,0.1838811926139973
+3,alexander brodsky,applied probability statistics,0.1432922893614367
+3,alexander brodsky,construction engineering management,0.1409915887206024
+3,alexander brodsky,experimental understanding disease mechanisms,0.1394006186886211
+3,alexander brodsky,systems engineering,0.1374253928235449
+3,alexander brodsky,design results clinical studies,0.1344725677089088
+3,alexander brodsky,computer networks communications,0.1312318108353246
+3,alexander brodsky,environmental water resources engineering,0.1265087816374307
+3,alexander brodsky,electrical engineering,0.1229313385825567
+4,alexander levis,stochastic modeling,0.2722213600562674
+4,alexander levis,statistical modeling,0.2666138039502395
+4,alexander levis,biomedical imaging devices,0.1601673243308525
+4,alexander levis,design results clinical studies,0.1577876017081854
+4,alexander levis,computer networks communications,0.1457328966490144
+4,alexander levis,structural engineering,0.1387101828139798
+4,alexander levis,visual computing,0.1345076705339977
+4,alexander levis,systems engineering,0.134171007608785
+4,alexander levis,theory computation,0.1321883784269131
+4,alexander levis,applied probability statistics,0.1315359653089099
+5,ali beheshti,stochastic modeling,0.1366062812798366
+5,ali beheshti,statistical modeling,0.1361885250679717
+5,ali beheshti,multiscale tribology contact mechanics,0.1308181658001455
+5,ali beheshti,applied probability statistics,0.1282132929039279
+5,ali beheshti,environmental water resources engineering,0.1280980780913185
+5,ali beheshti,bioinformatics biostatistics computational biology,0.1218421835280454
+5,ali beheshti,design results clinical studies,0.1216569311264955
+5,ali beheshti,visual computing,0.1017777867746327
+5,ali beheshti,systems engineering,0.0999557932563446
+5,ali beheshti,biomedical imaging devices,0.0988072112946554
+6,ali k raz,computer networks communications,0.2373342605346573
+6,ali k raz,systems engineering,0.1494051296700685
+6,ali k raz,theory computation,0.1438736683486622
+6,ali k raz,biomedical imaging devices,0.1407836543198775
+6,ali k raz,electrical engineering,0.1248044317491332
+6,ali k raz,design results clinical studies,0.1239362738115848
+6,ali k raz,artificial intelligence,0.1224806027813821
+6,ali k raz,computer engineering,0.1140631263146247
+6,ali k raz,environmental water resources engineering,0.1075699686430509
+6,ali k raz,geotechnical engineering,0.1070906460895365
+7,alok berry,education,0.0990925044111772
+7,alok berry,software engineering,0.0834622326111985
+7,alok berry,multiscale transport engineering,0.0669186598213577
+7,alok berry,transportation,0.0611394985055648
+7,alok berry,geotechnical engineering,0.0592348877759092
+7,alok berry,visual computing,0.0507382568618803
+7,alok berry,electrical engineering,0.050669459193814
+7,alok berry,systems engineering,0.0504647332689366
+7,alok berry,computer engineering,0.0494770695995293
+7,alok berry,construction engineering management,0.0457815228469656
+8,amarda shehu,structural engineering,0.2980205283326615
+8,amarda shehu,statistical modeling,0.1402269860209918
+8,amarda shehu,systems engineering,0.1398589504189863
+8,amarda shehu,stochastic modeling,0.1390440198832417
+8,amarda shehu,experimental understanding disease mechanisms,0.137270635178485
+8,amarda shehu,autonomous systems,0.1248547958854183
+8,amarda shehu,design results clinical studies,0.1237829723883804
+8,amarda shehu,construction engineering management,0.1127890421863522
+8,amarda shehu,applied probability statistics,0.1091212084847436
+8,amarda shehu,visual computing,0.105549894190059
+9,anand vidyashankar,applied probability statistics,0.14238987519412
+9,anand vidyashankar,visual computing,0.1313274310247383
+9,anand vidyashankar,design results clinical studies,0.1108331682141355
+9,anand vidyashankar,computer networks communications,0.1107353849338713
+9,anand vidyashankar,biomedical imaging devices,0.1044323077430737
+9,anand vidyashankar,stochastic modeling,0.1041196181016352
+9,anand vidyashankar,electrical engineering,0.1034622727704921
+9,anand vidyashankar,statistical modeling,0.1003103637808437
+9,anand vidyashankar,data analytics,0.098466226711796
+9,anand vidyashankar,systems engineering,0.0967551565033098
+10,andrew richardson,applied probability statistics,0.0957243334676602
+10,andrew richardson,design results clinical studies,0.0894512386712925
+10,andrew richardson,systems engineering,0.0882407466308064
+10,andrew richardson,construction engineering management,0.0876758465652985
+10,andrew richardson,data analytics,0.0855249937498031
+10,andrew richardson,multiscale tribology contact mechanics,0.0773797562498219
+10,andrew richardson,statistical modeling,0.0772009259755168
+10,andrew richardson,stochastic modeling,0.0772009259755168
+10,andrew richardson,software engineering,0.0764442070863689
+10,andrew richardson,bioinformatics biostatistics computational biology,0.0705398259484141
+11,andrzej manitius,visual computing,0.1959604750333837
+11,andrzej manitius,human centered computing,0.1244786798367366
+11,andrzej manitius,theory computation,0.1076706011463839
+11,andrzej manitius,national security,0.0783188380753497
+11,andrzej manitius,computer networks communications,0.0709755198400999
+11,andrzej manitius,optimization techniques,0.0685010065916314
+11,andrzej manitius,applied probability statistics,0.0645833683720626
+11,andrzej manitius,computational biomedicine,0.0634600936695471
+11,andrzej manitius,education,0.0626258401948866
+11,andrzej manitius,software engineering,0.0586084518016369
+12,angelos stavrou,data analytics,0.147981054094376
+12,angelos stavrou,applied probability statistics,0.1473560544345154
+12,angelos stavrou,computer networks communications,0.144677939895472
+12,angelos stavrou,visual computing,0.120495190254279
+12,angelos stavrou,environmental water resources engineering,0.1183232326321006
+12,angelos stavrou,biomedical imaging devices,0.1006571372955098
+12,angelos stavrou,design results clinical studies,0.0948617935008385
+12,angelos stavrou,artificial intelligence,0.0940205899200012
+12,angelos stavrou,electrical engineering,0.0914851408397573
+12,angelos stavrou,multiscale transport engineering,0.0878056898392839
+13,antonios anastasopoulos,statistical modeling,0.1752679753779622
+13,antonios anastasopoulos,stochastic modeling,0.1731041732128022
+13,antonios anastasopoulos,experimental understanding disease mechanisms,0.1477770752574172
+13,antonios anastasopoulos,applied probability statistics,0.1232024294908459
+13,antonios anastasopoulos,computer networks communications,0.1151105400867039
+13,antonios anastasopoulos,design results clinical studies,0.0957494909961788
+13,antonios anastasopoulos,theory computation,0.0938325067771769
+13,antonios anastasopoulos,optimization techniques,0.0922775299613134
+13,antonios anastasopoulos,visual computing,0.0895188052040123
+13,antonios anastasopoulos,computer engineering,0.0720519100373282
+14,ariela sofer,visual computing,0.2332937770373004
+14,ariela sofer,theory computation,0.1642604787366994
+14,ariela sofer,stochastic modeling,0.1502423450569339
+14,ariela sofer,optimization techniques,0.1501696085672113
+14,ariela sofer,systems engineering,0.1492390900630398
+14,ariela sofer,statistical modeling,0.148900895547497
+14,ariela sofer,electrical engineering,0.1485616095096049
+14,ariela sofer,software engineering,0.1276376219103785
+14,ariela sofer,design results clinical studies,0.1269354742657061
+14,ariela sofer,human centered computing,0.1220802454915671
+15,arthur art pyster,data analytics,0.1264279082482028
+15,arthur art pyster,computer networks communications,0.1181880955945095
+15,arthur art pyster,human centered computing,0.0971941029961178
+15,arthur art pyster,visual computing,0.0874329993975948
+15,arthur art pyster,education,0.0832444444191469
+15,arthur art pyster,theory computation,0.080734080858764
+15,arthur art pyster,multiscale tribology contact mechanics,0.0790174426551267
+15,arthur art pyster,artificial intelligence,0.0744331447696054
+15,arthur art pyster,geotechnical engineering,0.0478474376469345
+15,arthur art pyster,software engineering,0.0449448415810387
+16,Ã¶zlem uzuner,computer networks communications,0.1766456390733896
+16,Ã¶zlem uzuner,artificial intelligence,0.1567140304036143
+16,Ã¶zlem uzuner,computational biomedicine,0.1474449764294059
+16,Ã¶zlem uzuner,theory computation,0.1285216386858474
+16,Ã¶zlem uzuner,design results clinical studies,0.1257634489649491
+16,Ã¶zlem uzuner,applied probability statistics,0.1218241711924242
+16,Ã¶zlem uzuner,biomedical imaging devices,0.1187172338946495
+16,Ã¶zlem uzuner,experimental understanding disease mechanisms,0.1125271766239274
+16,Ã¶zlem uzuner,data analytics,0.1103696153867856
+16,Ã¶zlem uzuner,optimization techniques,0.0949547897975984
+17,ben seiyon lee,stochastic modeling,0.3156901865520845
+17,ben seiyon lee,statistical modeling,0.3108520227735085
+17,ben seiyon lee,bioinformatics biostatistics computational biology,0.0928349985094354
+17,ben seiyon lee,biomedical imaging devices,0.0918278950474056
+17,ben seiyon lee,systems engineering,0.0820287298126377
+17,ben seiyon lee,visual computing,0.0796933332341594
+17,ben seiyon lee,design results clinical studies,0.0794167463681365
+17,ben seiyon lee,software engineering,0.0746919978160226
+17,ben seiyon lee,applied probability statistics,0.0730680800027165
+17,ben seiyon lee,construction engineering management,0.0702356358767701
+18,bernard schmidt,visual computing,0.1387244611544569
+18,bernard schmidt,software engineering,0.1014203216607651
+18,bernard schmidt,computational biomedicine,0.0960889607283056
+18,bernard schmidt,artificial intelligence,0.095433055718978
+18,bernard schmidt,human centered computing,0.088121024316907
+18,bernard schmidt,education,0.0812792267359937
+18,bernard schmidt,bioinformatics biostatistics computational biology,0.0772091436482183
+18,bernard schmidt,data analytics,0.0668650798037989
+18,bernard schmidt,construction engineering management,0.0556320700752009
+18,bernard schmidt,simulation,0.0549079775590318
+19,bernd peter paris,computer networks communications,0.1723294766691701
+19,bernd peter paris,environmental water resources engineering,0.1337419677632889
+19,bernd peter paris,multiscale tribology contact mechanics,0.1281247849039344
+19,bernd peter paris,applied probability statistics,0.1204596883579608
+19,bernd peter paris,electrical engineering,0.1181789672706264
+19,bernd peter paris,biomedical imaging devices,0.1137737983645048
+19,bernd peter paris,construction engineering management,0.1083818657489676
+19,bernd peter paris,design results clinical studies,0.1071336849613564
+19,bernd peter paris,systems engineering,0.1010889541103497
+19,bernd peter paris,theory computation,0.100233605143889
+20,bijan jabbari,stochastic modeling,0.141697450703912
+20,bijan jabbari,statistical modeling,0.1397188611666931
+20,bijan jabbari,computer networks communications,0.1044611478786364
+20,bijan jabbari,environmental water resources engineering,0.099259507276642
+20,bijan jabbari,experimental understanding disease mechanisms,0.0959655059515091
+20,bijan jabbari,applied probability statistics,0.0953249886003925
+20,bijan jabbari,design results clinical studies,0.0947588950674015
+20,bijan jabbari,systems engineering,0.0872138788274117
+20,bijan jabbari,electrical engineering,0.0859374395877679
+20,bijan jabbari,visual computing,0.0823227791029957
+21,binqian yin,software engineering,0.1647705109143269
+21,binqian yin,computational biomedicine,0.1486752583625131
+21,binqian yin,computer engineering,0.122096572626376
+21,binqian yin,visual computing,0.1001670844941266
+21,binqian yin,education,0.0978138378808423
+21,binqian yin,simulation,0.0892051550175078
+21,binqian yin,geotechnical engineering,0.0877058019307029
+21,binqian yin,bioinformatics biostatistics computational biology,0.083624201000709
+21,binqian yin,electrical engineering,0.0750234484920533
+21,binqian yin,structural engineering,0.066063831983505
+22,bo han,experimental understanding disease mechanisms,0.1279650003218814
+22,bo han,computer networks communications,0.1141151362858539
+22,bo han,biomedical imaging devices,0.097042310002002
+22,bo han,visual computing,0.0896318724721548
+22,bo han,theory computation,0.08908972558164
+22,bo han,applied probability statistics,0.0805545606397764
+22,bo han,environmental water resources engineering,0.0795571268785946
+22,bo han,data analytics,0.0752647172927649
+22,bo han,multiscale tribology contact mechanics,0.0749024322516445
+22,bo han,design results clinical studies,0.0730835523808779
+23,bo liu,education,0.1825255188514278
+23,bo liu,design results clinical studies,0.1005117136344948
+23,bo liu,visual computing,0.0996889572558453
+23,bo liu,applied probability statistics,0.0959977146836829
+23,bo liu,biomedical imaging devices,0.0870715431934292
+23,bo liu,systems engineering,0.0867576032427712
+23,bo liu,electrical engineering,0.0839985067064877
+23,bo liu,computer engineering,0.082021794364855
+23,bo liu,structural engineering,0.0678031299992114
+23,bo liu,autonomous systems,0.0621059003408118
+24,brett hunter,biomedical imaging devices,0.1243296100972753
+24,brett hunter,design results clinical studies,0.0986705865578197
+24,brett hunter,data analytics,0.0832408947765033
+24,brett hunter,systems engineering,0.0744329027747365
+24,brett hunter,national security,0.0708626897841404
+24,brett hunter,visual computing,0.0690796948587756
+24,brett hunter,electrical engineering,0.0689860274328339
+24,brett hunter,multiscale tribology contact mechanics,0.0665927158212026
+24,brett hunter,software engineering,0.0662859766693748
+24,brett hunter,applied probability statistics,0.0626087903347261
+25,brian hrolenok,education,0.0997509336107632
+25,brian hrolenok,computer networks communications,0.0969003166223018
+25,brian hrolenok,software engineering,0.0933520056018673
+25,brian hrolenok,computer engineering,0.083009707515292
+25,brian hrolenok,computational biomedicine,0.0758098043578903
+25,brian hrolenok,simulation,0.0758098043578903
+25,brian hrolenok,statistical modeling,0.074074074074074
+25,brian hrolenok,stochastic modeling,0.074074074074074
+25,brian hrolenok,bioinformatics biostatistics computational biology,0.0710669054518701
+25,brian hrolenok,theory computation,0.0571661950475029
+26,brian mark,stochastic modeling,0.1429391763961731
+26,brian mark,statistical modeling,0.1406703005803609
+26,brian mark,applied probability statistics,0.1222082103163498
+26,brian mark,computer networks communications,0.1132095103251704
+26,brian mark,visual computing,0.1117450170078237
+26,brian mark,environmental water resources engineering,0.1097714245999265
+26,brian mark,experimental understanding disease mechanisms,0.1030537379072152
+26,brian mark,design results clinical studies,0.1028401847925782
+26,brian mark,electrical engineering,0.099318213461193
+26,brian mark,systems engineering,0.0917544021212459
+27,brittany johnson matthews,design results clinical studies,0.1459874477916265
+27,brittany johnson matthews,visual computing,0.1431550474283507
+27,brittany johnson matthews,applied probability statistics,0.1221132046790828
+27,brittany johnson matthews,bioinformatics biostatistics computational biology,0.1124824259938004
+27,brittany johnson matthews,electrical engineering,0.1030159706060153
+27,brittany johnson matthews,multiscale tribology contact mechanics,0.1019224827598386
+27,brittany johnson matthews,biomedical imaging devices,0.0962845797259381
+27,brittany johnson matthews,environmental water resources engineering,0.083839450265409
+27,brittany johnson matthews,systems engineering,0.080497757358179
+27,brittany johnson matthews,statistical modeling,0.0799932916777416
+28,burak tanyu,visual computing,0.168503502590219
+28,burak tanyu,design results clinical studies,0.1561025027396147
+28,burak tanyu,structural engineering,0.152809501419171
+28,burak tanyu,applied probability statistics,0.1410897839373451
+28,burak tanyu,biomedical imaging devices,0.1359497609639459
+28,burak tanyu,environmental water resources engineering,0.124015437698901
+28,burak tanyu,experimental understanding disease mechanisms,0.123230291405778
+28,burak tanyu,electrical engineering,0.1178650485492774
+28,burak tanyu,bioinformatics biostatistics computational biology,0.1131865097771971
+28,burak tanyu,systems engineering,0.1016165821648947
+29,cameron nowzari,design results clinical studies,0.1523081360684762
+29,cameron nowzari,stochastic modeling,0.1480264902739725
+29,cameron nowzari,statistical modeling,0.1476379693021248
+29,cameron nowzari,construction engineering management,0.1291865204457355
+29,cameron nowzari,applied probability statistics,0.1289526381837352
+29,cameron nowzari,systems engineering,0.1255265892789807
+29,cameron nowzari,computer networks communications,0.1199459073240177
+29,cameron nowzari,theory computation,0.1199354345461305
+29,cameron nowzari,environmental water resources engineering,0.1033528190905591
+29,cameron nowzari,electrical engineering,0.1021068551498106
+30,carlotta domeniconi,applied probability statistics,0.2060755492956585
+30,carlotta domeniconi,design results clinical studies,0.1576160617499606
+30,carlotta domeniconi,experimental understanding disease mechanisms,0.1464898478747187
+30,carlotta domeniconi,statistical modeling,0.1344932990815467
+30,carlotta domeniconi,stochastic modeling,0.1344932990815467
+30,carlotta domeniconi,systems engineering,0.1284136822163297
+30,carlotta domeniconi,visual computing,0.1247169109024659
+30,carlotta domeniconi,construction engineering management,0.1246824683450551
+30,carlotta domeniconi,environmental water resources engineering,0.1175857694987781
+30,carlotta domeniconi,electrical engineering,0.1165847544789522
+31,caroline hoemann,visual computing,0.1079254632147086
+31,caroline hoemann,design results clinical studies,0.1051019914113728
+31,caroline hoemann,biomedical imaging devices,0.0930955536959341
+31,caroline hoemann,human centered computing,0.0903128061669796
+31,caroline hoemann,humanities,0.0881092220575576
+31,caroline hoemann,bioinformatics biostatistics computational biology,0.0861115373167004
+31,caroline hoemann,statistical modeling,0.0839506747038086
+31,caroline hoemann,stochastic modeling,0.0839506747038086
+31,caroline hoemann,environmental water resources engineering,0.0816298354029702
+31,caroline hoemann,multiscale tribology contact mechanics,0.0810052939133383
+32,celso moller ferreira,statistical modeling,0.1408361002890499
+32,celso moller ferreira,stochastic modeling,0.1382314696364123
+32,celso moller ferreira,environmental water resources engineering,0.1252706936541716
+32,celso moller ferreira,applied probability statistics,0.1059302098269867
+32,celso moller ferreira,bioinformatics biostatistics computational biology,0.0937679115718912
+32,celso moller ferreira,design results clinical studies,0.0870890044638209
+32,celso moller ferreira,visual computing,0.0823851461051577
+32,celso moller ferreira,computational fluid dynamics,0.0673104720488543
+32,celso moller ferreira,computer networks communications,0.0634399123857259
+32,celso moller ferreira,biomedical imaging devices,0.0622925351919081
+33,charles white,transportation,0.082572282384477
+33,charles white,education,0.0780674539304573
+33,charles white,finance,0.0592348877759092
+33,charles white,data analytics,0.055048188256318
+33,charles white,multiscale transport engineering,0.0502096445253433
+33,charles white,statistical modeling,0.0496903994999953
+33,charles white,stochastic modeling,0.0496903994999953
+33,charles white,artificial intelligence,0.0471404520791031
+33,charles white,environmental water resources engineering,0.042640143271122
+33,charles white,visual computing,0.038069349381344
+34,christine alonzo yee,civilian government ngos,0.095906440948193
+34,christine alonzo yee,construction engineering management,0.063154833288655
+34,christine alonzo yee,geotechnical engineering,0.0612851413035895
+34,christine alonzo yee,software engineering,0.0575673662503403
+34,christine alonzo yee,multiscale transport engineering,0.0538493402919267
+34,christine alonzo yee,electrical engineering,0.0524232438527936
+34,christine alonzo yee,systems engineering,0.0522114319003159
+34,christine alonzo yee,education,0.0512611601286379
+34,christine alonzo yee,computer engineering,0.0511895829560073
+34,christine alonzo yee,energy,0.0467496198362344
+35,christopher a carr,education,0.1300325523461671
+35,christopher a carr,design results clinical studies,0.0745888549061081
+35,christopher a carr,visual computing,0.0616485788871742
+35,christopher a carr,systems engineering,0.0551846152022388
+35,christopher a carr,energy,0.0549019776707377
+35,christopher a carr,autonomous systems,0.0546230993599134
+35,christopher a carr,multiscale transport engineering,0.0487849666209608
+35,christopher a carr,manufacturing,0.0482804549585267
+35,christopher a carr,statistical modeling,0.0482804549585267
+35,christopher a carr,stochastic modeling,0.0482804549585267
+36,chun hung chen,applied probability statistics,0.1351254821152345
+36,chun hung chen,stochastic modeling,0.1205342061308537
+36,chun hung chen,statistical modeling,0.1191540434652333
+36,chun hung chen,visual computing,0.1177222227584059
+36,chun hung chen,biomedical imaging devices,0.1123937584023036
+36,chun hung chen,systems engineering,0.1121797336414209
+36,chun hung chen,electrical engineering,0.1103469308102143
+36,chun hung chen,design results clinical studies,0.1037682427501182
+36,chun hung chen,data analytics,0.1019317681831398
+36,chun hung chen,environmental water resources engineering,0.1005373170119335
+37,clifton sutton,visual computing,0.1281474221491743
+37,clifton sutton,statistical modeling,0.1200881991843121
+37,clifton sutton,stochastic modeling,0.1136549027994383
+37,clifton sutton,applied probability statistics,0.0967862203897926
+37,clifton sutton,optimization techniques,0.0884432029553107
+37,clifton sutton,bioinformatics biostatistics computational biology,0.0713223366847194
+37,clifton sutton,human centered computing,0.0709660567834552
+37,clifton sutton,theory computation,0.0661980736684971
+37,clifton sutton,computer networks communications,0.0598452918354612
+37,clifton sutton,design results clinical studies,0.0588048638302317
+38,colin reagle,design results clinical studies,0.1114573251335608
+38,colin reagle,visual computing,0.1093212264472204
+38,colin reagle,applied probability statistics,0.1072142721193638
+38,colin reagle,environmental water resources engineering,0.0950333933461891
+38,colin reagle,computational fluid dynamics,0.092731640634431
+38,colin reagle,multiscale tribology contact mechanics,0.089656310839795
+38,colin reagle,biomedical imaging devices,0.0725528075394937
+38,colin reagle,bioinformatics biostatistics computational biology,0.0721958959339193
+38,colin reagle,education,0.065963744368822
+38,colin reagle,theory computation,0.0646488098542001
+39,colleen berg,visual computing,0.1371182340382122
+39,colleen berg,computational biomedicine,0.0915843766308995
+39,colleen berg,human centered computing,0.0871007112618684
+39,colleen berg,software engineering,0.0845825811651901
+39,colleen berg,manufacturing,0.0671156055214024
+39,colleen berg,simulation,0.0610562510872663
+39,colleen berg,education,0.0602535987955043
+39,colleen berg,bioinformatics biostatistics computational biology,0.0572363807032142
+39,colleen berg,environmental water resources engineering,0.0511937752153777
+39,colleen berg,nanomaterials photonics synthesis,0.035049981861639
+40,craig lorie,visual computing,0.1685319407387338
+40,craig lorie,education,0.1376425248185153
+40,craig lorie,design results clinical studies,0.1158565052928714
+40,craig lorie,human centered computing,0.1102995369666643
+40,craig lorie,software engineering,0.0840084046212184
+40,craig lorie,multiscale tribology contact mechanics,0.0836938448998836
+40,craig lorie,computer networks communications,0.0755746898742436
+40,craig lorie,computational biomedicine,0.0682220020629709
+40,craig lorie,bioinformatics biostatistics computational biology,0.0682174078340648
+40,craig lorie,biomedical imaging devices,0.0681261845970574
+41,daigo shishika,design results clinical studies,0.1314382207025065
+41,daigo shishika,systems engineering,0.1117391183934681
+41,daigo shishika,construction engineering management,0.1090200756668971
+41,daigo shishika,multiscale transport engineering,0.1067020726455173
+41,daigo shishika,environmental water resources engineering,0.0985299423877545
+41,daigo shishika,biomedical imaging devices,0.0982938354798356
+41,daigo shishika,theory computation,0.0960858716672672
+41,daigo shishika,applied probability statistics,0.0946167592248799
+41,daigo shishika,electrical engineering,0.0936700889860233
+41,daigo shishika,multiscale tribology contact mechanics,0.0924638199473487
+42,damon mccoy,artificial intelligence,0.0
+42,damon mccoy,autonomous systems,0.0
+42,damon mccoy,computer engineering,0.0
+42,damon mccoy,computer networks communications,0.0
+42,damon mccoy,data analytics,0.0
+42,damon mccoy,electrical engineering,0.0
+42,damon mccoy,human centered computing,0.0
+42,damon mccoy,software engineering,0.0
+42,damon mccoy,theory computation,0.0
+43,dana richards,structural engineering,0.3094613649864095
+43,dana richards,experimental understanding disease mechanisms,0.1058369516687486
+43,dana richards,systems engineering,0.1005878913339293
+43,dana richards,autonomous systems,0.09247331871114
+43,dana richards,applied probability statistics,0.0852647852630936
+43,dana richards,stochastic modeling,0.0813519030326763
+43,dana richards,construction engineering management,0.0763980021476274
+43,dana richards,statistical modeling,0.073677195199405
+43,dana richards,design results clinical studies,0.0693617917780426
+43,dana richards,computational biomedicine,0.0670254450444599
+44,daniel barbara,applied probability statistics,0.2098259333353692
+44,daniel barbara,computer networks communications,0.1975567710589214
+44,daniel barbara,design results clinical studies,0.1434124832140148
+44,daniel barbara,theory computation,0.1400369424412214
+44,daniel barbara,environmental water resources engineering,0.1370544045366018
+44,daniel barbara,visual computing,0.1362425503503681
+44,daniel barbara,statistical modeling,0.1291346945890132
+44,daniel barbara,stochastic modeling,0.1289172961132741
+44,daniel barbara,systems engineering,0.1272251936033783
+44,daniel barbara,electrical engineering,0.1269928379585365
+45,daniel garrison,education,0.0877691198082298
+45,daniel garrison,humanities,0.0733235575106766
+45,daniel garrison,computational biomedicine,0.066703734596507
+45,daniel garrison,software engineering,0.0616041103633697
+45,daniel garrison,systems engineering,0.0558726066957702
+45,daniel garrison,data analytics,0.0541530361073882
+45,daniel garrison,human centered computing,0.0475786068069806
+45,daniel garrison,computer networks communications,0.0426304556319487
+45,daniel garrison,autonomous systems,0.041478067789217
+45,daniel garrison,visual computing,0.0374502943136569
+46,daniel menasce,stochastic modeling,0.1997659163909299
+46,daniel menasce,statistical modeling,0.1993098298238273
+46,daniel menasce,computer networks communications,0.1580079333481117
+46,daniel menasce,applied probability statistics,0.1300014844425454
+46,daniel menasce,electrical engineering,0.1256213553086611
+46,daniel menasce,biomedical imaging devices,0.12507504222065
+46,daniel menasce,systems engineering,0.1228547931755752
+46,daniel menasce,design results clinical studies,0.122073981808845
+46,daniel menasce,theory computation,0.1153327373163993
+46,daniel menasce,visual computing,0.1133874396339653
+47,david s rosenblum,visual computing,0.1078095608959467
+47,david s rosenblum,software engineering,0.0788186903245467
+47,david s rosenblum,data analytics,0.0692854966641995
+47,david s rosenblum,computational biomedicine,0.0640075106552345
+47,david s rosenblum,communitybased healthcare,0.0637333872942907
+47,david s rosenblum,human centered computing,0.0608739165921403
+47,david s rosenblum,multiscale tribology contact mechanics,0.0577379138868329
+47,david s rosenblum,education,0.0561476095784699
+47,david s rosenblum,simulation,0.0533395922126954
+47,david s rosenblum,computer engineering,0.0525648837568852
+48,deborah goodings,education,0.1132320188728822
+48,deborah goodings,visual computing,0.0999622436161598
+48,deborah goodings,transportation,0.0915452714550947
+48,deborah goodings,energy,0.0890227311966964
+48,deborah goodings,software engineering,0.087697896827537
+48,deborah goodings,geotechnical engineering,0.0875264442748321
+48,deborah goodings,human centered computing,0.0804312516654263
+48,deborah goodings,electrical engineering,0.0748700261464312
+48,deborah goodings,computer engineering,0.0731081316734836
+48,deborah goodings,data analytics,0.0674544105458592
+49,diana wang,artificial intelligence,0.1692198178587606
+49,diana wang,data analytics,0.1482046307260317
+49,diana wang,education,0.130110641087388
+49,diana wang,software engineering,0.0842982691635574
+49,diana wang,multiscale tribology contact mechanics,0.0823359059589065
+49,diana wang,computer networks communications,0.0777799533663137
+49,diana wang,visual computing,0.0683286655535519
+49,diana wang,humanities,0.0668900062090651
+49,diana wang,human centered computing,0.0651059512000804
+49,diana wang,multiscale transport engineering,0.0600790936205871
+50,dimitrios ioannou,biomedical imaging devices,0.1544366392813624
+50,dimitrios ioannou,design results clinical studies,0.1318261069140275
+50,dimitrios ioannou,structural engineering,0.1100112378902619
+50,dimitrios ioannou,environmental water resources engineering,0.1082028285973666
+50,dimitrios ioannou,experimental understanding disease mechanisms,0.1051225388395148
+50,dimitrios ioannou,systems engineering,0.0943887773967337
+50,dimitrios ioannou,visual computing,0.093104587618703
+50,dimitrios ioannou,multiscale tribology contact mechanics,0.0904184952025811
+50,dimitrios ioannou,bioinformatics biostatistics computational biology,0.0869539826484787
+50,dimitrios ioannou,applied probability statistics,0.0862611628854341
+51,doaa bondok,statistical modeling,0.1248375567864718
+51,doaa bondok,stochastic modeling,0.1236816534828934
+51,doaa bondok,biomedical imaging devices,0.1091321449790106
+51,doaa bondok,computer networks communications,0.0907259908422278
+51,doaa bondok,design results clinical studies,0.0892882056208511
+51,doaa bondok,visual computing,0.083243881973786
+51,doaa bondok,systems engineering,0.0783911286332506
+51,doaa bondok,electrical engineering,0.0689810499064063
+51,doaa bondok,autonomous systems,0.0657147039742424
+51,doaa bondok,environmental water resources engineering,0.0648041007367492
+52,duminda wijesekera,computer networks communications,0.1955658351740521
+52,duminda wijesekera,applied probability statistics,0.1764751167448671
+52,duminda wijesekera,design results clinical studies,0.1337580808365363
+52,duminda wijesekera,biomedical imaging devices,0.1272583116334959
+52,duminda wijesekera,electrical engineering,0.1265715233095161
+52,duminda wijesekera,environmental water resources engineering,0.1242157123607124
+52,duminda wijesekera,visual computing,0.118736740639481
+52,duminda wijesekera,statistical modeling,0.1148470131135525
+52,duminda wijesekera,stochastic modeling,0.1141799443055357
+52,duminda wijesekera,theory computation,0.1125709350592933
+53,duoduo liao,software engineering,0.1062580454980414
+53,duoduo liao,data analytics,0.1037844848810504
+53,duoduo liao,human centered computing,0.0820661111248784
+53,duoduo liao,computational biomedicine,0.0767027657065708
+53,duoduo liao,computer engineering,0.0734890417636595
+53,duoduo liao,multiscale transport engineering,0.0694189398295395
+53,duoduo liao,civilian government ngos,0.0688428390821514
+53,duoduo liao,education,0.0672839311886157
+53,duoduo liao,geotechnical engineering,0.0628446264799876
+53,duoduo liao,visual computing,0.0574188970129611
+54,ebrima ceesay,transportation,0.1443034086015553
+54,ebrima ceesay,energy,0.1413901961174735
+54,ebrima ceesay,computer networks communications,0.1187623845165505
+54,ebrima ceesay,multiscale transport engineering,0.1017060872615749
+54,ebrima ceesay,human centered computing,0.0979696915435516
+54,ebrima ceesay,computer engineering,0.0895735502529547
+54,ebrima ceesay,biomedical imaging devices,0.0864438454796043
+54,ebrima ceesay,design results clinical studies,0.0800375905597341
+54,ebrima ceesay,software engineering,0.0783483920227949
+54,ebrima ceesay,artificial intelligence,0.0758295345837732
+55,edward huang,statistical modeling,0.2210635151721228
+55,edward huang,stochastic modeling,0.2194235781159497
+55,edward huang,biomedical imaging devices,0.1883513072307093
+55,edward huang,design results clinical studies,0.1833024630989765
+55,edward huang,systems engineering,0.1697002002982465
+55,edward huang,visual computing,0.1643379592377177
+55,edward huang,electrical engineering,0.1618566629397806
+55,edward huang,environmental water resources engineering,0.159489100441409
+55,edward huang,computer networks communications,0.1450216492772259
+55,edward huang,construction engineering management,0.1446556869009472
+56,elise miller hooks,design results clinical studies,0.1658685937135416
+56,elise miller hooks,applied probability statistics,0.1594893744987425
+56,elise miller hooks,theory computation,0.1385574998554371
+56,elise miller hooks,environmental water resources engineering,0.1333298599865191
+56,elise miller hooks,computer networks communications,0.1234964196389376
+56,elise miller hooks,electrical engineering,0.122127570566289
+56,elise miller hooks,stochastic modeling,0.1203243423116243
+56,elise miller hooks,construction engineering management,0.1163916502267924
+56,elise miller hooks,visual computing,0.1155934901768522
+56,elise miller hooks,statistical modeling,0.1152669268729571
+57,elizabeth white,education,0.153964295828012
+57,elizabeth white,software engineering,0.1200730266070185
+57,elizabeth white,visual computing,0.0875935743710675
+57,elizabeth white,data analytics,0.0844400661841498
+57,elizabeth white,computational biomedicine,0.0780076451238515
+57,elizabeth white,geotechnical engineering,0.076696498884737
+57,elizabeth white,electrical engineering,0.0656061025261043
+57,elizabeth white,computer engineering,0.0640622132638473
+57,elizabeth white,human centered computing,0.0556414884074657
+57,elizabeth white,simulation,0.0520050967492343
+58,emanuela marasco,computer networks communications,0.1255684332125492
+58,emanuela marasco,biomedical imaging devices,0.1113287595025397
+58,emanuela marasco,visual computing,0.09896991365998
+58,emanuela marasco,applied probability statistics,0.0937480194735917
+58,emanuela marasco,electrical engineering,0.0792744814280955
+58,emanuela marasco,design results clinical studies,0.07865135063149
+58,emanuela marasco,environmental water resources engineering,0.0762112516898275
+58,emanuela marasco,theory computation,0.0743096824267832
+58,emanuela marasco,humanities,0.0652635555970885
+58,emanuela marasco,human centered computing,0.065050922219131
+59,eric osterweil,applied probability statistics,0.1451628398538989
+59,eric osterweil,biomedical imaging devices,0.1142686469283454
+59,eric osterweil,design results clinical studies,0.1124283341442002
+59,eric osterweil,computer networks communications,0.1103573492967038
+59,eric osterweil,environmental water resources engineering,0.1001922426903588
+59,eric osterweil,electrical engineering,0.0941471421178408
+59,eric osterweil,theory computation,0.0938207310452371
+59,eric osterweil,visual computing,0.0847829666042832
+59,eric osterweil,systems engineering,0.0843259122417504
+59,eric osterweil,multiscale transport engineering,0.082811778177507
+60,eugene kim,data analytics,0.0765766501284783
+60,eugene kim,visual computing,0.0611049925361614
+60,eugene kim,experimental understanding disease mechanisms,0.0590681594516226
+60,eugene kim,design results clinical studies,0.0533947322060368
+60,eugene kim,education,0.0525091071599824
+60,eugene kim,nanomaterials photonics synthesis,0.0499826479259046
+60,eugene kim,multiscale tribology contact mechanics,0.0471240923867558
+60,eugene kim,electrical engineering,0.0457666037031636
+60,eugene kim,biomedical imaging devices,0.0439906974838222
+60,eugene kim,sports,0.043534303581345
+61,evgenios kornaropoulos,applied probability statistics,0.1655065425669666
+61,evgenios kornaropoulos,structural engineering,0.144716587967194
+61,evgenios kornaropoulos,design results clinical studies,0.1233890130591093
+61,evgenios kornaropoulos,systems engineering,0.1027006262024681
+61,evgenios kornaropoulos,stochastic modeling,0.0998352517758244
+61,evgenios kornaropoulos,statistical modeling,0.0973393704814288
+61,evgenios kornaropoulos,electrical engineering,0.0959563422501845
+61,evgenios kornaropoulos,computer networks communications,0.0881549401588552
+61,evgenios kornaropoulos,experimental understanding disease mechanisms,0.0879598994267085
+61,evgenios kornaropoulos,environmental water resources engineering,0.0870980975553892
+62,f berlin,artificial intelligence,0.0776323754260148
+62,f berlin,communitybased healthcare,0.0741249316661101
+62,f berlin,humanities,0.0681930906987476
+62,f berlin,applied probability statistics,0.0631345340345131
+62,f berlin,computer networks communications,0.0555066294733607
+62,f berlin,human centered computing,0.0442495203377992
+62,f berlin,multiscale tribology contact mechanics,0.040291148201269
+62,f berlin,data analytics,0.040291148201269
+62,f berlin,transportation,0.040291148201269
+62,f berlin,construction engineering management,0.0377127341365701
+63,fei li,statistical modeling,0.1217478328725533
+63,fei li,stochastic modeling,0.12136617822405
+63,fei li,applied probability statistics,0.1115682242567023
+63,fei li,design results clinical studies,0.099940805379556
+63,fei li,biomedical imaging devices,0.098440969543574
+63,fei li,multiscale transport engineering,0.0876694606219851
+63,fei li,systems engineering,0.0825932017665456
+63,fei li,electrical engineering,0.0814682621432929
+63,fei li,environmental water resources engineering,0.0814393494906728
+63,fei li,finance,0.0809833317729389
+64,filipe veiga,computational biomedicine,0.0941647230861516
+64,filipe veiga,software engineering,0.0869656553478672
+64,filipe veiga,visual computing,0.0704907376850241
+64,filipe veiga,humanities,0.0690065559342354
+64,filipe veiga,manufacturing,0.0690065559342354
+64,filipe veiga,human centered computing,0.0671660494259467
+64,filipe veiga,simulation,0.0627764820574344
+64,filipe veiga,bioinformatics biostatistics computational biology,0.0588489886336499
+64,filipe veiga,computer networks communications,0.0401205427142519
+64,filipe veiga,geotechnical engineering,0.0308606699924183
+65,foteini baldimtsi,design results clinical studies,0.1243163437681306
+65,foteini baldimtsi,systems engineering,0.123472088209162
+65,foteini baldimtsi,computer networks communications,0.1227693758996087
+65,foteini baldimtsi,electrical engineering,0.1178023898587257
+65,foteini baldimtsi,applied probability statistics,0.1145490523131481
+65,foteini baldimtsi,environmental water resources engineering,0.1107337349489133
+65,foteini baldimtsi,construction engineering management,0.1054246352188072
+65,foteini baldimtsi,biomedical imaging devices,0.1049054136761495
+65,foteini baldimtsi,theory computation,0.1010968686521496
+65,foteini baldimtsi,software engineering,0.0960974524263344
+66,gene shuman,environmental water resources engineering,0.0904604708737011
+66,gene shuman,data analytics,0.0788291768663832
+66,gene shuman,statistical modeling,0.0751099626240643
+66,gene shuman,visual computing,0.0726872356899818
+66,gene shuman,stochastic modeling,0.071156806696482
+66,gene shuman,finance,0.0659746450264391
+66,gene shuman,design results clinical studies,0.0641262479537103
+66,gene shuman,artificial intelligence,0.0637549810524746
+66,gene shuman,applied probability statistics,0.060388535052297
+66,gene shuman,computational fluid dynamics,0.0603326421562448
+67,george hazelrigg,biomedical imaging devices,0.1991659304389887
+67,george hazelrigg,visual computing,0.1970280062442868
+67,george hazelrigg,design results clinical studies,0.1869685879122078
+67,george hazelrigg,systems engineering,0.1798881591048695
+67,george hazelrigg,electrical engineering,0.1612768882534328
+67,george hazelrigg,environmental water resources engineering,0.1528163795619794
+67,george hazelrigg,computer networks communications,0.1465118104432148
+67,george hazelrigg,applied probability statistics,0.14042487931384
+67,george hazelrigg,construction engineering management,0.138701345181067
+67,george hazelrigg,software engineering,0.1379693421869245
+68,gheorghe tecuci,education,0.2526209262835449
+68,gheorghe tecuci,computer engineering,0.2383102303944741
+68,gheorghe tecuci,geotechnical engineering,0.2176364958925792
+68,gheorghe tecuci,electrical engineering,0.2145694639774432
+68,gheorghe tecuci,software engineering,0.2101973667160289
+68,gheorghe tecuci,design results clinical studies,0.1885288104621342
+68,gheorghe tecuci,theory computation,0.1861582298570225
+68,gheorghe tecuci,construction engineering management,0.1845722190989643
+68,gheorghe tecuci,systems engineering,0.1837739117474393
+68,gheorghe tecuci,environmental water resources engineering,0.1509739699823009
+69,gino manzo,biomedical imaging devices,0.1567207819938757
+69,gino manzo,systems engineering,0.1051660964099237
+69,gino manzo,geotechnical engineering,0.0925820099772551
+69,gino manzo,design results clinical studies,0.0888406428745396
+69,gino manzo,software engineering,0.0869656553478672
+69,gino manzo,multiscale tribology contact mechanics,0.0849411985729375
+69,gino manzo,electrical engineering,0.0791945516022682
+69,gino manzo,computer engineering,0.07733088933397
+69,gino manzo,autonomous systems,0.0585540043769119
+69,gino manzo,structural engineering,0.0523026032815804
+70,giorgio ascoli,applied probability statistics,0.1607930683413618
+70,giorgio ascoli,statistical modeling,0.1470399439873248
+70,giorgio ascoli,stochastic modeling,0.14522676793111
+70,giorgio ascoli,design results clinical studies,0.123819265807142
+70,giorgio ascoli,structural engineering,0.1174021559981902
+70,giorgio ascoli,data analytics,0.1138251375254288
+70,giorgio ascoli,systems engineering,0.110926077642941
+70,giorgio ascoli,environmental water resources engineering,0.1086177539016968
+70,giorgio ascoli,experimental understanding disease mechanisms,0.1046478056383873
+70,giorgio ascoli,electrical engineering,0.1029535152429876
+71,girum urgessa,data analytics,0.1342778519694503
+71,girum urgessa,environmental water resources engineering,0.0916288939255279
+71,girum urgessa,bioinformatics biostatistics computational biology,0.0886004045494478
+71,girum urgessa,design results clinical studies,0.0869404233312627
+71,girum urgessa,applied probability statistics,0.0841630977891026
+71,girum urgessa,statistical modeling,0.0808058093549508
+71,girum urgessa,stochastic modeling,0.0808058093549508
+71,girum urgessa,experimental understanding disease mechanisms,0.0784902789402112
+71,girum urgessa,structural engineering,0.0743697674284702
+71,girum urgessa,multiscale transport engineering,0.0729019625974072
+72,giuseppe ateniese,computer networks communications,0.1713329111662713
+72,giuseppe ateniese,applied probability statistics,0.1501846155318823
+72,giuseppe ateniese,construction engineering management,0.1286810488759681
+72,giuseppe ateniese,systems engineering,0.1239124078646102
+72,giuseppe ateniese,design results clinical studies,0.118974200449827
+72,giuseppe ateniese,autonomous systems,0.1119569525924867
+72,giuseppe ateniese,environmental water resources engineering,0.1064907392302994
+72,giuseppe ateniese,stochastic modeling,0.1017993498529203
+72,giuseppe ateniese,data analytics,0.0990082802078992
+72,giuseppe ateniese,statistical modeling,0.0978331414170922
+73,grigory yaroslavtsev,computational biomedicine,0.1384091330895666
+73,grigory yaroslavtsev,software engineering,0.1278274981412284
+73,grigory yaroslavtsev,visual computing,0.0932504808240313
+73,grigory yaroslavtsev,computer engineering,0.0909325785960631
+73,grigory yaroslavtsev,simulation,0.0830454798537399
+73,grigory yaroslavtsev,biomedical imaging devices,0.0789798503678789
+73,grigory yaroslavtsev,design results clinical studies,0.0783500824537114
+73,grigory yaroslavtsev,bioinformatics biostatistics computational biology,0.0778498944161523
+73,grigory yaroslavtsev,applied probability statistics,0.0704295212273763
+73,grigory yaroslavtsev,systems engineering,0.0618318527680224
+74,gurdip singh,software engineering,0.0992191193330453
+74,gurdip singh,data analytics,0.0969094165252774
+74,gurdip singh,computational biomedicine,0.0835586390925507
+74,gurdip singh,transportation,0.0775275332202219
+74,gurdip singh,simulation,0.0716216906507577
+74,gurdip singh,visual computing,0.0670190709794987
+74,gurdip singh,education,0.0628267945877352
+74,gurdip singh,geotechnical engineering,0.0586815658516275
+74,gurdip singh,bioinformatics biostatistics computational biology,0.0559506777178785
+74,gurdip singh,electrical engineering,0.0501961482158393
+75,hadi el amine,systems engineering,0.147608220545878
+75,hadi el amine,structural engineering,0.1442601401986395
+75,hadi el amine,design results clinical studies,0.1400635593253082
+75,hadi el amine,applied probability statistics,0.1399805165363549
+75,hadi el amine,data analytics,0.1397382359816659
+75,hadi el amine,visual computing,0.1294258176990805
+75,hadi el amine,electrical engineering,0.1266653184845105
+75,hadi el amine,environmental water resources engineering,0.1262809008499252
+75,hadi el amine,construction engineering management,0.1198961040516313
+75,hadi el amine,theory computation,0.1193646444531225
+76,hadi rezazad,software engineering,0.1386970942116895
+76,hadi rezazad,computational biomedicine,0.1228733350941807
+76,hadi rezazad,artificial intelligence,0.1138989594902998
+76,hadi rezazad,geotechnical engineering,0.0805387266256829
+76,hadi rezazad,visual computing,0.0766514230660419
+76,hadi rezazad,education,0.0718566094910651
+76,hadi rezazad,electrical engineering,0.0688927399967399
+76,hadi rezazad,environmental water resources engineering,0.068683656843857
+76,hadi rezazad,simulation,0.0682629639412115
+76,hadi rezazad,computer engineering,0.0672715072541591
+77,hakan aydin,optimization techniques,0.1416805126240712
+77,hakan aydin,computer networks communications,0.1167649677770523
+77,hakan aydin,theory computation,0.0978788369399687
+77,hakan aydin,design results clinical studies,0.0917686842177873
+77,hakan aydin,energy,0.0888966789339422
+77,hakan aydin,systems engineering,0.0805528912961737
+77,hakan aydin,construction engineering management,0.0761165880350658
+77,hakan aydin,electrical engineering,0.0747640134900977
+77,hakan aydin,finance,0.0743241123557413
+77,hakan aydin,environmental water resources engineering,0.0732795836044086
+78,hamza mughal,computational biomedicine,0.1957400731715678
+78,hamza mughal,software engineering,0.1807753815155467
+78,hamza mughal,visual computing,0.1538554437923503
+78,hamza mughal,simulation,0.1370180512200974
+78,hamza mughal,bioinformatics biostatistics computational biology,0.1284457725980754
+78,hamza mughal,human centered computing,0.1116943755444521
+78,hamza mughal,education,0.0772667409286255
+78,hamza mughal,geotechnical engineering,0.0577350269189625
+78,hamza mughal,computational fluid dynamics,0.0515111606190837
+78,hamza mughal,computer networks communications,0.0500391083360534
+79,hans hoyer,visual computing,0.1326149021107605
+79,hans hoyer,human centered computing,0.0842400894293264
+79,hans hoyer,education,0.0776996112115431
+79,hans hoyer,multiscale tribology contact mechanics,0.0639202772100593
+79,hans hoyer,nanomaterials photonics synthesis,0.0225992307352784
+79,hans hoyer,humanities,0.0216371161203957
+79,hans hoyer,transportation,0.0159800693025148
+79,hans hoyer,artificial intelligence,0.0
+79,hans hoyer,autonomous systems,0.0
+79,hans hoyer,computer engineering,0.0
+80,harry foxwell,statistical modeling,0.1456017239346171
+80,harry foxwell,stochastic modeling,0.1428016907820283
+80,harry foxwell,design results clinical studies,0.1276109011097598
+80,harry foxwell,applied probability statistics,0.101100751935152
+80,harry foxwell,theory computation,0.0979611517003036
+80,harry foxwell,structural engineering,0.0933789106207026
+80,harry foxwell,humanities,0.0882010443065469
+80,harry foxwell,computer networks communications,0.0830251743058715
+80,harry foxwell,electrical engineering,0.0803356170253172
+80,harry foxwell,visual computing,0.0772269068424238
+81,harry wechsler,computer networks communications,0.131628889721086
+81,harry wechsler,data analytics,0.1185263716499002
+81,harry wechsler,visual computing,0.1092914407339028
+81,harry wechsler,statistical modeling,0.1063534634960798
+81,harry wechsler,applied probability statistics,0.1048024368946167
+81,harry wechsler,stochastic modeling,0.1031692280620654
+81,harry wechsler,design results clinical studies,0.0996168453324807
+81,harry wechsler,multiscale tribology contact mechanics,0.0888947787374251
+81,harry wechsler,systems engineering,0.0868647558105375
+81,harry wechsler,environmental water resources engineering,0.0863452438462616
+82,hemant purohit,applied probability statistics,0.1637284017087812
+82,hemant purohit,artificial intelligence,0.1426379046252564
+82,hemant purohit,computer networks communications,0.1376347351178762
+82,hemant purohit,education,0.1321884518658805
+82,hemant purohit,design results clinical studies,0.1179033360965566
+82,hemant purohit,environmental water resources engineering,0.1097418632564612
+82,hemant purohit,systems engineering,0.1036656640705201
+82,hemant purohit,visual computing,0.103274241017646
+82,hemant purohit,biomedical imaging devices,0.0981005428048245
+82,hemant purohit,data analytics,0.0974119163892948
+83,henry coffman,energy,0.0357370844945931
+83,henry coffman,national security,0.0352837416016642
+83,henry coffman,transportation,0.0290129426592829
+83,henry coffman,artificial intelligence,0.0248451997499976
+83,henry coffman,education,0.0235115205286199
+83,henry coffman,autonomous systems,0.0
+83,henry coffman,computer engineering,0.0
+83,henry coffman,computer networks communications,0.0
+83,henry coffman,data analytics,0.0
+84,holger dannenberg,structural engineering,0.1094190172110517
+84,holger dannenberg,statistical modeling,0.1078163876656815
+84,holger dannenberg,stochastic modeling,0.1032478966628984
+84,holger dannenberg,experimental understanding disease mechanisms,0.0770013644762679
+84,holger dannenberg,design results clinical studies,0.0730492413106991
+84,holger dannenberg,bioinformatics biostatistics computational biology,0.0596091399328003
+84,holger dannenberg,finance,0.0588168295977465
+84,holger dannenberg,construction engineering management,0.0581096493947009
+84,holger dannenberg,simulation,0.053612876133598
+84,holger dannenberg,computer networks communications,0.053388199893492
+85,huzefa rangwala,biomedical imaging devices,0.1614625953374482
+85,huzefa rangwala,visual computing,0.1448069306399766
+85,huzefa rangwala,design results clinical studies,0.1227038557846057
+85,huzefa rangwala,systems engineering,0.1164467913780888
+85,huzefa rangwala,data analytics,0.1136054708890077
+85,huzefa rangwala,applied probability statistics,0.1130918779585159
+85,huzefa rangwala,computational biomedicine,0.1124968251443933
+85,huzefa rangwala,statistical modeling,0.104559108585862
+85,huzefa rangwala,structural engineering,0.1043955659423106
+85,huzefa rangwala,environmental water resources engineering,0.1041027052538605
+86,inchi hu,data analytics,0.1324295304292306
+86,inchi hu,bioinformatics biostatistics computational biology,0.1092260357742457
+86,inchi hu,software engineering,0.1076077828206479
+86,inchi hu,visual computing,0.1046668636440745
+86,inchi hu,computational biomedicine,0.0932124943410277
+86,inchi hu,applied probability statistics,0.0889335010221091
+86,inchi hu,education,0.0766559270718669
+86,inchi hu,geotechnical engineering,0.068734339662347
+86,inchi hu,human centered computing,0.0664868413227032
+86,inchi hu,electrical engineering,0.0587952801043622
+87,ioulia rytikova,education,0.1507472130866593
+87,ioulia rytikova,artificial intelligence,0.1026588871836943
+87,ioulia rytikova,design results clinical studies,0.1008829873889485
+87,ioulia rytikova,software engineering,0.0893487172672944
+87,ioulia rytikova,applied probability statistics,0.0880935446562157
+87,ioulia rytikova,computer networks communications,0.0781009374677209
+87,ioulia rytikova,systems engineering,0.0767708712647667
+87,ioulia rytikova,biomedical imaging devices,0.0762704039273128
+87,ioulia rytikova,electrical engineering,0.0727999653381562
+87,ioulia rytikova,geotechnical engineering,0.0700876644050462
+88,irina hashmi,structural engineering,0.195372909281275
+88,irina hashmi,systems engineering,0.1237819708787941
+88,irina hashmi,experimental understanding disease mechanisms,0.1095483441632091
+88,irina hashmi,design results clinical studies,0.1055685195174863
+88,irina hashmi,visual computing,0.1028413026838289
+88,irina hashmi,construction engineering management,0.1008635927848497
+88,irina hashmi,autonomous systems,0.100695855375829
+88,irina hashmi,multiscale tribology contact mechanics,0.0991388519927214
+88,irina hashmi,statistical modeling,0.0982441931630667
+88,irina hashmi,stochastic modeling,0.097271478379274
+89,isuru dassanayake,statistical modeling,0.1411862416005035
+89,isuru dassanayake,applied probability statistics,0.1361594377969684
+89,isuru dassanayake,education,0.08450075647587
+89,isuru dassanayake,stochastic modeling,0.0784368008891686
+89,isuru dassanayake,computer engineering,0.0703189717226469
+89,isuru dassanayake,bioinformatics biostatistics computational biology,0.0702356849804951
+89,isuru dassanayake,data analytics,0.069515299937497
+89,isuru dassanayake,computational biomedicine,0.06421980812256
+89,isuru dassanayake,computer networks communications,0.0615644618121071
+89,isuru dassanayake,visual computing,0.0600928551078555
+90,ivan avramovic,energy,0.0765514972543768
+90,ivan avramovic,design results clinical studies,0.0689403941837741
+90,ivan avramovic,data analytics,0.0677976922058353
+90,ivan avramovic,applied probability statistics,0.0672828830858212
+90,ivan avramovic,computer networks communications,0.0578194799477976
+90,ivan avramovic,statistical modeling,0.0560990889581929
+90,ivan avramovic,stochastic modeling,0.0560990889581929
+90,ivan avramovic,biomedical imaging devices,0.0546028436096347
+90,ivan avramovic,electrical engineering,0.0526757325863419
+90,ivan avramovic,environmental water resources engineering,0.0525158665648992
+91,james baldo,applied probability statistics,0.1088259123581886
+91,james baldo,environmental water resources engineering,0.1064714023702516
+91,james baldo,visual computing,0.1050643716474922
+91,james baldo,electrical engineering,0.1011747002949853
+91,james baldo,software engineering,0.0987579062533551
+91,james baldo,geotechnical engineering,0.0919938422509344
+91,james baldo,systems engineering,0.0895696995159014
+91,james baldo,construction engineering management,0.0812574837744603
+91,james baldo,education,0.0791455412770962
+91,james baldo,computer engineering,0.0768396110244464
+92,jan allbeck,statistical modeling,0.17121510485192
+92,jan allbeck,stochastic modeling,0.1689749072183435
+92,jan allbeck,design results clinical studies,0.1381887512467045
+92,jan allbeck,humanities,0.1358519850647478
+92,jan allbeck,systems engineering,0.1233940493903064
+92,jan allbeck,theory computation,0.1208554250806758
+92,jan allbeck,simulation,0.1192199189157605
+92,jan allbeck,autonomous systems,0.1102505020778411
+92,jan allbeck,construction engineering management,0.1079607205084655
+92,jan allbeck,computer networks communications,0.1007542098725462
+93,janis terpenny,biomedical imaging devices,0.2748302504916586
+93,janis terpenny,systems engineering,0.2459141233615781
+93,janis terpenny,design results clinical studies,0.2325146117528802
+93,janis terpenny,electrical engineering,0.2010249495877354
+93,janis terpenny,environmental water resources engineering,0.1939498618903736
+93,janis terpenny,geotechnical engineering,0.1890887837488715
+93,janis terpenny,software engineering,0.1820940389209359
+93,janis terpenny,computer engineering,0.1805545617936469
+93,janis terpenny,construction engineering management,0.168184582950835
+93,janis terpenny,autonomous systems,0.1579467985894612
+94,jean pierre auffret,artificial intelligence,0.0
+94,jean pierre auffret,autonomous systems,0.0
+94,jean pierre auffret,computer engineering,0.0
+94,jean pierre auffret,computer networks communications,0.0
+94,jean pierre auffret,data analytics,0.0
+94,jean pierre auffret,electrical engineering,0.0
+94,jean pierre auffret,human centered computing,0.0
+94,jean pierre auffret,software engineering,0.0
+94,jean pierre auffret,theory computation,0.0
+95,jeff offutt,applied probability statistics,0.1399202342672006
+95,jeff offutt,design results clinical studies,0.1390689730390873
+95,jeff offutt,visual computing,0.1219311659854641
+95,jeff offutt,electrical engineering,0.1153876250831328
+95,jeff offutt,environmental water resources engineering,0.110123774964214
+95,jeff offutt,systems engineering,0.1069006532530547
+95,jeff offutt,biomedical imaging devices,0.1067137527327965
+95,jeff offutt,construction engineering management,0.0980279006036163
+95,jeff offutt,theory computation,0.0947069630132763
+95,jeff offutt,stochastic modeling,0.087407220458055
+96,jeffrey moran,environmental water resources engineering,0.1312437874675701
+96,jeffrey moran,applied probability statistics,0.1290351193438871
+96,jeffrey moran,stochastic modeling,0.1264422631479627
+96,jeffrey moran,statistical modeling,0.1259633151814931
+96,jeffrey moran,design results clinical studies,0.1163540685222669
+96,jeffrey moran,multiscale tribology contact mechanics,0.1093014933715526
+96,jeffrey moran,biomedical imaging devices,0.1086184764361954
+96,jeffrey moran,multiscale transport engineering,0.104211166009397
+96,jeffrey moran,visual computing,0.0998068166490835
+96,jeffrey moran,electrical engineering,0.0956406531835172
+97,jens peter kaps,biomedical imaging devices,0.1511833121825092
+97,jens peter kaps,design results clinical studies,0.1067374542348247
+97,jens peter kaps,electrical engineering,0.1030193110289804
+97,jens peter kaps,environmental water resources engineering,0.0955902780140938
+97,jens peter kaps,systems engineering,0.0883846667709205
+97,jens peter kaps,applied probability statistics,0.0831075146297947
+97,jens peter kaps,experimental understanding disease mechanisms,0.0826818959666136
+97,jens peter kaps,visual computing,0.0746970399698378
+97,jens peter kaps,multiscale transport engineering,0.0695287149755923
+97,jens peter kaps,construction engineering management,0.0685617828588378
+98,jessica lin,applied probability statistics,0.1422668409601055
+98,jessica lin,design results clinical studies,0.1088994913238386
+98,jessica lin,biomedical imaging devices,0.0916018826390656
+98,jessica lin,systems engineering,0.0862869559989061
+98,jessica lin,visual computing,0.0797910563068717
+98,jessica lin,environmental water resources engineering,0.0747467918353227
+98,jessica lin,autonomous systems,0.0729475415113235
+98,jessica lin,stochastic modeling,0.0723355722705353
+98,jessica lin,computer networks communications,0.07216684202598
+98,jessica lin,statistical modeling,0.0708206911758644
+99,jianli pan,biomedical imaging devices,0.1396616592576535
+99,jianli pan,computer networks communications,0.1070535474461436
+99,jianli pan,electrical engineering,0.1051813817487186
+99,jianli pan,environmental water resources engineering,0.1036759422973597
+99,jianli pan,multiscale transport engineering,0.1011285118077883
+99,jianli pan,construction engineering management,0.1000517597665992
+99,jianli pan,design results clinical studies,0.0948213093212914
+99,jianli pan,systems engineering,0.0941701617189545
+99,jianli pan,experimental understanding disease mechanisms,0.0892793321056557
+99,jianli pan,software engineering,0.0836217112086335
+100,jiayang sun,applied probability statistics,0.1595221273088948
+100,jiayang sun,bioinformatics biostatistics computational biology,0.1590420188374827
+100,jiayang sun,software engineering,0.1498732883221699
+100,jiayang sun,biomedical imaging devices,0.1367971136113538
+100,jiayang sun,visual computing,0.136666175137842
+100,jiayang sun,electrical engineering,0.1302771893035057
+100,jiayang sun,systems engineering,0.1297508146688652
+100,jiayang sun,computer networks communications,0.1202131617878102
+100,jiayang sun,geotechnical engineering,0.1196642245084926
+100,jiayang sun,theory computation,0.1195898677718232
+101,jie xu,applied probability statistics,0.1664188940147268
+101,jie xu,electrical engineering,0.1451788729350479
+101,jie xu,systems engineering,0.1391212296388884
+101,jie xu,design results clinical studies,0.1381245970562295
+101,jie xu,visual computing,0.1314932405300079
+101,jie xu,environmental water resources engineering,0.1265481886870307
+101,jie xu,theory computation,0.1245408423469625
+101,jie xu,stochastic modeling,0.1220576378807479
+101,jie xu,biomedical imaging devices,0.1217971938241627
+101,jie xu,construction engineering management,0.1181746725023757
+102,jim chen,visual computing,0.1947056588688299
+102,jim chen,design results clinical studies,0.1946216163629846
+102,jim chen,environmental water resources engineering,0.1905896135547024
+102,jim chen,computer networks communications,0.1722663540515771
+102,jim chen,biomedical imaging devices,0.1685756303711715
+102,jim chen,systems engineering,0.1623110594393031
+102,jim chen,statistical modeling,0.1617912103204371
+102,jim chen,stochastic modeling,0.1607730151642355
+102,jim chen,applied probability statistics,0.1530653172365202
+102,jim chen,bioinformatics biostatistics computational biology,0.1423610224826121
+103,jinwei ye,biomedical imaging devices,0.1527176575060433
+103,jinwei ye,applied probability statistics,0.1190561409665436
+103,jinwei ye,visual computing,0.1090545288894336
+103,jinwei ye,environmental water resources engineering,0.1067254069453987
+103,jinwei ye,computational fluid dynamics,0.0943910686036014
+103,jinwei ye,design results clinical studies,0.0932947964501307
+103,jinwei ye,multiscale tribology contact mechanics,0.0848194982193307
+103,jinwei ye,electrical engineering,0.0841551450297343
+103,jinwei ye,construction engineering management,0.0793915122488904
+103,jinwei ye,experimental understanding disease mechanisms,0.074355360606432
+104,john mclaughlin,education,0.1374556959178017
+104,john mclaughlin,software engineering,0.1067422059619599
+104,john mclaughlin,visual computing,0.1048232597481505
+104,john mclaughlin,computational biomedicine,0.093351775011706
+104,john mclaughlin,artificial intelligence,0.0927145540823119
+104,john mclaughlin,civilian government ngos,0.0786560404759271
+104,john mclaughlin,human centered computing,0.0729277294822882
+104,john mclaughlin,transportation,0.0721781824614862
+104,john mclaughlin,computer engineering,0.0620607440326818
+104,john mclaughlin,geotechnical engineering,0.061188483912537
+105,john otten,visual computing,0.1648451183489467
+105,john otten,software engineering,0.1626978433639921
+105,john otten,computational biomedicine,0.1468050548786758
+105,john otten,simulation,0.1321245493908082
+105,john otten,bioinformatics biostatistics computational biology,0.110096376512636
+105,john otten,human centered computing,0.0942421293656314
+105,john otten,computer networks communications,0.0938233281301001
+105,john otten,computational fluid dynamics,0.0676083983125473
+105,john otten,education,0.0676083983125473
+105,john otten,electrical engineering,0.0617330997905993
+106,john shortle,applied probability statistics,0.2163035166697889
+106,john shortle,stochastic modeling,0.1806144152903321
+106,john shortle,statistical modeling,0.1771531634293676
+106,john shortle,visual computing,0.1591063155673352
+106,john shortle,design results clinical studies,0.1492387073013576
+106,john shortle,environmental water resources engineering,0.1287067922940691
+106,john shortle,biomedical imaging devices,0.1264882024668925
+106,john shortle,theory computation,0.1188278866312733
+106,john shortle,systems engineering,0.1172478214232336
+106,john shortle,electrical engineering,0.1162790139666439
+107,john stufken,biomedical imaging devices,0.1464576766260515
+107,john stufken,software engineering,0.1369559664160672
+107,john stufken,geotechnical engineering,0.1121544308184088
+107,john stufken,systems engineering,0.1082890416191503
+107,john stufken,multiscale transport engineering,0.106993447963356
+107,john stufken,visual computing,0.1024715090758029
+107,john stufken,electrical engineering,0.0959367793057589
+107,john stufken,computer engineering,0.0936791270794779
+107,john stufken,design results clinical studies,0.0904025766946519
+107,john stufken,human centered computing,0.0813653759033619
+108,jonathan goldman,education,0.1041053627332593
+108,jonathan goldman,design results clinical studies,0.069100618281022
+108,jonathan goldman,multiscale transport engineering,0.0468692790016263
+108,jonathan goldman,theory computation,0.040910860722468
+108,jonathan goldman,human centered computing,0.038697800104687
+108,jonathan goldman,transportation,0.0330338072137204
+108,jonathan goldman,visual computing,0.030459992430862
+108,jonathan goldman,environmental water resources engineering,0.0284309744890146
+108,jonathan goldman,artificial intelligence,0.0282884624412683
+108,jonathan goldman,energy,0.0271265591920716
+109,jonathan l auerbach,applied probability statistics,0.2495191378506424
+109,jonathan l auerbach,visual computing,0.1595038880444522
+109,jonathan l auerbach,bioinformatics biostatistics computational biology,0.1477543857063574
+109,jonathan l auerbach,design results clinical studies,0.1211659878119914
+109,jonathan l auerbach,civilian government ngos,0.1137700329793816
+109,jonathan l auerbach,computer networks communications,0.1069502018579053
+109,jonathan l auerbach,biomedical imaging devices,0.0957687887417102
+109,jonathan l auerbach,construction engineering management,0.0946333780475066
+109,jonathan l auerbach,environmental water resources engineering,0.0946298929578371
+109,jonathan l auerbach,systems engineering,0.0934478488967351
+110,joy hughes,computer networks communications,0.1685363778692239
+110,joy hughes,visual computing,0.126905991641
+110,joy hughes,software engineering,0.1261227241806842
+110,joy hughes,computational biomedicine,0.1035996969927343
+110,joy hughes,simulation,0.1035996969927343
+110,joy hughes,biomedical imaging devices,0.1007670698654437
+110,joy hughes,data analytics,0.0993989537285906
+110,joy hughes,applied probability statistics,0.0934523870477593
+110,joy hughes,electrical engineering,0.0871295670031768
+110,joy hughes,communitybased healthcare,0.0844003744102691
+111,juan cebral,stochastic modeling,0.156453380720398
+111,juan cebral,statistical modeling,0.1558903094273169
+111,juan cebral,computational fluid dynamics,0.1491230854476651
+111,juan cebral,visual computing,0.1045187387895425
+111,juan cebral,design results clinical studies,0.1040454489633297
+111,juan cebral,applied probability statistics,0.097855967864515
+111,juan cebral,biomedical imaging devices,0.0973969100140934
+111,juan cebral,bioinformatics biostatistics computational biology,0.0835528533187461
+111,juan cebral,computational biomedicine,0.0736522040189426
+111,juan cebral,systems engineering,0.0733080946069982
+112,kai zeng,computer networks communications,0.1401859254753056
+112,kai zeng,multiscale tribology contact mechanics,0.1207960527191885
+112,kai zeng,design results clinical studies,0.1046732587692205
+112,kai zeng,environmental water resources engineering,0.0989006025292552
+112,kai zeng,systems engineering,0.0907265896028116
+112,kai zeng,biomedical imaging devices,0.0884994368142041
+112,kai zeng,applied probability statistics,0.0875583433820987
+112,kai zeng,experimental understanding disease mechanisms,0.0839424275865055
+112,kai zeng,autonomous systems,0.0765550994730844
+112,kai zeng,electrical engineering,0.0750824444136342
+113,kamaljeet sanghera,human centered computing,0.0817519119313287
+113,kamaljeet sanghera,education,0.0754046181087411
+113,kamaljeet sanghera,visual computing,0.0643489452087787
+113,kamaljeet sanghera,transportation,0.0581552631499044
+113,kamaljeet sanghera,civilian government ngos,0.0551083392721756
+113,kamaljeet sanghera,data analytics,0.0465242105199235
+113,kamaljeet sanghera,computational biomedicine,0.0429801191295939
+113,kamaljeet sanghera,communitybased healthcare,0.0427960492510912
+113,kamaljeet sanghera,artificial intelligence,0.0398409536444797
+113,kamaljeet sanghera,software engineering,0.0396942093018722
+114,karla hoffman,design results clinical studies,0.1938160538754592
+114,karla hoffman,visual computing,0.1775752686062786
+114,karla hoffman,environmental water resources engineering,0.1725051223501311
+114,karla hoffman,electrical engineering,0.1583958537792996
+114,karla hoffman,theory computation,0.1574573702621723
+114,karla hoffman,applied probability statistics,0.1572953362512781
+114,karla hoffman,construction engineering management,0.1545236495731507
+114,karla hoffman,systems engineering,0.1351784882673057
+114,karla hoffman,stochastic modeling,0.1331433230302647
+114,karla hoffman,statistical modeling,0.1323932198019252
+115,katherine russell,computer networks communications,0.1619311897334186
+115,katherine russell,design results clinical studies,0.1314761053109265
+115,katherine russell,artificial intelligence,0.1258218365970064
+115,katherine russell,systems engineering,0.1195906618640607
+115,katherine russell,environmental water resources engineering,0.1150746904264748
+115,katherine russell,construction engineering management,0.1146047021165167
+115,katherine russell,electrical engineering,0.1014725228205803
+115,katherine russell,data analytics,0.0979521669432332
+115,katherine russell,applied probability statistics,0.0951618931229912
+115,katherine russell,visual computing,0.0948362795905672
+116,kathleen wage,statistical modeling,0.153528380587662
+116,kathleen wage,stochastic modeling,0.153528380587662
+116,kathleen wage,applied probability statistics,0.1349570713994435
+116,kathleen wage,data analytics,0.1158007390417701
+116,kathleen wage,visual computing,0.1151202195014333
+116,kathleen wage,design results clinical studies,0.1053464441840877
+116,kathleen wage,environmental water resources engineering,0.0971737723205788
+116,kathleen wage,biomedical imaging devices,0.093793399971528
+116,kathleen wage,electrical engineering,0.0918463383688197
+116,kathleen wage,construction engineering management,0.0801635280090033
+117,kenneth ball,computational fluid dynamics,0.198324678938934
+117,kenneth ball,structural engineering,0.1396381934375793
+117,kenneth ball,visual computing,0.1359201416467249
+117,kenneth ball,design results clinical studies,0.1145310297816022
+117,kenneth ball,applied probability statistics,0.101472240600845
+117,kenneth ball,theory computation,0.1006390426877264
+117,kenneth ball,bioinformatics biostatistics computational biology,0.0985610821959765
+117,kenneth ball,environmental water resources engineering,0.0954749130621761
+117,kenneth ball,systems engineering,0.0951078115113166
+117,kenneth ball,biomedical imaging devices,0.0910440592109799
+118,kenneth strazzeri,bioinformatics biostatistics computational biology,0.0967098088642765
+118,kenneth strazzeri,education,0.0814462962375368
+118,kenneth strazzeri,statistical modeling,0.0756015352710857
+118,kenneth strazzeri,design results clinical studies,0.0700784441636848
+118,kenneth strazzeri,computational biomedicine,0.0618984460590172
+118,kenneth strazzeri,simulation,0.0618984460590172
+118,kenneth strazzeri,transportation,0.0502518907629606
+118,kenneth strazzeri,nanomaterials photonics synthesis,0.0473779369679134
+118,kenneth strazzeri,visual computing,0.0463365364571277
+118,kenneth strazzeri,biomedical imaging devices,0.0441510785688347
+119,kevin andrea,biomedical imaging devices,0.1576372168982667
+119,kevin andrea,multiscale transport engineering,0.1090994863474332
+119,kevin andrea,environmental water resources engineering,0.1022365521703515
+119,kevin andrea,electrical engineering,0.0929339213396185
+119,kevin andrea,design results clinical studies,0.092749666991076
+119,kevin andrea,systems engineering,0.0808556393123086
+119,kevin andrea,computer networks communications,0.0730567373975169
+119,kevin andrea,statistical modeling,0.0726013441038938
+119,kevin andrea,stochastic modeling,0.0726013441038938
+119,kevin andrea,geotechnical engineering,0.0674341784338819
+120,kevin lybarger,statistical modeling,0.1809072747566823
+120,kevin lybarger,stochastic modeling,0.1780952445791173
+120,kevin lybarger,biomedical imaging devices,0.1386761456268246
+120,kevin lybarger,artificial intelligence,0.1218261568801941
+120,kevin lybarger,design results clinical studies,0.1198310350940172
+120,kevin lybarger,computer networks communications,0.1103570788957944
+120,kevin lybarger,visual computing,0.1005378802404017
+120,kevin lybarger,applied probability statistics,0.1002322112929315
+120,kevin lybarger,computational fluid dynamics,0.0883583301994313
+120,kevin lybarger,data analytics,0.0872265207833094
+121,kevin moran,design results clinical studies,0.1197767848546207
+121,kevin moran,biomedical imaging devices,0.115056578767489
+121,kevin moran,visual computing,0.1055967385191036
+121,kevin moran,systems engineering,0.1046628009679657
+121,kevin moran,electrical engineering,0.0966657600653397
+121,kevin moran,applied probability statistics,0.0960374813897731
+121,kevin moran,environmental water resources engineering,0.0952772475649295
+121,kevin moran,artificial intelligence,0.092620361740025
+121,kevin moran,bioinformatics biostatistics computational biology,0.0924425481089168
+121,kevin moran,computer networks communications,0.092239094298439
+122,khaled khasawneh,design results clinical studies,0.1007456960298972
+122,khaled khasawneh,visual computing,0.0935078737160681
+122,khaled khasawneh,biomedical imaging devices,0.0862065125789141
+122,khaled khasawneh,electrical engineering,0.0855304612714394
+122,khaled khasawneh,applied probability statistics,0.0854986961548253
+122,khaled khasawneh,computer networks communications,0.0758281320737513
+122,khaled khasawneh,environmental water resources engineering,0.0670426879076908
+122,khaled khasawneh,systems engineering,0.0637857813851162
+122,khaled khasawneh,computer engineering,0.0611252716442491
+122,khaled khasawneh,construction engineering management,0.0608530063615425
+123,khondkar islam,design results clinical studies,0.172671897473746
+123,khondkar islam,education,0.1556013071388307
+123,khondkar islam,computer networks communications,0.1285520724820707
+123,khondkar islam,visual computing,0.112931304104479
+123,khondkar islam,bioinformatics biostatistics computational biology,0.1118931897596155
+123,khondkar islam,applied probability statistics,0.1046021959381949
+123,khondkar islam,biomedical imaging devices,0.0890795233719378
+123,khondkar islam,data analytics,0.0861354176375998
+123,khondkar islam,multiscale transport engineering,0.082929104596786
+123,khondkar islam,environmental water resources engineering,0.0820102551821401
+124,kim blackwell,statistical modeling,0.2142601165756235
+124,kim blackwell,stochastic modeling,0.2136822066185754
+124,kim blackwell,design results clinical studies,0.1177961275984848
+124,kim blackwell,biomedical imaging devices,0.0929525048345756
+124,kim blackwell,applied probability statistics,0.0893852292745661
+124,kim blackwell,environmental water resources engineering,0.081329891342104
+124,kim blackwell,computer networks communications,0.0812695034071423
+124,kim blackwell,experimental understanding disease mechanisms,0.0784782639485116
+124,kim blackwell,electrical engineering,0.0714631914905631
+124,kim blackwell,construction engineering management,0.0671161625284946
+125,kirin emlet furst,environmental water resources engineering,0.2507513950729247
+125,kirin emlet furst,humanities,0.0657475704608732
+125,kirin emlet furst,visual computing,0.0642415863756242
+125,kirin emlet furst,design results clinical studies,0.0603555290532956
+125,kirin emlet furst,national security,0.0526341810531327
+125,kirin emlet furst,communitybased healthcare,0.0504927669436932
+125,kirin emlet furst,applied probability statistics,0.0489609918048668
+125,kirin emlet furst,computer networks communications,0.0465357107098852
+125,kirin emlet furst,bioinformatics biostatistics computational biology,0.0438806476828146
+125,kirin emlet furst,human centered computing,0.0426626572642311
+126,krzysztof gaj,biomedical imaging devices,0.1610957300800159
+126,krzysztof gaj,electrical engineering,0.1281115431757047
+126,krzysztof gaj,design results clinical studies,0.1269143822437609
+126,krzysztof gaj,visual computing,0.1248249947776718
+126,krzysztof gaj,environmental water resources engineering,0.1082505561963454
+126,krzysztof gaj,systems engineering,0.1055907284497501
+126,krzysztof gaj,applied probability statistics,0.1055154335898005
+126,krzysztof gaj,construction engineering management,0.0904389952703745
+126,krzysztof gaj,software engineering,0.0900613316462197
+126,krzysztof gaj,multiscale transport engineering,0.0779147661295157
+127,kun sun,computer networks communications,0.1555626591521369
+127,kun sun,biomedical imaging devices,0.1191628161170445
+127,kun sun,applied probability statistics,0.1171551314088588
+127,kun sun,design results clinical studies,0.1031288749529231
+127,kun sun,environmental water resources engineering,0.1027982962127846
+127,kun sun,theory computation,0.0916610720922381
+127,kun sun,multiscale transport engineering,0.0852798287332129
+127,kun sun,electrical engineering,0.0818343090041415
+127,kun sun,data analytics,0.0777799441759437
+127,kun sun,systems engineering,0.0769060213957829
+128,kuo tian,environmental water resources engineering,0.1323706077014421
+128,kuo tian,visual computing,0.0715745240730034
+128,kuo tian,statistical modeling,0.0684380459270794
+128,kuo tian,stochastic modeling,0.0684380459270794
+128,kuo tian,applied probability statistics,0.0652470720354842
+128,kuo tian,design results clinical studies,0.0587391532579738
+128,kuo tian,biomedical imaging devices,0.0565679298313449
+128,kuo tian,experimental understanding disease mechanisms,0.0536808930547526
+128,kuo tian,electrical engineering,0.0529847553072361
+128,kuo tian,multiscale tribology contact mechanics,0.048940248370043
+129,lance sherry,design results clinical studies,0.1389121827082131
+129,lance sherry,applied probability statistics,0.1375863278993653
+129,lance sherry,computer networks communications,0.128285051180942
+129,lance sherry,visual computing,0.124367299801965
+129,lance sherry,biomedical imaging devices,0.1203124407541663
+129,lance sherry,theory computation,0.1091250487981801
+129,lance sherry,systems engineering,0.106329671564243
+129,lance sherry,environmental water resources engineering,0.1047739426288928
+129,lance sherry,electrical engineering,0.0992877588573552
+129,lance sherry,statistical modeling,0.0924453241048141
+130,larry kerschberg,computer networks communications,0.0958286510762146
+130,larry kerschberg,visual computing,0.0940882335829859
+130,larry kerschberg,software engineering,0.0855313778795287
+130,larry kerschberg,data analytics,0.0787665774098638
+130,larry kerschberg,electrical engineering,0.0778884387405419
+130,larry kerschberg,multiscale transport engineering,0.0718432700057716
+130,larry kerschberg,computer engineering,0.0688121306692883
+130,larry kerschberg,environmental water resources engineering,0.0684077622679267
+130,larry kerschberg,applied probability statistics,0.0650780631135106
+130,larry kerschberg,geotechnical engineering,0.0650393607234604
+131,laura kosoglu,visual computing,0.1849659482059426
+131,laura kosoglu,environmental water resources engineering,0.1266062553667722
+131,laura kosoglu,human centered computing,0.0979122492410077
+131,laura kosoglu,simulation,0.0960889607283056
+131,laura kosoglu,computational biomedicine,0.0823619663385477
+131,laura kosoglu,education,0.0812792267359937
+131,laura kosoglu,bioinformatics biostatistics computational biology,0.0772091436482183
+131,laura kosoglu,statistical modeling,0.0704166913664033
+131,laura kosoglu,stochastic modeling,0.0704166913664033
+131,laura kosoglu,systems engineering,0.0689883074727411
+132,lei yang,biomedical imaging devices,0.1585578770341494
+132,lei yang,multiscale tribology contact mechanics,0.120981901514458
+132,lei yang,design results clinical studies,0.1189998161948142
+132,lei yang,stochastic modeling,0.1170721590284812
+132,lei yang,systems engineering,0.1158334880630049
+132,lei yang,statistical modeling,0.1152570867954815
+132,lei yang,electrical engineering,0.0999862089081254
+132,lei yang,geotechnical engineering,0.0986245849985504
+132,lei yang,software engineering,0.0977884254717834
+132,lei yang,construction engineering management,0.0963008133830957
+133,leigh mccue weil,data analytics,0.0931717457076745
+133,leigh mccue weil,human centered computing,0.0886819531146414
+133,leigh mccue weil,visual computing,0.0751732708050168
+133,leigh mccue weil,environmental water resources engineering,0.0521231561446405
+133,leigh mccue weil,multiscale tribology contact mechanics,0.0517620809487081
+133,leigh mccue weil,education,0.0503363720028686
+133,leigh mccue weil,transportation,0.038821560711531
+133,leigh mccue weil,national security,0.0377698996700897
+133,leigh mccue weil,software engineering,0.0353305060245755
+133,leigh mccue weil,energy,0.0286913894599256
+134,leonard adelman,applied probability statistics,0.1776513821331295
+134,leonard adelman,structural engineering,0.1296230039119745
+134,leonard adelman,design results clinical studies,0.1183667514150698
+134,leonard adelman,data analytics,0.118223621802584
+134,leonard adelman,visual computing,0.1132050594909733
+134,leonard adelman,experimental understanding disease mechanisms,0.1079640845145394
+134,leonard adelman,systems engineering,0.1011267978029452
+134,leonard adelman,environmental water resources engineering,0.0892275307592298
+134,leonard adelman,bioinformatics biostatistics computational biology,0.0857580911216006
+134,leonard adelman,electrical engineering,0.0847886707759659
+135,liling huang,energy,0.0953837346447223
+135,liling huang,education,0.0836709417089362
+135,liling huang,multiscale transport engineering,0.0732462453269326
+135,liling huang,visual computing,0.0714032771286074
+135,liling huang,multiscale tribology contact mechanics,0.0688326454285703
+135,liling huang,national security,0.0627824959945136
+135,liling huang,software engineering,0.0587276474744943
+135,liling huang,computer networks communications,0.0541865654799729
+135,liling huang,electrical engineering,0.0534798443108923
+135,liling huang,systems engineering,0.053263763248196
+136,lily wang,stochastic modeling,0.2316287945983783
+136,lily wang,statistical modeling,0.2182754716281836
+136,lily wang,experimental understanding disease mechanisms,0.1601449988532786
+136,lily wang,applied probability statistics,0.1376547425353983
+136,lily wang,visual computing,0.1282733897448865
+136,lily wang,systems engineering,0.1091881767581338
+136,lily wang,bioinformatics biostatistics computational biology,0.0913210119676836
+136,lily wang,construction engineering management,0.0908894820876552
+136,lily wang,autonomous systems,0.0906453621465485
+136,lily wang,design results clinical studies,0.0890645629006509
+137,linghan zhang,computer networks communications,0.0907545590913635
+137,linghan zhang,biomedical imaging devices,0.0868187259005943
+137,linghan zhang,environmental water resources engineering,0.0666199375128651
+137,linghan zhang,humanities,0.0631817478072662
+137,linghan zhang,visual computing,0.0569476328248457
+137,linghan zhang,electrical engineering,0.0568704156600756
+137,linghan zhang,experimental understanding disease mechanisms,0.0503037423286137
+137,linghan zhang,theory computation,0.0471666439016174
+137,linghan zhang,design results clinical studies,0.0459341080112872
+137,linghan zhang,computational fluid dynamics,0.0455999949826444
+138,lisa luo,applied probability statistics,0.1487877705891365
+138,lisa luo,design results clinical studies,0.145533175363804
+138,lisa luo,biomedical imaging devices,0.1369437430850562
+138,lisa luo,experimental understanding disease mechanisms,0.1102697684088516
+138,lisa luo,systems engineering,0.1078268574735835
+138,lisa luo,construction engineering management,0.1056459751733308
+138,lisa luo,computer networks communications,0.1050721134523947
+138,lisa luo,environmental water resources engineering,0.1050060347497317
+138,lisa luo,electrical engineering,0.0937259431265183
+138,lisa luo,multiscale transport engineering,0.092054197803082
+139,lishan yang,applied probability statistics,0.128666266791963
+139,lishan yang,electrical engineering,0.1228025234680254
+139,lishan yang,biomedical imaging devices,0.1155817675453574
+139,lishan yang,software engineering,0.1036063700689494
+139,lishan yang,geotechnical engineering,0.0980421365352595
+139,lishan yang,computer engineering,0.0965150577645826
+139,lishan yang,human centered computing,0.0939895692127082
+139,lishan yang,environmental water resources engineering,0.0910758484488189
+139,lishan yang,design results clinical studies,0.0816481025500812
+139,lishan yang,statistical modeling,0.0782960292686271
+140,liza wilson durant,environmental water resources engineering,0.0993844963727794
+140,liza wilson durant,nanomaterials photonics synthesis,0.0992042098437758
+140,liza wilson durant,experimental understanding disease mechanisms,0.0945358458408623
+140,liza wilson durant,visual computing,0.0771213479228087
+140,liza wilson durant,bioinformatics biostatistics computational biology,0.0726922162894304
+140,liza wilson durant,data analytics,0.0611546400793529
+140,liza wilson durant,multiscale tribology contact mechanics,0.0611546400793529
+140,liza wilson durant,design results clinical studies,0.0526746715787903
+140,liza wilson durant,finance,0.0522575207362242
+140,liza wilson durant,applied probability statistics,0.0518591812725311
+141,lucas henneman,statistical modeling,0.1401235650589321
+141,lucas henneman,stochastic modeling,0.1380164437798504
+141,lucas henneman,energy,0.132265094194339
+141,lucas henneman,applied probability statistics,0.1254618046615255
+141,lucas henneman,humanities,0.1185255719483448
+141,lucas henneman,environmental water resources engineering,0.1130096987216836
+141,lucas henneman,visual computing,0.1105816512325071
+141,lucas henneman,design results clinical studies,0.1062044316662181
+141,lucas henneman,bioinformatics biostatistics computational biology,0.098383508786492
+141,lucas henneman,electrical engineering,0.0918920798053619
+142,mahdi hashemi,stochastic modeling,0.1444801962828291
+142,mahdi hashemi,statistical modeling,0.1437719600265407
+142,mahdi hashemi,computer networks communications,0.1389723428924185
+142,mahdi hashemi,design results clinical studies,0.1389582904391541
+142,mahdi hashemi,applied probability statistics,0.1293366990478754
+142,mahdi hashemi,visual computing,0.1291391961836173
+142,mahdi hashemi,biomedical imaging devices,0.1178782603832088
+142,mahdi hashemi,bioinformatics biostatistics computational biology,0.1177772522079643
+142,mahdi hashemi,environmental water resources engineering,0.1170929927361569
+142,mahdi hashemi,simulation,0.1063086790162054
+143,marcos zampieri,experimental understanding disease mechanisms,0.1235232185810781
+143,marcos zampieri,applied probability statistics,0.1216034951129926
+143,marcos zampieri,optimization techniques,0.1158187611568414
+143,marcos zampieri,computer networks communications,0.1099590640838721
+143,marcos zampieri,design results clinical studies,0.1027630526601749
+143,marcos zampieri,visual computing,0.0976624462180445
+143,marcos zampieri,theory computation,0.0937808319731697
+143,marcos zampieri,electrical engineering,0.0875035715899041
+143,marcos zampieri,construction engineering management,0.0855136233687974
+143,marcos zampieri,systems engineering,0.0792823101884807
+144,mark snyder,computer networks communications,0.1096081839329209
+144,mark snyder,design results clinical studies,0.10787116209896
+144,mark snyder,experimental understanding disease mechanisms,0.1005688738361654
+144,mark snyder,artificial intelligence,0.0794886776442469
+144,mark snyder,biomedical imaging devices,0.0761167516656143
+144,mark snyder,systems engineering,0.0744879826982189
+144,mark snyder,data analytics,0.0742582219426102
+144,mark snyder,autonomous systems,0.0687269401729202
+144,mark snyder,environmental water resources engineering,0.0655090840722825
+144,mark snyder,visual computing,0.064192898193297
+145,martha bushong,education,0.0851972440294308
+145,martha bushong,design results clinical studies,0.0841659806282873
+145,martha bushong,multiscale tribology contact mechanics,0.0830675811873627
+145,martha bushong,manufacturing,0.0685388660679887
+145,martha bushong,nanomaterials photonics synthesis,0.0605732015154216
+145,martha bushong,visual computing,0.0538561452472381
+145,martha bushong,human centered computing,0.0444738890249605
+145,martha bushong,multiscale transport engineering,0.0426185046865166
+145,martha bushong,construction engineering management,0.0340163724102402
+145,martha bushong,civilian government ngos,0.0332080713129616
+146,martin slawski,stochastic modeling,0.1217161238900369
+146,martin slawski,applied probability statistics,0.1216730694307433
+146,martin slawski,statistical modeling,0.1206668469599503
+146,martin slawski,environmental water resources engineering,0.1026457902359459
+146,martin slawski,computational fluid dynamics,0.0941997180531298
+146,martin slawski,visual computing,0.090034947002513
+146,martin slawski,design results clinical studies,0.0883464722840125
+146,martin slawski,bioinformatics biostatistics computational biology,0.0872455713284465
+146,martin slawski,data analytics,0.0813689489179775
+146,martin slawski,computer networks communications,0.069545882456905
+147,massimiliano albanese,computer networks communications,0.1725615555584574
+147,massimiliano albanese,design results clinical studies,0.1356640282009723
+147,massimiliano albanese,applied probability statistics,0.1356177728434773
+147,massimiliano albanese,statistical modeling,0.121430837536278
+147,massimiliano albanese,stochastic modeling,0.1211751936677806
+147,massimiliano albanese,theory computation,0.1207424150530732
+147,massimiliano albanese,construction engineering management,0.1106285887311857
+147,massimiliano albanese,biomedical imaging devices,0.1102296831684071
+147,massimiliano albanese,systems engineering,0.1094780622989294
+147,massimiliano albanese,environmental water resources engineering,0.109101096676565
+148,matthew amissah,computer networks communications,0.1322278928163779
+148,matthew amissah,statistical modeling,0.1010797391438537
+148,matthew amissah,stochastic modeling,0.1010797391438537
+148,matthew amissah,software engineering,0.0955394632947722
+148,matthew amissah,theory computation,0.0910089193111601
+148,matthew amissah,geotechnical engineering,0.0847579379526013
+148,matthew amissah,environmental water resources engineering,0.0795099935886035
+148,matthew amissah,construction engineering management,0.0786093659031159
+148,matthew amissah,visual computing,0.0774403092662366
+148,matthew amissah,systems engineering,0.0770228382504933
+149,md tanvir arafin,biomedical imaging devices,0.1614713710851602
+149,md tanvir arafin,design results clinical studies,0.1303138050281653
+149,md tanvir arafin,stochastic modeling,0.126625980835235
+149,md tanvir arafin,statistical modeling,0.1226188295429807
+149,md tanvir arafin,computer networks communications,0.122312682126465
+149,md tanvir arafin,visual computing,0.1154320878540103
+149,md tanvir arafin,systems engineering,0.1148098079145009
+149,md tanvir arafin,electrical engineering,0.1039319631042903
+149,md tanvir arafin,autonomous systems,0.0918048768045872
+149,md tanvir arafin,artificial intelligence,0.0912364200893558
+150,mehdi amiri darehbidi,bioinformatics biostatistics computational biology,0.1471863523165803
+150,mehdi amiri darehbidi,applied probability statistics,0.1437250981473542
+150,mehdi amiri darehbidi,stochastic modeling,0.1369772195509151
+150,mehdi amiri darehbidi,statistical modeling,0.1351508566235696
+150,mehdi amiri darehbidi,visual computing,0.1203340407945439
+150,mehdi amiri darehbidi,experimental understanding disease mechanisms,0.1035432444046076
+150,mehdi amiri darehbidi,structural engineering,0.1010515306423464
+150,mehdi amiri darehbidi,environmental water resources engineering,0.1009993860853239
+150,mehdi amiri darehbidi,design results clinical studies,0.0949926029113281
+150,mehdi amiri darehbidi,theory computation,0.0757989152351505
+151,michael eagle,design results clinical studies,0.2105606082783539
+151,michael eagle,education,0.1567447342459461
+151,michael eagle,applied probability statistics,0.1443599425256592
+151,michael eagle,electrical engineering,0.1279487979300494
+151,michael eagle,visual computing,0.1224819092248813
+151,michael eagle,systems engineering,0.1204858611532144
+151,michael eagle,environmental water resources engineering,0.1149247766279016
+151,michael eagle,statistical modeling,0.1121899919500374
+151,michael eagle,stochastic modeling,0.110787617050662
+151,michael eagle,biomedical imaging devices,0.1102214482058099
+152,michael hieb,computer networks communications,0.1605496822490459
+152,michael hieb,artificial intelligence,0.1321726190614375
+152,michael hieb,design results clinical studies,0.1311173252148122
+152,michael hieb,statistical modeling,0.1308943671772733
+152,michael hieb,stochastic modeling,0.1295775224370593
+152,michael hieb,environmental water resources engineering,0.1294233511264574
+152,michael hieb,electrical engineering,0.1212031461503664
+152,michael hieb,systems engineering,0.1182048427275768
+152,michael hieb,applied probability statistics,0.1150278713694402
+152,michael hieb,experimental understanding disease mechanisms,0.1069407941587775
+153,michael holland,bioinformatics biostatistics computational biology,0.149270358506633
+153,michael holland,education,0.1466632079832696
+153,michael holland,applied probability statistics,0.0972305585328246
+153,michael holland,computational biomedicine,0.0955394632947722
+153,michael holland,geotechnical engineering,0.0939336436627724
+153,michael holland,design results clinical studies,0.0901376551729519
+153,michael holland,structural engineering,0.0884436422096531
+153,michael holland,software engineering,0.088235294117647
+153,michael holland,electrical engineering,0.080350737600837
+153,michael holland,computer engineering,0.0784598671448912
+154,michael lyons,artificial intelligence,0.1087224134933031
+154,michael lyons,computer networks communications,0.0999460271070655
+154,michael lyons,data analytics,0.0935497877018846
+154,michael lyons,biomedical imaging devices,0.0880632968136156
+154,michael lyons,education,0.0758109158326671
+154,michael lyons,visual computing,0.0739379112920575
+154,michael lyons,design results clinical studies,0.0722185089200948
+154,michael lyons,electrical engineering,0.0692228029227872
+154,michael lyons,systems engineering,0.0597506985281979
+154,michael lyons,applied probability statistics,0.054447187356723
+155,mihai boicu,education,0.224182346495718
+155,mihai boicu,computer engineering,0.2121530522038135
+155,mihai boicu,electrical engineering,0.1988616446067582
+155,mihai boicu,geotechnical engineering,0.1969917863479682
+155,mihai boicu,software engineering,0.191865790474816
+155,mihai boicu,design results clinical studies,0.1884680044504056
+155,mihai boicu,construction engineering management,0.1724793969801086
+155,mihai boicu,systems engineering,0.1617157571852597
+155,mihai boicu,theory computation,0.1551576191926816
+155,mihai boicu,environmental water resources engineering,0.1414257125932413
+156,mingkui wei,design results clinical studies,0.1096175427094318
+156,mingkui wei,multiscale tribology contact mechanics,0.1081869902851772
+156,mingkui wei,computer networks communications,0.1077896961922497
+156,mingkui wei,artificial intelligence,0.0929353216158005
+156,mingkui wei,bioinformatics biostatistics computational biology,0.0796387796540522
+156,mingkui wei,visual computing,0.0785591476349863
+156,mingkui wei,biomedical imaging devices,0.0784183857450999
+156,mingkui wei,applied probability statistics,0.0680216903582663
+156,mingkui wei,data analytics,0.0669407002389534
+156,mingkui wei,experimental understanding disease mechanisms,0.0603222026482931
+157,mingrui liu,design results clinical studies,0.142759080452339
+157,mingrui liu,construction engineering management,0.1050373600798673
+157,mingrui liu,computer engineering,0.1026475540144322
+157,mingrui liu,experimental understanding disease mechanisms,0.0982464699381814
+157,mingrui liu,systems engineering,0.0968956856358382
+157,mingrui liu,theory computation,0.0948079887964361
+157,mingrui liu,applied probability statistics,0.0894175571730995
+157,mingrui liu,optimization techniques,0.0888892372698861
+157,mingrui liu,environmental water resources engineering,0.0887737216430847
+157,mingrui liu,electrical engineering,0.0884256010613218
+158,mohamed gebril,visual computing,0.1046211076359234
+158,mohamed gebril,multiscale tribology contact mechanics,0.0924500327042048
+158,mohamed gebril,national security,0.091989815247042
+158,mohamed gebril,human centered computing,0.0775340720414051
+158,mohamed gebril,civilian government ngos,0.0716778865720363
+158,mohamed gebril,design results clinical studies,0.06153266595589
+158,mohamed gebril,bioinformatics biostatistics computational biology,0.0582284195654862
+158,mohamed gebril,education,0.051081610854983
+158,mohamed gebril,computer engineering,0.051010284391258
+158,mohamed gebril,computational biomedicine,0.0465858728538372
+159,mohan venigalla,stochastic modeling,0.2057329420860985
+159,mohan venigalla,statistical modeling,0.2035954569735157
+159,mohan venigalla,applied probability statistics,0.1803296937326591
+159,mohan venigalla,visual computing,0.1547525711343624
+159,mohan venigalla,design results clinical studies,0.141169801360793
+159,mohan venigalla,environmental water resources engineering,0.113415372803889
+159,mohan venigalla,electrical engineering,0.1125340962198697
+159,mohan venigalla,computer networks communications,0.1081181977444311
+159,mohan venigalla,biomedical imaging devices,0.107404534040649
+159,mohan venigalla,computational biomedicine,0.1046388334369635
+160,moinul hossain,data analytics,0.0727008408627881
+160,moinul hossain,national security,0.0486278397314885
+160,moinul hossain,multiscale tribology contact mechanics,0.0339270590693011
+160,moinul hossain,computer networks communications,0.0286158468073742
+160,moinul hossain,communitybased healthcare,0.0267500188086135
+160,moinul hossain,statistical modeling,0.0262499743652719
+160,moinul hossain,stochastic modeling,0.0262499743652719
+160,moinul hossain,systems engineering,0.0200025004688476
+160,moinul hossain,biomedical imaging devices,0.0191623866578122
+160,moinul hossain,sports,0.0179100487892781
+161,monson hayes,visual computing,0.1507940146949663
+161,monson hayes,biomedical imaging devices,0.1478051504347265
+161,monson hayes,design results clinical studies,0.1291950122297352
+161,monson hayes,applied probability statistics,0.12603386734717
+161,monson hayes,electrical engineering,0.1237876004166691
+161,monson hayes,computer networks communications,0.1142451987844224
+161,monson hayes,environmental water resources engineering,0.1135315061679244
+161,monson hayes,theory computation,0.1106547167366401
+161,monson hayes,stochastic modeling,0.1070482502425522
+161,monson hayes,statistical modeling,0.1046042262644117
+162,myeong lee,artificial intelligence,0.2908402250838777
+162,myeong lee,computer networks communications,0.2680245533862051
+162,myeong lee,data analytics,0.2202539396088289
+162,myeong lee,applied probability statistics,0.1422667744240943
+162,myeong lee,design results clinical studies,0.1368709644405972
+162,myeong lee,environmental water resources engineering,0.1128704114049912
+162,myeong lee,bioinformatics biostatistics computational biology,0.1126029455991986
+162,myeong lee,human centered computing,0.1034044764337338
+162,myeong lee,humanities,0.1001672575353661
+162,myeong lee,biomedical imaging devices,0.0989728560151452
+163,nathan kathir,civilian government ngos,0.1117041503877186
+163,nathan kathir,visual computing,0.108695652173913
+163,nathan kathir,education,0.0891593153697168
+163,nathan kathir,human centered computing,0.0828552264999161
+163,nathan kathir,geotechnical engineering,0.0761386987626881
+163,nathan kathir,multiscale tribology contact mechanics,0.073347704903892
+163,nathan kathir,computer engineering,0.0715458375842505
+163,nathan kathir,software engineering,0.0715198539852151
+163,nathan kathir,transportation,0.0707281440144672
+163,nathan kathir,electrical engineering,0.0651289609025836
+164,nicholas rios,applied probability statistics,0.1706158336542357
+164,nicholas rios,software engineering,0.1380424049925434
+164,nicholas rios,experimental understanding disease mechanisms,0.1315480247533913
+164,nicholas rios,electrical engineering,0.1291046604257376
+164,nicholas rios,systems engineering,0.1263271807868357
+164,nicholas rios,design results clinical studies,0.1200563858396012
+164,nicholas rios,geotechnical engineering,0.1072391562368118
+164,nicholas rios,visual computing,0.1043311920457931
+164,nicholas rios,biomedical imaging devices,0.0979696915435516
+164,nicholas rios,bioinformatics biostatistics computational biology,0.0908875765102784
+165,niloofar ramezani,biomedical imaging devices,0.1748443116439497
+165,niloofar ramezani,applied probability statistics,0.1559157316841631
+165,niloofar ramezani,data analytics,0.1348094069312237
+165,niloofar ramezani,design results clinical studies,0.1298078479450985
+165,niloofar ramezani,visual computing,0.1220860441164358
+165,niloofar ramezani,bioinformatics biostatistics computational biology,0.1167483710715537
+165,niloofar ramezani,systems engineering,0.1048695444135215
+165,niloofar ramezani,communitybased healthcare,0.0974337715701691
+165,niloofar ramezani,computational biomedicine,0.0968644309288969
+165,niloofar ramezani,electrical engineering,0.0964280346982721
+166,ningshi yao,humanities,0.1743346514750834
+166,ningshi yao,statistical modeling,0.1396291421536547
+166,ningshi yao,stochastic modeling,0.1396291421536547
+166,ningshi yao,human centered computing,0.1036963213536221
+166,ningshi yao,design results clinical studies,0.0944528767695802
+166,ningshi yao,visual computing,0.0902788022851433
+166,ningshi yao,biomedical imaging devices,0.0840568665517997
+166,ningshi yao,experimental understanding disease mechanisms,0.0822402787940004
+166,ningshi yao,optimization techniques,0.0808412471598294
+166,ningshi yao,theory computation,0.0805588935755847
+167,olcay ciftci,applied probability statistics,0.1187977408278728
+167,olcay ciftci,communitybased healthcare,0.0996270962773435
+167,olcay ciftci,computer engineering,0.0821686553497165
+167,olcay ciftci,computer networks communications,0.0639456834479231
+167,olcay ciftci,data analytics,0.0541530361073882
+167,olcay ciftci,optimization techniques,0.0480015360737319
+167,olcay ciftci,environmental water resources engineering,0.0419467613980967
+167,olcay ciftci,nanomaterials photonics synthesis,0.0382919790533741
+167,olcay ciftci,design results clinical studies,0.0377593803887553
+167,olcay ciftci,experimental understanding disease mechanisms,0.0374502943136569
+168,omoche agada,applied probability statistics,0.1292716224591295
+168,omoche agada,software engineering,0.083096060802407
+168,omoche agada,computer engineering,0.0825829412837284
+168,omoche agada,electrical engineering,0.0801219573263689
+168,omoche agada,systems engineering,0.0768427408882226
+168,omoche agada,data analytics,0.0687487202048037
+168,omoche agada,biomedical imaging devices,0.0679525956900848
+168,omoche agada,geotechnical engineering,0.0676478032983426
+168,omoche agada,construction engineering management,0.0643491765079942
+168,omoche agada,environmental water resources engineering,0.0643468067030172
+169,parag chitnis,visual computing,0.1361038335649466
+169,parag chitnis,biomedical imaging devices,0.1330495776506247
+169,parag chitnis,applied probability statistics,0.1294484384158066
+169,parag chitnis,electrical engineering,0.1120113276840945
+169,parag chitnis,design results clinical studies,0.1106239667043068
+169,parag chitnis,environmental water resources engineering,0.1092371299759859
+169,parag chitnis,computer networks communications,0.0920765718579986
+169,parag chitnis,experimental understanding disease mechanisms,0.0794618189974987
+169,parag chitnis,systems engineering,0.0749804528257423
+169,parag chitnis,computational fluid dynamics,0.0716261590050703
+170,parth pathak,biomedical imaging devices,0.1900189646226456
+170,parth pathak,electrical engineering,0.1501310000444572
+170,parth pathak,design results clinical studies,0.1375150637787167
+170,parth pathak,applied probability statistics,0.1269467953327923
+170,parth pathak,visual computing,0.1232102085337014
+170,parth pathak,environmental water resources engineering,0.1135152624517503
+170,parth pathak,computer networks communications,0.1098995546797659
+170,parth pathak,systems engineering,0.1048652318789668
+170,parth pathak,experimental understanding disease mechanisms,0.093786875152519
+170,parth pathak,multiscale tribology contact mechanics,0.0901149394555631
+171,paul ammann,statistical modeling,0.1775842365326834
+171,paul ammann,stochastic modeling,0.1771526831024703
+171,paul ammann,design results clinical studies,0.1448428107889792
+171,paul ammann,applied probability statistics,0.1396395235160634
+171,paul ammann,visual computing,0.1177030013392085
+171,paul ammann,electrical engineering,0.1104445748031514
+171,paul ammann,biomedical imaging devices,0.1041707295856161
+171,paul ammann,systems engineering,0.1011195431199721
+171,paul ammann,environmental water resources engineering,0.0991231352783797
+171,paul ammann,theory computation,0.0963620651088119
+172,pelin kurtay,visual computing,0.1418760884597914
+172,pelin kurtay,human centered computing,0.108147614087175
+172,pelin kurtay,education,0.0997509336107632
+172,pelin kurtay,artificial intelligence,0.0702728368926306
+172,pelin kurtay,computer networks communications,0.0646002110815345
+172,pelin kurtay,national security,0.0623734323804266
+172,pelin kurtay,multiscale tribology contact mechanics,0.0547073293241478
+172,pelin kurtay,computational biomedicine,0.0505398695719268
+172,pelin kurtay,simulation,0.0505398695719268
+172,pelin kurtay,energy,0.0505398695719268
+173,peter pachowicz,computer engineering,0.1452794440564486
+173,peter pachowicz,software engineering,0.136150014672434
+173,peter pachowicz,geotechnical engineering,0.1352799083189046
+173,peter pachowicz,computer networks communications,0.1319034067007154
+173,peter pachowicz,education,0.129317853188603
+173,peter pachowicz,electrical engineering,0.1157182878481856
+173,peter pachowicz,systems engineering,0.1042744766032869
+173,peter pachowicz,visual computing,0.0882860244697469
+173,peter pachowicz,construction engineering management,0.084639987700317
+173,peter pachowicz,multiscale tribology contact mechanics,0.0797883627903911
+174,ping deng,applied probability statistics,0.1111873974991651
+174,ping deng,education,0.095837597036552
+174,ping deng,finance,0.0636284762975777
+174,ping deng,data analytics,0.0591312395989082
+174,ping deng,national security,0.0359558732648309
+174,ping deng,design results clinical studies,0.0103076352194091
+174,ping deng,artificial intelligence,0.0
+174,ping deng,autonomous systems,0.0
+174,ping deng,computer engineering,0.0
+174,ping deng,computer networks communications,0.0
+175,pouyan ahmadi,design results clinical studies,0.1572219555170348
+175,pouyan ahmadi,computer networks communications,0.1272858297973369
+175,pouyan ahmadi,education,0.1146515377890416
+175,pouyan ahmadi,bioinformatics biostatistics computational biology,0.1050206711416905
+175,pouyan ahmadi,visual computing,0.0943472192917312
+175,pouyan ahmadi,applied probability statistics,0.088676445015476
+175,pouyan ahmadi,finance,0.0842750762332289
+175,pouyan ahmadi,simulation,0.0731304291243551
+175,pouyan ahmadi,computational biomedicine,0.0715744625472412
+175,pouyan ahmadi,experimental understanding disease mechanisms,0.0646453169221121
+176,pramita bagchi,applied probability statistics,0.1703295398452335
+176,pramita bagchi,bioinformatics biostatistics computational biology,0.1431332415340757
+176,pramita bagchi,visual computing,0.1296853647104648
+176,pramita bagchi,design results clinical studies,0.1207827969905988
+176,pramita bagchi,structural engineering,0.1141637553913958
+176,pramita bagchi,experimental understanding disease mechanisms,0.1044077088770691
+176,pramita bagchi,systems engineering,0.0972862372490527
+176,pramita bagchi,humanities,0.0946781862859802
+176,pramita bagchi,electrical engineering,0.093839525133485
+176,pramita bagchi,construction engineering management,0.0912328999559132
+177,qi wei,stochastic modeling,0.2441147996106059
+177,qi wei,statistical modeling,0.2435587294520396
+177,qi wei,visual computing,0.1474037914479365
+177,qi wei,biomedical imaging devices,0.1320623033671933
+177,qi wei,design results clinical studies,0.1228480346075494
+177,qi wei,systems engineering,0.1169483441367984
+177,qi wei,applied probability statistics,0.1158347091789879
+177,qi wei,structural engineering,0.1150602171962706
+177,qi wei,electrical engineering,0.1110411086472866
+177,qi wei,experimental understanding disease mechanisms,0.1056535846216423
+178,qiang zeng,applied probability statistics,0.1374691052808456
+178,qiang zeng,biomedical imaging devices,0.1278690541001375
+178,qiang zeng,computer networks communications,0.1209802885029187
+178,qiang zeng,design results clinical studies,0.1199303933019619
+178,qiang zeng,construction engineering management,0.1022476881334774
+178,qiang zeng,environmental water resources engineering,0.098805863976075
+178,qiang zeng,systems engineering,0.0987062110369771
+178,qiang zeng,experimental understanding disease mechanisms,0.0971296929061102
+178,qiang zeng,electrical engineering,0.0943621765787832
+178,qiang zeng,theory computation,0.0931146436058018
+179,qiliang li,biomedical imaging devices,0.15452598823331
+179,qiliang li,environmental water resources engineering,0.1434051140391005
+179,qiliang li,structural engineering,0.138764369109464
+179,qiliang li,applied probability statistics,0.1334455762063662
+179,qiliang li,experimental understanding disease mechanisms,0.1278042274491714
+179,qiliang li,design results clinical studies,0.1258623042270769
+179,qiliang li,stochastic modeling,0.1162352642655043
+179,qiliang li,visual computing,0.1120287503579499
+179,qiliang li,statistical modeling,0.1096699861811883
+179,qiliang li,systems engineering,0.1038069982372131
+180,rajesh ganesan,applied probability statistics,0.1485762300350656
+180,rajesh ganesan,computer networks communications,0.1334617075822719
+180,rajesh ganesan,design results clinical studies,0.12905471045592
+180,rajesh ganesan,visual computing,0.127998310337139
+180,rajesh ganesan,systems engineering,0.1252212663588811
+180,rajesh ganesan,construction engineering management,0.1211738948847568
+180,rajesh ganesan,bioinformatics biostatistics computational biology,0.1178076894885621
+180,rajesh ganesan,environmental water resources engineering,0.1157507562553531
+180,rajesh ganesan,human centered computing,0.1139638222287521
+180,rajesh ganesan,experimental understanding disease mechanisms,0.11068706344728
+181,ran ji,stochastic modeling,0.2123274655640301
+181,ran ji,statistical modeling,0.2085527550651141
+181,ran ji,applied probability statistics,0.1251540458413739
+181,ran ji,design results clinical studies,0.1093421242967535
+181,ran ji,visual computing,0.105555162764967
+181,ran ji,environmental water resources engineering,0.1014930759357634
+181,ran ji,electrical engineering,0.1007190354050133
+181,ran ji,computer engineering,0.0972913292929123
+181,ran ji,construction engineering management,0.0945908913951004
+181,ran ji,theory computation,0.0932194814236824
+182,rao v mulpuri,environmental water resources engineering,0.0994867797104085
+182,rao v mulpuri,visual computing,0.0919498792283142
+182,rao v mulpuri,design results clinical studies,0.0865005870725996
+182,rao v mulpuri,biomedical imaging devices,0.0862720563856692
+182,rao v mulpuri,applied probability statistics,0.0758958823897896
+182,rao v mulpuri,computational fluid dynamics,0.072152422365102
+182,rao v mulpuri,experimental understanding disease mechanisms,0.0716599186332907
+182,rao v mulpuri,systems engineering,0.0670741819370304
+182,rao v mulpuri,electrical engineering,0.0657065535303554
+182,rao v mulpuri,multiscale tribology contact mechanics,0.0645576220666463
+183,ray hong,biomedical imaging devices,0.211088430216626
+183,ray hong,computer networks communications,0.1880292850375023
+183,ray hong,design results clinical studies,0.1702183088196694
+183,ray hong,visual computing,0.1447765097149684
+183,ray hong,systems engineering,0.1415799967691098
+183,ray hong,experimental understanding disease mechanisms,0.1316591749421357
+183,ray hong,artificial intelligence,0.1257321705377229
+183,ray hong,statistical modeling,0.1249237746555289
+183,ray hong,stochastic modeling,0.1211189896406397
+183,ray hong,autonomous systems,0.1183771285393451
+184,remi veneziano,biomedical imaging devices,0.1669291058158071
+184,remi veneziano,design results clinical studies,0.1197585897311509
+184,remi veneziano,systems engineering,0.1155337220475728
+184,remi veneziano,electrical engineering,0.1148138712217262
+184,remi veneziano,applied probability statistics,0.1134768181789987
+184,remi veneziano,environmental water resources engineering,0.1080667334771616
+184,remi veneziano,visual computing,0.1047343592103481
+184,remi veneziano,construction engineering management,0.0992277562019661
+184,remi veneziano,structural engineering,0.0946656766329231
+184,remi veneziano,experimental understanding disease mechanisms,0.0942609232893133
+185,riki morikawa,artificial intelligence,0.148942098970703
+185,riki morikawa,visual computing,0.1319217502438553
+185,riki morikawa,computer networks communications,0.1236688317489857
+185,riki morikawa,education,0.1182135740269229
+185,riki morikawa,human centered computing,0.1084467781831435
+185,riki morikawa,multiscale tribology contact mechanics,0.1009898130105523
+185,riki morikawa,software engineering,0.0957377467248682
+185,riki morikawa,civilian government ngos,0.0956986621154726
+185,riki morikawa,data analytics,0.0785476323415406
+185,riki morikawa,geotechnical engineering,0.0747417838741782
+186,robert handler,computational fluid dynamics,0.184767349087316
+186,robert handler,structural engineering,0.148138817593108
+186,robert handler,applied probability statistics,0.1432667034027394
+186,robert handler,environmental water resources engineering,0.1361111236633267
+186,robert handler,statistical modeling,0.1174081937180521
+186,robert handler,stochastic modeling,0.1134370342246474
+186,robert handler,design results clinical studies,0.1126319850170546
+186,robert handler,multiscale tribology contact mechanics,0.1034164512366502
+186,robert handler,visual computing,0.1023843130813059
+186,robert handler,experimental understanding disease mechanisms,0.0960348983165738
+187,robert osgood,artificial intelligence,0.0942721998324565
+187,robert osgood,software engineering,0.0922771648815217
+187,robert osgood,data analytics,0.069528133926333
+187,robert osgood,applied probability statistics,0.0690001850201347
+187,robert osgood,computational biomedicine,0.0642316644520476
+187,robert osgood,construction engineering management,0.0614632279961543
+187,robert osgood,computer networks communications,0.0592952416898844
+187,robert osgood,education,0.0563442380637861
+187,robert osgood,visual computing,0.0560970195472165
+187,robert osgood,systems engineering,0.0557946075352753
+188,robert pettit,biomedical imaging devices,0.195102378082279
+188,robert pettit,statistical modeling,0.1468074536058059
+188,robert pettit,stochastic modeling,0.1444547700544308
+188,robert pettit,electrical engineering,0.1339214504039463
+188,robert pettit,systems engineering,0.1297948581040253
+188,robert pettit,design results clinical studies,0.1213982898798659
+188,robert pettit,computer networks communications,0.1148997936443254
+188,robert pettit,geotechnical engineering,0.1098446761167765
+188,robert pettit,software engineering,0.1097040501696607
+188,robert pettit,computer engineering,0.0975501389511047
+189,rochelle jones,education,0.1765157793672494
+189,rochelle jones,humanities,0.1474637654821601
+189,rochelle jones,human centered computing,0.1412524246963989
+189,rochelle jones,visual computing,0.1291160503717357
+189,rochelle jones,computer networks communications,0.106148978486855
+189,rochelle jones,software engineering,0.0943956909350609
+189,rochelle jones,electrical engineering,0.091333192523714
+189,rochelle jones,geotechnical engineering,0.0879304010229858
+189,rochelle jones,biomedical imaging devices,0.0774610070915736
+189,rochelle jones,systems engineering,0.0749116677766425
+190,sadegh torabi,artificial intelligence,0.1751639490619415
+190,sadegh torabi,computer networks communications,0.1645058150956262
+190,sadegh torabi,data analytics,0.1039322046777496
+190,sadegh torabi,experimental understanding disease mechanisms,0.0932855854726581
+190,sadegh torabi,biomedical imaging devices,0.0884000659572983
+190,sadegh torabi,education,0.087808649735834
+190,sadegh torabi,design results clinical studies,0.0848041333213031
+190,sadegh torabi,communitybased healthcare,0.0711942620457724
+190,sadegh torabi,national security,0.0692488185893891
+190,sadegh torabi,applied probability statistics,0.0665289771246494
+191,sam salem,finance,0.1169147755769194
+191,sam salem,data analytics,0.0686218631679697
+191,sam salem,civilian government ngos,0.0650265635837898
+191,sam salem,environmental water resources engineering,0.0620133110882298
+191,sam salem,education,0.0556098139900209
+191,sam salem,transportation,0.0514663973759772
+191,sam salem,structural engineering,0.0508612492657353
+191,sam salem,visual computing,0.0474564153133666
+191,sam salem,humanities,0.0464572209811883
+191,sam salem,human centered computing,0.0452181384561254
+192,samuel gordon,visual computing,0.1169352118591441
+192,samuel gordon,construction engineering management,0.1040324151022315
+192,samuel gordon,stochastic modeling,0.0977122771310426
+192,samuel gordon,statistical modeling,0.096999048830816
+192,samuel gordon,design results clinical studies,0.0944855253044771
+192,samuel gordon,applied probability statistics,0.0841909397497393
+192,samuel gordon,bioinformatics biostatistics computational biology,0.0802880942336368
+192,samuel gordon,human centered computing,0.0770568050299879
+192,samuel gordon,computational biomedicine,0.0768871104176228
+192,samuel gordon,environmental water resources engineering,0.0763000955083863
+193,sanjeev setia,design results clinical studies,0.124563998151015
+193,sanjeev setia,applied probability statistics,0.1210015492526443
+193,sanjeev setia,computer networks communications,0.1198406006242307
+193,sanjeev setia,systems engineering,0.1066927568760728
+193,sanjeev setia,electrical engineering,0.1009899131421063
+193,sanjeev setia,biomedical imaging devices,0.098730723308624
+193,sanjeev setia,environmental water resources engineering,0.0902678920089311
+193,sanjeev setia,visual computing,0.0876766408424332
+193,sanjeev setia,construction engineering management,0.0854042586969229
+193,sanjeev setia,autonomous systems,0.0820253553436476
+194,sanmay das,design results clinical studies,0.1555349955082656
+194,sanmay das,statistical modeling,0.1474561350849932
+194,sanmay das,stochastic modeling,0.1471533504133608
+194,sanmay das,applied probability statistics,0.144647253608573
+194,sanmay das,computer networks communications,0.1439123593456022
+194,sanmay das,artificial intelligence,0.1413254063546304
+194,sanmay das,environmental water resources engineering,0.1219442851961802
+194,sanmay das,systems engineering,0.1213598511662492
+194,sanmay das,visual computing,0.1118108347612569
+194,sanmay das,electrical engineering,0.1108484232660215
+195,sara gopalkrishna,education,0.1261760595753023
+195,sara gopalkrishna,software engineering,0.0590409923693396
+195,sara gopalkrishna,computational biomedicine,0.0479463301485384
+195,sara gopalkrishna,visual computing,0.0358921268038777
+195,sara gopalkrishna,simulation,0.0319642200990256
+195,sara gopalkrishna,energy,0.0319642200990256
+195,sara gopalkrishna,multiscale transport engineering,0.0315587378887433
+195,sara gopalkrishna,geotechnical engineering,0.0314269680527354
+195,sara gopalkrishna,bioinformatics biostatistics computational biology,0.0299644383316996
+195,sara gopalkrishna,electrical engineering,0.0268825946181837
+196,scott lewis,geotechnical engineering,0.1300054170052318
+196,scott lewis,software engineering,0.1221188251519958
+196,scott lewis,humanities,0.1211253957778773
+196,scott lewis,electrical engineering,0.1112064936603191
+196,scott lewis,computer engineering,0.1085895037029123
+196,scott lewis,education,0.1014919190276583
+196,scott lewis,systems engineering,0.098450820139128
+196,scott lewis,multiscale transport engineering,0.0979128866130258
+196,scott lewis,construction engineering management,0.0781501190454493
+196,scott lewis,structural engineering,0.0734443090158828
+197,shahnaz kamberi,visual computing,0.2536307436072623
+197,shahnaz kamberi,computational biomedicine,0.2156072835766286
+197,shahnaz kamberi,bioinformatics biostatistics computational biology,0.1876812008721218
+197,shahnaz kamberi,software engineering,0.1849005849183044
+197,shahnaz kamberi,simulation,0.1591387093065592
+197,shahnaz kamberi,human centered computing,0.1428039813629009
+197,shahnaz kamberi,biomedical imaging devices,0.111680036706884
+197,shahnaz kamberi,electrical engineering,0.1036173425547501
+197,shahnaz kamberi,design results clinical studies,0.0879051310863363
+197,shahnaz kamberi,education,0.0844336849845651
+198,shani ross,computer networks communications,0.1280198554876268
+198,shani ross,design results clinical studies,0.1125129409406304
+198,shani ross,biomedical imaging devices,0.0996831786883387
+198,shani ross,visual computing,0.0924120806099233
+198,shani ross,data analytics,0.0882446730662381
+198,shani ross,experimental understanding disease mechanisms,0.0880530202037948
+198,shani ross,artificial intelligence,0.0831250456200336
+198,shani ross,environmental water resources engineering,0.0709579928767607
+198,shani ross,education,0.0704901583321133
+198,shani ross,bioinformatics biostatistics computational biology,0.0669603412705652
+199,sharmin sultana,statistical modeling,0.1765093308092413
+199,sharmin sultana,stochastic modeling,0.1753003627899999
+199,sharmin sultana,applied probability statistics,0.0982174247901882
+199,sharmin sultana,visual computing,0.0926227729671922
+199,sharmin sultana,biomedical imaging devices,0.0811938912157535
+199,sharmin sultana,design results clinical studies,0.0737758962691191
+199,sharmin sultana,electrical engineering,0.0735352602534908
+199,sharmin sultana,systems engineering,0.0654076531846829
+199,sharmin sultana,environmental water resources engineering,0.0601712416085202
+199,sharmin sultana,autonomous systems,0.0553955426048824
+200,sharon adamus,education,0.1679234773433136
+200,sharon adamus,visual computing,0.1370723162267874
+200,sharon adamus,artificial intelligence,0.1311578474677781
+200,sharon adamus,transportation,0.1261312447773782
+200,sharon adamus,computational biomedicine,0.1220716094450806
+200,sharon adamus,software engineering,0.1127390084824832
+200,sharon adamus,human centered computing,0.0949871380291955
+200,sharon adamus,bioinformatics biostatistics computational biology,0.0936281675898538
+200,sharon adamus,data analytics,0.0900937462695559
+200,sharon adamus,computer networks communications,0.0780161464998632
+201,sherif hashem,stochastic modeling,0.189364291181196
+201,sherif hashem,statistical modeling,0.1861438100386587
+201,sherif hashem,applied probability statistics,0.1059953884394689
+201,sherif hashem,computer networks communications,0.1005475499774204
+201,sherif hashem,electrical engineering,0.0983121850506275
+201,sherif hashem,systems engineering,0.093743147032628
+201,sherif hashem,theory computation,0.091462198080496
+201,sherif hashem,design results clinical studies,0.0883124033427154
+201,sherif hashem,visual computing,0.0848754655236889
+201,sherif hashem,biomedical imaging devices,0.0846338264820913
+202,shuochao yao,stochastic modeling,0.1640602758758403
+202,shuochao yao,statistical modeling,0.1628994720370961
+202,shuochao yao,design results clinical studies,0.1605034814053434
+202,shuochao yao,applied probability statistics,0.1405164399986732
+202,shuochao yao,biomedical imaging devices,0.1374642913138383
+202,shuochao yao,computer networks communications,0.1366659453054906
+202,shuochao yao,systems engineering,0.1205913881832235
+202,shuochao yao,environmental water resources engineering,0.1104569467627832
+202,shuochao yao,experimental understanding disease mechanisms,0.1096837452013472
+202,shuochao yao,construction engineering management,0.1088653437700924
+203,shvetha soundararajan,visual computing,0.1771785712641614
+203,shvetha soundararajan,computational biomedicine,0.1341204617858056
+203,shvetha soundararajan,human centered computing,0.1181753737568402
+203,shvetha soundararajan,software engineering,0.1165804270243211
+203,shvetha soundararajan,simulation,0.0946732671429216
+203,shvetha soundararajan,bioinformatics biostatistics computational biology,0.0813543599894315
+203,shvetha soundararajan,optimization techniques,0.079483894788101
+203,shvetha soundararajan,systems engineering,0.0704893695040183
+203,shvetha soundararajan,civilian government ngos,0.0667636025040423
+203,shvetha soundararajan,computer networks communications,0.0554636732207198
+204,siddhartha sikdar,visual computing,0.1658998668580372
+204,siddhartha sikdar,biomedical imaging devices,0.144147456058523
+204,siddhartha sikdar,design results clinical studies,0.1229783281806936
+204,siddhartha sikdar,applied probability statistics,0.1106156935809646
+204,siddhartha sikdar,computer networks communications,0.1057684500555964
+204,siddhartha sikdar,electrical engineering,0.1005992800213887
+204,siddhartha sikdar,environmental water resources engineering,0.0920506303900405
+204,siddhartha sikdar,bioinformatics biostatistics computational biology,0.0872991669415783
+204,siddhartha sikdar,human centered computing,0.0790863069726491
+204,siddhartha sikdar,experimental understanding disease mechanisms,0.0777368137680451
+205,socrates dimitriadis,education,0.0839063188704003
+205,socrates dimitriadis,computational biomedicine,0.0765216491239271
+205,socrates dimitriadis,simulation,0.0765216491239271
+205,socrates dimitriadis,bioinformatics biostatistics computational biology,0.0717342149788215
+205,socrates dimitriadis,software engineering,0.0706714271147318
+205,socrates dimitriadis,design results clinical studies,0.0649755986240507
+205,socrates dimitriadis,visual computing,0.0572833150126204
+205,socrates dimitriadis,systems engineering,0.056974507830288
+205,socrates dimitriadis,humanities,0.0560772154092044
+205,socrates dimitriadis,human centered computing,0.0545815534604222
+206,songjun luo ,design results clinical studies,0.0932799021729701
+206,songjun luo ,education,0.0897197828978273
+206,songjun luo ,electrical engineering,0.0860191111092228
+206,songjun luo ,software engineering,0.0839643437159024
+206,songjun luo ,geotechnical engineering,0.0782135110346322
+206,songjun luo ,biomedical imaging devices,0.0729540574628696
+206,songjun luo ,construction engineering management,0.0690854186360028
+206,songjun luo ,theory computation,0.0685565995638747
+206,songjun luo ,computational biomedicine,0.0681862208433784
+206,songjun luo ,computer engineering,0.0653293265908387
+207,songqing chen,computer networks communications,0.1487350488871925
+207,songqing chen,design results clinical studies,0.1245661962641067
+207,songqing chen,experimental understanding disease mechanisms,0.1208298075230164
+207,songqing chen,applied probability statistics,0.1163118013840439
+207,songqing chen,biomedical imaging devices,0.1161991917084303
+207,songqing chen,environmental water resources engineering,0.0974698539345807
+207,songqing chen,systems engineering,0.0856946828858913
+207,songqing chen,electrical engineering,0.0844920178319201
+207,songqing chen,construction engineering management,0.0828781881423924
+207,songqing chen,theory computation,0.0807958372972805
+208,steven schorling,artificial intelligence,0.0
+208,steven schorling,autonomous systems,0.0
+208,steven schorling,computer engineering,0.0
+208,steven schorling,computer networks communications,0.0
+208,steven schorling,data analytics,0.0
+208,steven schorling,electrical engineering,0.0
+208,steven schorling,human centered computing,0.0
+208,steven schorling,software engineering,0.0
+208,steven schorling,theory computation,0.0
+209,syed abbas zaidi,statistical modeling,0.1956779132285413
+209,syed abbas zaidi,stochastic modeling,0.1940696016129642
+209,syed abbas zaidi,design results clinical studies,0.1366581301121197
+209,syed abbas zaidi,electrical engineering,0.1335099487540447
+209,syed abbas zaidi,theory computation,0.1274303029413538
+209,syed abbas zaidi,construction engineering management,0.1260043443885867
+209,syed abbas zaidi,applied probability statistics,0.1198650812421114
+209,syed abbas zaidi,computer networks communications,0.1168844285825565
+209,syed abbas zaidi,systems engineering,0.1168343058363435
+209,syed abbas zaidi,biomedical imaging devices,0.1111445058534093
+210,tamara maddox,software engineering,0.1466632079832696
+210,tamara maddox,education,0.1343283582089552
+210,tamara maddox,visual computing,0.1273704505281669
+210,tamara maddox,simulation,0.113431481423233
+210,tamara maddox,human centered computing,0.1132721674662085
+210,tamara maddox,manufacturing,0.0997509336107633
+210,tamara maddox,computational biomedicine,0.0907451851385864
+210,tamara maddox,bioinformatics biostatistics computational biology,0.0850678820118226
+210,tamara maddox,humanities,0.0748132002080724
+210,tamara maddox,geotechnical engineering,0.0669149605118205
+211,thanhvu nguyen,visual computing,0.1640252253743577
+211,thanhvu nguyen,design results clinical studies,0.1277317202280612
+211,thanhvu nguyen,applied probability statistics,0.1157255401942668
+211,thanhvu nguyen,experimental understanding disease mechanisms,0.1076832272274747
+211,thanhvu nguyen,electrical engineering,0.1018773625308197
+211,thanhvu nguyen,transportation,0.1017174750611735
+211,thanhvu nguyen,construction engineering management,0.0998707510843391
+211,thanhvu nguyen,education,0.0933684079642085
+211,thanhvu nguyen,statistical modeling,0.0931228689823006
+211,thanhvu nguyen,stochastic modeling,0.0926877153889253
+212,thomas latoza,design results clinical studies,0.2064791525409345
+212,thomas latoza,biomedical imaging devices,0.1832801222410941
+212,thomas latoza,systems engineering,0.172623715554873
+212,thomas latoza,electrical engineering,0.1378588323740421
+212,thomas latoza,construction engineering management,0.1359062943941162
+212,thomas latoza,environmental water resources engineering,0.1308366984198674
+212,thomas latoza,visual computing,0.1260239882960864
+212,thomas latoza,structural engineering,0.1224887994107995
+212,thomas latoza,autonomous systems,0.1215184344405586
+212,thomas latoza,geotechnical engineering,0.1195414767517803
+213,tianshu feng,stochastic modeling,0.2660510499483913
+213,tianshu feng,statistical modeling,0.2442435868378674
+213,tianshu feng,applied probability statistics,0.1695942164512802
+213,tianshu feng,visual computing,0.1370004409938009
+213,tianshu feng,design results clinical studies,0.1204436140671391
+213,tianshu feng,bioinformatics biostatistics computational biology,0.114374422223731
+213,tianshu feng,computer networks communications,0.1122082692553772
+213,tianshu feng,systems engineering,0.0963803603436798
+213,tianshu feng,experimental understanding disease mechanisms,0.091890539690964
+213,tianshu feng,structural engineering,0.0859491217358978
+214,tokunbo fadahunsi,biomedical imaging devices,0.1408232746213638
+214,tokunbo fadahunsi,statistical modeling,0.1390083507678894
+214,tokunbo fadahunsi,stochastic modeling,0.1361714456501774
+214,tokunbo fadahunsi,electrical engineering,0.1269738737436825
+214,tokunbo fadahunsi,design results clinical studies,0.1249085758427874
+214,tokunbo fadahunsi,systems engineering,0.1232182601010259
+214,tokunbo fadahunsi,geotechnical engineering,0.1217954436272858
+214,tokunbo fadahunsi,visual computing,0.1217126740332021
+214,tokunbo fadahunsi,software engineering,0.1215573291402443
+214,tokunbo fadahunsi,theory computation,0.1167660513290773
+215,tolga soyata,biomedical imaging devices,0.1644418460145454
+215,tolga soyata,applied probability statistics,0.1585558165094577
+215,tolga soyata,computer networks communications,0.1445482719236756
+215,tolga soyata,electrical engineering,0.1391933900984849
+215,tolga soyata,design results clinical studies,0.1219873627066275
+215,tolga soyata,environmental water resources engineering,0.1206615452966818
+215,tolga soyata,experimental understanding disease mechanisms,0.1182638403311636
+215,tolga soyata,systems engineering,0.1157290964657217
+215,tolga soyata,communitybased healthcare,0.1094615094950282
+215,tolga soyata,construction engineering management,0.102530481038819
+216,vadim sokolov,stochastic modeling,0.2534928375821955
+216,vadim sokolov,statistical modeling,0.2516289196587971
+216,vadim sokolov,applied probability statistics,0.1837820101866205
+216,vadim sokolov,environmental water resources engineering,0.1471501735770613
+216,vadim sokolov,visual computing,0.1449425150700861
+216,vadim sokolov,design results clinical studies,0.1448789427964119
+216,vadim sokolov,electrical engineering,0.1358330527832153
+216,vadim sokolov,theory computation,0.1078850092560543
+216,vadim sokolov,systems engineering,0.1068780925647775
+216,vadim sokolov,biomedical imaging devices,0.1056774113344789
+217,vasiliki ikonomidou,biomedical imaging devices,0.1718806693971258
+217,vasiliki ikonomidou,design results clinical studies,0.1686667780680658
+217,vasiliki ikonomidou,visual computing,0.164543730861445
+217,vasiliki ikonomidou,applied probability statistics,0.1325603738304953
+217,vasiliki ikonomidou,bioinformatics biostatistics computational biology,0.1123371995684022
+217,vasiliki ikonomidou,experimental understanding disease mechanisms,0.1122553897210302
+217,vasiliki ikonomidou,computer networks communications,0.1057224654721026
+217,vasiliki ikonomidou,systems engineering,0.1029218778328931
+217,vasiliki ikonomidou,electrical engineering,0.0996878431732725
+217,vasiliki ikonomidou,environmental water resources engineering,0.0985661900912212
+218,vijay shah,computer networks communications,0.1200660388528512
+218,vijay shah,biomedical imaging devices,0.1120120956153611
+218,vijay shah,artificial intelligence,0.0991290253336886
+218,vijay shah,multiscale tribology contact mechanics,0.0881219001574887
+218,vijay shah,design results clinical studies,0.0880770951726249
+218,vijay shah,data analytics,0.0766504101961588
+218,vijay shah,environmental water resources engineering,0.0735096172991614
+218,vijay shah,systems engineering,0.0715525165137621
+218,vijay shah,electrical engineering,0.0713026202408595
+218,vijay shah,applied probability statistics,0.0705940708775816
+219,vivian genaro motti,biomedical imaging devices,0.2144476606431651
+219,vivian genaro motti,electrical engineering,0.1419521370562219
+219,vivian genaro motti,systems engineering,0.1411682059149784
+219,vivian genaro motti,design results clinical studies,0.1406521450138292
+219,vivian genaro motti,environmental water resources engineering,0.1214619410460897
+219,vivian genaro motti,geotechnical engineering,0.1122374653822503
+219,vivian genaro motti,software engineering,0.1082123379048131
+219,vivian genaro motti,computer engineering,0.1002459029157921
+219,vivian genaro motti,construction engineering management,0.0992475903769689
+219,vivian genaro motti,autonomous systems,0.0946469411765899
+220,viviana maggioni,stochastic modeling,0.1810023599233676
+220,viviana maggioni,statistical modeling,0.1744228015797527
+220,viviana maggioni,environmental water resources engineering,0.1647311249784804
+220,viviana maggioni,applied probability statistics,0.1594536397737929
+220,viviana maggioni,bioinformatics biostatistics computational biology,0.1170072335862384
+220,viviana maggioni,design results clinical studies,0.1039900076020154
+220,viviana maggioni,visual computing,0.1035835557523575
+220,viviana maggioni,electrical engineering,0.0849852214073961
+220,viviana maggioni,computer networks communications,0.0835955357719901
+220,viviana maggioni,experimental understanding disease mechanisms,0.0796644522293894
+221,wanli qiao,visual computing,0.1123616070266097
+221,wanli qiao,experimental understanding disease mechanisms,0.1080400067563555
+221,wanli qiao,applied probability statistics,0.0979195716570505
+221,wanli qiao,bioinformatics biostatistics computational biology,0.0938047628940108
+221,wanli qiao,computational biomedicine,0.0923678329611766
+221,wanli qiao,data analytics,0.0874863313285114
+221,wanli qiao,computer networks communications,0.0836292601502845
+221,wanli qiao,structural engineering,0.081232193733906
+221,wanli qiao,optimization techniques,0.0664700094043991
+221,wanli qiao,human centered computing,0.0658843591390582
+222,wassim masri,structural engineering,0.0950174247173942
+222,wassim masri,computational biomedicine,0.0506867454107163
+222,wassim masri,systems engineering,0.045994435826297
+222,wassim masri,visual computing,0.0426865199883155
+222,wassim masri,national security,0.0375328189119267
+222,wassim masri,geotechnical engineering,0.0373761049961049
+222,wassim masri,electrical engineering,0.0373000599427669
+222,wassim masri,human centered computing,0.036153968661723
+222,wassim masri,software engineering,0.0351087372820648
+222,wassim masri,applied probability statistics,0.0322399535002196
+223,weiwen jiang,biomedical imaging devices,0.1792330878209347
+223,weiwen jiang,design results clinical studies,0.1298250864115798
+223,weiwen jiang,systems engineering,0.1281694780809928
+223,weiwen jiang,computer networks communications,0.1158679198016024
+223,weiwen jiang,stochastic modeling,0.1094769567147186
+223,weiwen jiang,statistical modeling,0.1068197490274682
+223,weiwen jiang,structural engineering,0.0976787721781186
+223,weiwen jiang,electrical engineering,0.0954497486898473
+223,weiwen jiang,autonomous systems,0.0946980505636612
+223,weiwen jiang,theory computation,0.0929643011938231
+224,william rosenberger,structural engineering,0.2385923519144513
+224,william rosenberger,data analytics,0.1218179893688172
+224,william rosenberger,systems engineering,0.1070660109226127
+224,william rosenberger,experimental understanding disease mechanisms,0.1040672851393807
+224,william rosenberger,statistical modeling,0.0991810132992573
+224,william rosenberger,stochastic modeling,0.098102958806874
+224,william rosenberger,applied probability statistics,0.0980618038638766
+224,william rosenberger,bioinformatics biostatistics computational biology,0.0937755319389674
+224,william rosenberger,design results clinical studies,0.0903530967632989
+224,william rosenberger,visual computing,0.0864474273380041
+225,wing lam,visual computing,0.1042572070285373
+225,wing lam,computational biomedicine,0.0928476690885259
+225,wing lam,bioinformatics biostatistics computational biology,0.0870388279778489
+225,wing lam,software engineering,0.0857492925712544
+225,wing lam,human centered computing,0.0662266178532521
+225,wing lam,simulation,0.0618984460590172
+225,wing lam,data analytics,0.0502518907629606
+225,wing lam,education,0.0407231481187684
+225,wing lam,environmental water resources engineering,0.0389249472080761
+225,wing lam,national security,0.030556616567607
+226,xiang chen,stochastic modeling,0.1733839894745569
+226,xiang chen,statistical modeling,0.1724871757358954
+226,xiang chen,biomedical imaging devices,0.1463552935703126
+226,xiang chen,design results clinical studies,0.1319683610450531
+226,xiang chen,experimental understanding disease mechanisms,0.120925498622508
+226,xiang chen,systems engineering,0.1198180225582137
+226,xiang chen,structural engineering,0.098787146401124
+226,xiang chen,applied probability statistics,0.0967285735530808
+226,xiang chen,autonomous systems,0.0890336878800606
+226,xiang chen,optimization techniques,0.0880653608934144
+227,xiaokuan zhang,computer networks communications,0.1202125477119981
+227,xiaokuan zhang,biomedical imaging devices,0.1177114287909964
+227,xiaokuan zhang,bioinformatics biostatistics computational biology,0.1047988917579755
+227,xiaokuan zhang,design results clinical studies,0.0994452435023889
+227,xiaokuan zhang,visual computing,0.0876721928029381
+227,xiaokuan zhang,experimental understanding disease mechanisms,0.0787057185390013
+227,xiaokuan zhang,artificial intelligence,0.0740199411909333
+227,xiaokuan zhang,applied probability statistics,0.0731390168329764
+227,xiaokuan zhang,national security,0.0613193679678527
+227,xiaokuan zhang,electrical engineering,0.061187828235453
+228,xiaonan guo,computer networks communications,0.1694997581896619
+228,xiaonan guo,biomedical imaging devices,0.1560863104202758
+228,xiaonan guo,experimental understanding disease mechanisms,0.1030433532594135
+228,xiaonan guo,design results clinical studies,0.096472808952133
+228,xiaonan guo,applied probability statistics,0.0918515582562558
+228,xiaonan guo,national security,0.0801484087117539
+228,xiaonan guo,electrical engineering,0.0780258319142225
+228,xiaonan guo,environmental water resources engineering,0.0752524318382746
+228,xiaonan guo,humanities,0.0742697035955947
+228,xiaonan guo,construction engineering management,0.0715206285877934
+229,xinyuan wang,applied probability statistics,0.0963624111659431
+229,xinyuan wang,computational biomedicine,0.0728357040729229
+229,xinyuan wang,visual computing,0.0654288656087624
+229,xinyuan wang,data analytics,0.0591312395989082
+229,xinyuan wang,bioinformatics biostatistics computational biology,0.0546230993599135
+229,xinyuan wang,design results clinical studies,0.0535997031409277
+229,xinyuan wang,software engineering,0.0470870955797418
+229,xinyuan wang,human centered computing,0.0467571900119518
+229,xinyuan wang,national security,0.0467426352442802
+229,xinyuan wang,systems engineering,0.0447398509130146
+230,xuan wang,computer networks communications,0.0698494372068869
+230,xuan wang,design results clinical studies,0.0690761957673565
+230,xuan wang,biomedical imaging devices,0.0666039682667063
+230,xuan wang,theory computation,0.0624114647908759
+230,xuan wang,construction engineering management,0.0618177906605378
+230,xuan wang,experimental understanding disease mechanisms,0.053021371069399
+230,xuan wang,multiscale transport engineering,0.052905735211288
+230,xuan wang,systems engineering,0.0527355394934901
+230,xuan wang,environmental water resources engineering,0.0511576668245047
+230,xuan wang,multiscale tribology contact mechanics,0.0499639213706251
+231,xuesu xiao,design results clinical studies,0.1393663070524592
+231,xuesu xiao,multiscale tribology contact mechanics,0.0987471463984019
+231,xuesu xiao,environmental water resources engineering,0.0975007047201769
+231,xuesu xiao,statistical modeling,0.0869883191228848
+231,xuesu xiao,stochastic modeling,0.0869883191228848
+231,xuesu xiao,computer networks communications,0.0868207153541285
+231,xuesu xiao,electrical engineering,0.0813438656525346
+231,xuesu xiao,multiscale transport engineering,0.0809523398072176
+231,xuesu xiao,applied probability statistics,0.0789695655671019
+231,xuesu xiao,visual computing,0.0779986747399128
+232,yariv ephraim,stochastic modeling,0.160317839762593
+232,yariv ephraim,statistical modeling,0.1552604946596721
+232,yariv ephraim,applied probability statistics,0.1253656840465542
+232,yariv ephraim,experimental understanding disease mechanisms,0.0933775766429482
+232,yariv ephraim,visual computing,0.0914402825217252
+232,yariv ephraim,environmental water resources engineering,0.089255022989546
+232,yariv ephraim,design results clinical studies,0.0890697077469857
+232,yariv ephraim,electrical engineering,0.0858992272554597
+232,yariv ephraim,simulation,0.0852290070095016
+232,yariv ephraim,systems engineering,0.0843960480046139
+233,yotam gingold,design results clinical studies,0.1907917000979412
+233,yotam gingold,biomedical imaging devices,0.1725270708550376
+233,yotam gingold,stochastic modeling,0.1656314552289368
+233,yotam gingold,statistical modeling,0.1650502922281335
+233,yotam gingold,construction engineering management,0.1458351594319598
+233,yotam gingold,environmental water resources engineering,0.1439596432392025
+233,yotam gingold,applied probability statistics,0.1372033587838927
+233,yotam gingold,electrical engineering,0.1347268880751292
+233,yotam gingold,systems engineering,0.1328539948376926
+233,yotam gingold,visual computing,0.1282311129260836
+234,yue cheng,biomedical imaging devices,0.1282758961655575
+234,yue cheng,experimental understanding disease mechanisms,0.1276621058699362
+234,yue cheng,applied probability statistics,0.1199110132084966
+234,yue cheng,electrical engineering,0.1130016177400648
+234,yue cheng,construction engineering management,0.0973883391420593
+234,yue cheng,environmental water resources engineering,0.0944599602475585
+234,yue cheng,statistical modeling,0.0833161210366851
+234,yue cheng,systems engineering,0.0831101861021675
+234,yue cheng,stochastic modeling,0.0818012824723817
+234,yue cheng,geotechnical engineering,0.0812947681132923
+235,yue wang,computer networks communications,0.1401814769903612
+235,yue wang,experimental understanding disease mechanisms,0.1317706084389286
+235,yue wang,design results clinical studies,0.1158772958217045
+235,yue wang,data analytics,0.1114405638228197
+235,yue wang,applied probability statistics,0.1106350652901679
+235,yue wang,systems engineering,0.1002383094944803
+235,yue wang,environmental water resources engineering,0.0953761912571801
+235,yue wang,multiscale tribology contact mechanics,0.0929970206260361
+235,yue wang,structural engineering,0.0869075043986536
+235,yue wang,electrical engineering,0.0835568430168046
+236,yutao zhong,data analytics,0.1688801323682996
+236,yutao zhong,visual computing,0.1459892906184459
+236,yutao zhong,computational biomedicine,0.1300127418730859
+236,yutao zhong,bioinformatics biostatistics computational biology,0.1218787373545217
+236,yutao zhong,software engineering,0.1200730266070185
+236,yutao zhong,simulation,0.1040101934984687
+236,yutao zhong,human centered computing,0.0927358140124428
+236,yutao zhong,computer networks communications,0.0830913360029294
+236,yutao zhong,education,0.0684285759235609
+236,yutao zhong,computational fluid dynamics,0.0513214319426707
+237,zelalem eshete,education,0.1175576026430997
+237,zelalem eshete,energy,0.0714741689891863
+237,zelalem eshete,communitybased healthcare,0.0533760512683623
+237,zelalem eshete,visual computing,0.0401286176952564
+237,zelalem eshete,manufacturing,0.0392837100659193
+237,zelalem eshete,transportation,0.0290129426592829
+237,zelalem eshete,human centered computing,0.025490637096729
+237,zelalem eshete,experimental understanding disease mechanisms,0.0200643088476282
+237,zelalem eshete,multiscale tribology contact mechanics,0.0193419617728553
+237,zelalem eshete,applied probability statistics,0.0181848241863326
+238,zhisheng yan,biomedical imaging devices,0.1075729244514726
+238,zhisheng yan,statistical modeling,0.1043806362138212
+238,zhisheng yan,stochastic modeling,0.1038224509934264
+238,zhisheng yan,computer networks communications,0.0997929588688122
+238,zhisheng yan,applied probability statistics,0.0980588335490053
+238,zhisheng yan,design results clinical studies,0.0974449557053501
+238,zhisheng yan,humanities,0.0870768943815834
+238,zhisheng yan,multiscale transport engineering,0.0763304407665418
+238,zhisheng yan,systems engineering,0.0757100862635885
+238,zhisheng yan,environmental water resources engineering,0.0737641293565473
+239,ziwei zhu,stochastic modeling,0.1613991958802594
+239,ziwei zhu,statistical modeling,0.1605799106219839
+239,ziwei zhu,data analytics,0.1379587561626019
+239,ziwei zhu,computer networks communications,0.112176658315324
+239,ziwei zhu,design results clinical studies,0.0870182668115701
+239,ziwei zhu,theory computation,0.0859898327248787
+239,ziwei zhu,experimental understanding disease mechanisms,0.0728108491434425
+239,ziwei zhu,artificial intelligence,0.0715062861595708
+239,ziwei zhu,construction engineering management,0.0713613970666882
+239,ziwei zhu,systems engineering,0.0705454469945463
+240,ziyu yao,statistical modeling,0.1426588298463178
+240,ziyu yao,stochastic modeling,0.1426588298463178
+240,ziyu yao,design results clinical studies,0.1002271359328644
+240,ziyu yao,experimental understanding disease mechanisms,0.0999271629891394
+240,ziyu yao,theory computation,0.0964651049082474
+240,ziyu yao,education,0.0939203196689289
+240,ziyu yao,humanities,0.0835573146242719
+240,ziyu yao,applied probability statistics,0.0783024443056109
+240,ziyu yao,optimization techniques,0.0720453548194431
+240,ziyu yao,systems engineering,0.0714354614893991

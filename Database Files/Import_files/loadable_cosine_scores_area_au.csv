@@ -1,0 +1,391 @@
+,area,top10,top10_scores
+0,artificial intelligence,myeong lee,0.2908402250838777
+0,artificial intelligence,sadegh torabi,0.1751639490619415
+0,artificial intelligence,diana wang,0.1692198178587606
+0,artificial intelligence,Ã¶zlem uzuner,0.1567140304036143
+0,artificial intelligence,riki morikawa,0.148942098970703
+0,artificial intelligence,hemant purohit,0.1426379046252564
+0,artificial intelligence,sanmay das,0.1413254063546304
+0,artificial intelligence,michael hieb,0.1321726190614375
+0,artificial intelligence,sharon adamus,0.1311578474677781
+0,artificial intelligence,katherine russell,0.1258218365970064
+1,autonomous systems,janis terpenny,0.1579467985894612
+1,autonomous systems,jim chen,0.1418634207137085
+1,autonomous systems,amarda shehu,0.1248547958854183
+1,autonomous systems,thomas latoza,0.1215184344405586
+1,autonomous systems,george hazelrigg,0.1199187463586887
+1,autonomous systems,ray hong,0.1183771285393451
+1,autonomous systems,hadi el amine,0.1156320727813341
+1,autonomous systems,giuseppe ateniese,0.1119569525924867
+1,autonomous systems,jan allbeck,0.1102505020778411
+1,autonomous systems,edward huang,0.1079829402955078
+2,computer engineering,gheorghe tecuci,0.2383102303944741
+2,computer engineering,mihai boicu,0.2121530522038135
+2,computer engineering,janis terpenny,0.1805545617936469
+2,computer engineering,peter pachowicz,0.1452794440564486
+2,computer engineering,edward huang,0.1308488243958065
+2,computer engineering,binqian yin,0.122096572626376
+2,computer engineering,george hazelrigg,0.1191149826795339
+2,computer engineering,aditya johri,0.1167628698762291
+2,computer engineering,jiayang sun,0.1150960414477307
+2,computer engineering,ali k raz,0.1140631263146247
+3,computer networks communications,myeong lee,0.2680245533862051
+3,computer networks communications,ali k raz,0.2373342605346573
+3,computer networks communications,daniel barbara,0.1975567710589214
+3,computer networks communications,duminda wijesekera,0.1955658351740521
+3,computer networks communications,ray hong,0.1880292850375023
+3,computer networks communications,Ã¶zlem uzuner,0.1766456390733896
+3,computer networks communications,massimiliano albanese,0.1725615555584574
+3,computer networks communications,bernd peter paris,0.1723294766691701
+3,computer networks communications,jim chen,0.1722663540515771
+3,computer networks communications,giuseppe ateniese,0.1713329111662713
+5,data analytics,myeong lee,0.2202539396088289
+5,data analytics,yutao zhong,0.1688801323682996
+5,data analytics,diana wang,0.1482046307260317
+5,data analytics,angelos stavrou,0.147981054094376
+5,data analytics,hadi el amine,0.1397382359816659
+5,data analytics,ziwei zhu,0.1379587561626019
+5,data analytics,niloofar ramezani,0.1348094069312237
+5,data analytics,girum urgessa,0.1342778519694503
+5,data analytics,inchi hu,0.1324295304292306
+5,data analytics,arthur art pyster,0.1264279082482028
+6,electrical engineering,gheorghe tecuci,0.2145694639774432
+6,electrical engineering,janis terpenny,0.2010249495877354
+6,electrical engineering,mihai boicu,0.1988616446067582
+6,electrical engineering,aditya johri,0.169374086958133
+6,electrical engineering,edward huang,0.1618566629397806
+6,electrical engineering,george hazelrigg,0.1612768882534328
+6,electrical engineering,karla hoffman,0.1583958537792996
+6,electrical engineering,parth pathak,0.1501310000444572
+6,electrical engineering,ariela sofer,0.1485616095096049
+6,electrical engineering,jie xu,0.1451788729350479
+7,human centered computing,shahnaz kamberi,0.1428039813629009
+7,human centered computing,rochelle jones,0.1412524246963989
+7,human centered computing,aditya johri,0.1252217866317941
+7,human centered computing,andrzej manitius,0.1244786798367366
+7,human centered computing,jim chen,0.123483383564068
+7,human centered computing,george hazelrigg,0.1228319065158744
+7,human centered computing,ariela sofer,0.1220802454915671
+7,human centered computing,shvetha soundararajan,0.1181753737568402
+7,human centered computing,rajesh ganesan,0.1139638222287521
+7,human centered computing,tamara maddox,0.1132721674662085
+8,software engineering,gheorghe tecuci,0.2101973667160289
+8,software engineering,mihai boicu,0.191865790474816
+8,software engineering,shahnaz kamberi,0.1849005849183044
+8,software engineering,janis terpenny,0.1820940389209359
+8,software engineering,hamza mughal,0.1807753815155467
+8,software engineering,binqian yin,0.1647705109143269
+8,software engineering,john otten,0.1626978433639921
+8,software engineering,jiayang sun,0.1498732883221699
+8,software engineering,tamara maddox,0.1466632079832696
+8,software engineering,edward huang,0.142604651446635
+9,theory computation,gheorghe tecuci,0.1861582298570225
+9,theory computation,ariela sofer,0.1642604787366994
+9,theory computation,karla hoffman,0.1574573702621723
+9,theory computation,mihai boicu,0.1551576191926816
+9,theory computation,ali k raz,0.1438736683486622
+9,theory computation,daniel barbara,0.1400369424412214
+9,theory computation,elise miller hooks,0.1385574998554371
+9,theory computation,edward huang,0.1363484897784038
+9,theory computation,alexander levis,0.1321883784269131
+9,theory computation,george hazelrigg,0.1290371683384308
+10,visual computing,shahnaz kamberi,0.2536307436072623
+10,visual computing,ariela sofer,0.2332937770373004
+10,visual computing,aditya johri,0.2138578018171936
+10,visual computing,george hazelrigg,0.1970280062442868
+10,visual computing,andrzej manitius,0.1959604750333837
+10,visual computing,jim chen,0.1947056588688299
+10,visual computing,laura kosoglu,0.1849659482059426
+10,visual computing,karla hoffman,0.1775752686062786
+10,visual computing,shvetha soundararajan,0.1771785712641614
+10,visual computing,craig lorie,0.1685319407387338
+11,bioinformatics biostatistics computational biology,shahnaz kamberi,0.1876812008721218
+11,bioinformatics biostatistics computational biology,jiayang sun,0.1590420188374827
+11,bioinformatics biostatistics computational biology,michael holland,0.149270358506633
+11,bioinformatics biostatistics computational biology,jonathan l auerbach,0.1477543857063574
+11,bioinformatics biostatistics computational biology,mehdi amiri darehbidi,0.1471863523165803
+11,bioinformatics biostatistics computational biology,pramita bagchi,0.1431332415340757
+11,bioinformatics biostatistics computational biology,jim chen,0.1423610224826121
+11,bioinformatics biostatistics computational biology,hamza mughal,0.1284457725980754
+11,bioinformatics biostatistics computational biology,aditya johri,0.1262143934635011
+11,bioinformatics biostatistics computational biology,yutao zhong,0.1218787373545217
+13,biomedical imaging devices,janis terpenny,0.2748302504916586
+13,biomedical imaging devices,vivian genaro motti,0.2144476606431651
+13,biomedical imaging devices,ray hong,0.211088430216626
+13,biomedical imaging devices,george hazelrigg,0.1991659304389887
+13,biomedical imaging devices,robert pettit,0.195102378082279
+13,biomedical imaging devices,parth pathak,0.1900189646226456
+13,biomedical imaging devices,edward huang,0.1883513072307093
+13,biomedical imaging devices,aditya johri,0.1844028673170674
+13,biomedical imaging devices,thomas latoza,0.1832801222410941
+13,biomedical imaging devices,weiwen jiang,0.1792330878209347
+14,communitybased healthcare,tolga soyata,0.1094615094950282
+14,communitybased healthcare,elise miller hooks,0.1069404332234603
+14,communitybased healthcare,olcay ciftci,0.0996270962773435
+14,communitybased healthcare,niloofar ramezani,0.0974337715701691
+14,communitybased healthcare,Ã¶zlem uzuner,0.0888346199267018
+14,communitybased healthcare,lucas henneman,0.084816790904009
+14,communitybased healthcare,joy hughes,0.0844003744102691
+14,communitybased healthcare,f berlin,0.0741249316661101
+14,communitybased healthcare,kevin lybarger,0.0725951359178277
+14,communitybased healthcare,daniel menasce,0.0718076928434574
+15,computational biomedicine,shahnaz kamberi,0.2156072835766286
+15,computational biomedicine,hamza mughal,0.1957400731715678
+15,computational biomedicine,binqian yin,0.1486752583625131
+15,computational biomedicine,Ã¶zlem uzuner,0.1474449764294059
+15,computational biomedicine,john otten,0.1468050548786758
+15,computational biomedicine,grigory yaroslavtsev,0.1384091330895666
+15,computational biomedicine,shvetha soundararajan,0.1341204617858056
+15,computational biomedicine,yutao zhong,0.1300127418730859
+15,computational biomedicine,hadi rezazad,0.1228733350941807
+15,computational biomedicine,sharon adamus,0.1220716094450806
+16,design results clinical studies,aditya johri,0.2703291053857606
+16,design results clinical studies,janis terpenny,0.2325146117528802
+16,design results clinical studies,michael eagle,0.2105606082783539
+16,design results clinical studies,thomas latoza,0.2064791525409345
+16,design results clinical studies,jim chen,0.1946216163629846
+16,design results clinical studies,karla hoffman,0.1938160538754592
+16,design results clinical studies,yotam gingold,0.1907917000979412
+16,design results clinical studies,gheorghe tecuci,0.1885288104621342
+16,design results clinical studies,mihai boicu,0.1884680044504056
+16,design results clinical studies,george hazelrigg,0.1869685879122078
+17,experimental understanding disease mechanisms,lily wang,0.1601449988532786
+17,experimental understanding disease mechanisms,antonios anastasopoulos,0.1477770752574172
+17,experimental understanding disease mechanisms,carlotta domeniconi,0.1464898478747187
+17,experimental understanding disease mechanisms,alexander brodsky,0.1394006186886211
+17,experimental understanding disease mechanisms,amarda shehu,0.137270635178485
+17,experimental understanding disease mechanisms,jim chen,0.1358103173440035
+17,experimental understanding disease mechanisms,yue wang,0.1317706084389286
+17,experimental understanding disease mechanisms,ray hong,0.1316591749421357
+17,experimental understanding disease mechanisms,nicholas rios,0.1315480247533913
+17,experimental understanding disease mechanisms,bo han,0.1279650003218814
+19,construction engineering management,gheorghe tecuci,0.1845722190989643
+19,construction engineering management,mihai boicu,0.1724793969801086
+19,construction engineering management,janis terpenny,0.168184582950835
+19,construction engineering management,karla hoffman,0.1545236495731507
+19,construction engineering management,yotam gingold,0.1458351594319598
+19,construction engineering management,edward huang,0.1446556869009472
+19,construction engineering management,alexander brodsky,0.1409915887206024
+19,construction engineering management,george hazelrigg,0.138701345181067
+19,construction engineering management,thomas latoza,0.1359062943941162
+19,construction engineering management,jim chen,0.1333118206017876
+20,environmental water resources engineering,kirin emlet furst,0.2507513950729247
+20,environmental water resources engineering,janis terpenny,0.1939498618903736
+20,environmental water resources engineering,jim chen,0.1905896135547024
+20,environmental water resources engineering,karla hoffman,0.1725051223501311
+20,environmental water resources engineering,viviana maggioni,0.1647311249784804
+20,environmental water resources engineering,edward huang,0.159489100441409
+20,environmental water resources engineering,aditya johri,0.1543931094568606
+20,environmental water resources engineering,george hazelrigg,0.1528163795619794
+20,environmental water resources engineering,gheorghe tecuci,0.1509739699823009
+20,environmental water resources engineering,vadim sokolov,0.1471501735770613
+21,geotechnical engineering,gheorghe tecuci,0.2176364958925792
+21,geotechnical engineering,mihai boicu,0.1969917863479682
+21,geotechnical engineering,janis terpenny,0.1890887837488715
+21,geotechnical engineering,george hazelrigg,0.1356633220450026
+21,geotechnical engineering,edward huang,0.1355327168182221
+21,geotechnical engineering,peter pachowicz,0.1352799083189046
+21,geotechnical engineering,scott lewis,0.1300054170052318
+21,geotechnical engineering,aditya johri,0.1268128073943543
+21,geotechnical engineering,tokunbo fadahunsi,0.1217954436272858
+21,geotechnical engineering,jiayang sun,0.1196642245084926
+22,structural engineering,ahmed bin zaman,0.3581828950543877
+22,structural engineering,dana richards,0.3094613649864095
+22,structural engineering,amarda shehu,0.2980205283326615
+22,structural engineering,william rosenberger,0.2385923519144513
+22,structural engineering,irina hashmi,0.195372909281275
+22,structural engineering,burak tanyu,0.152809501419171
+22,structural engineering,janis terpenny,0.1485480352329825
+22,structural engineering,robert handler,0.148138817593108
+22,structural engineering,evgenios kornaropoulos,0.144716587967194
+22,structural engineering,hadi el amine,0.1442601401986395
+23,computational fluid dynamics,kenneth ball,0.198324678938934
+23,computational fluid dynamics,robert handler,0.184767349087316
+23,computational fluid dynamics,juan cebral,0.1491230854476651
+23,computational fluid dynamics,jim chen,0.1170039368782867
+23,computational fluid dynamics,jinwei ye,0.0943910686036014
+23,computational fluid dynamics,martin slawski,0.0941997180531298
+23,computational fluid dynamics,colin reagle,0.092731640634431
+23,computational fluid dynamics,kevin lybarger,0.0883583301994313
+23,computational fluid dynamics,jeffrey moran,0.0864258918126233
+23,computational fluid dynamics,abolfazl safikhani,0.0853419914839675
+24,multiscale transport engineering,gheorghe tecuci,0.1291178922858504
+24,multiscale transport engineering,janis terpenny,0.1290890457148632
+24,multiscale transport engineering,edward huang,0.122402514327283
+24,multiscale transport engineering,mihai boicu,0.1178488731380547
+24,multiscale transport engineering,aditya johri,0.1155223310210443
+24,multiscale transport engineering,karla hoffman,0.1099015190162695
+24,multiscale transport engineering,kevin andrea,0.1090994863474332
+24,multiscale transport engineering,elise miller hooks,0.1085930978898727
+24,multiscale transport engineering,george hazelrigg,0.1080739248632962
+24,multiscale transport engineering,john stufken,0.106993447963356
+25,multiscale tribology contact mechanics,janis terpenny,0.1311557212080492
+25,multiscale tribology contact mechanics,ali beheshti,0.1308181658001455
+25,multiscale tribology contact mechanics,bernd peter paris,0.1281247849039344
+25,multiscale tribology contact mechanics,lei yang,0.120981901514458
+25,multiscale tribology contact mechanics,kai zeng,0.1207960527191885
+25,multiscale tribology contact mechanics,aditya johri,0.1196128000797479
+25,multiscale tribology contact mechanics,george hazelrigg,0.1176066156127685
+25,multiscale tribology contact mechanics,jim chen,0.1137004282474831
+25,multiscale tribology contact mechanics,jeffrey moran,0.1093014933715526
+25,multiscale tribology contact mechanics,mingkui wei,0.1081869902851772
+26,nanomaterials photonics synthesis,jim chen,0.1070382712599923
+26,nanomaterials photonics synthesis,liza wilson durant,0.0992042098437758
+26,nanomaterials photonics synthesis,rajesh ganesan,0.0938652922473294
+26,nanomaterials photonics synthesis,qiliang li,0.0867281133021511
+26,nanomaterials photonics synthesis,sherif hashem,0.0827465981113425
+26,nanomaterials photonics synthesis,jeffrey moran,0.0772878271568413
+26,nanomaterials photonics synthesis,dimitrios ioannou,0.07316333971515
+26,nanomaterials photonics synthesis,mihai boicu,0.0730897214476731
+26,nanomaterials photonics synthesis,gheorghe tecuci,0.0693313412495699
+26,nanomaterials photonics synthesis,alexander brodsky,0.0644105978100252
+27,applied probability statistics,jonathan l auerbach,0.2495191378506424
+27,applied probability statistics,john shortle,0.2163035166697889
+27,applied probability statistics,daniel barbara,0.2098259333353692
+27,applied probability statistics,carlotta domeniconi,0.2060755492956585
+27,applied probability statistics,vadim sokolov,0.1837820101866205
+27,applied probability statistics,mohan venigalla,0.1803296937326591
+27,applied probability statistics,leonard adelman,0.1776513821331295
+27,applied probability statistics,duminda wijesekera,0.1764751167448671
+27,applied probability statistics,nicholas rios,0.1706158336542357
+27,applied probability statistics,pramita bagchi,0.1703295398452335
+28,optimization techniques,ariela sofer,0.1501696085672113
+28,optimization techniques,hakan aydin,0.1416805126240712
+28,optimization techniques,marcos zampieri,0.1158187611568414
+28,optimization techniques,carlotta domeniconi,0.1040401558942859
+28,optimization techniques,hadi el amine,0.101746009696876
+28,optimization techniques,john shortle,0.0982585845076409
+28,optimization techniques,huzefa rangwala,0.0967514483031559
+28,optimization techniques,michael hieb,0.0951733276198693
+28,optimization techniques,Ã¶zlem uzuner,0.0949547897975984
+28,optimization techniques,qi wei,0.0928285094715318
+29,simulation,shahnaz kamberi,0.1591387093065592
+29,simulation,hamza mughal,0.1370180512200974
+29,simulation,john otten,0.1321245493908082
+29,simulation,jan allbeck,0.1192199189157605
+29,simulation,tamara maddox,0.113431481423233
+29,simulation,mahdi hashemi,0.1063086790162054
+29,simulation,jim chen,0.1060116137550262
+29,simulation,yutao zhong,0.1040101934984687
+29,simulation,joy hughes,0.1035996969927343
+29,simulation,rajesh ganesan,0.0976395154587552
+30,statistical modeling,abolfazl safikhani,0.3192429620458017
+30,statistical modeling,ben seiyon lee,0.3108520227735085
+30,statistical modeling,alexander levis,0.2666138039502395
+30,statistical modeling,vadim sokolov,0.2516289196587971
+30,statistical modeling,tianshu feng,0.2442435868378674
+30,statistical modeling,qi wei,0.2435587294520396
+30,statistical modeling,edward huang,0.2210635151721228
+30,statistical modeling,lily wang,0.2182754716281836
+30,statistical modeling,kim blackwell,0.2142601165756235
+30,statistical modeling,ran ji,0.2085527550651141
+31,stochastic modeling,abolfazl safikhani,0.3258514946996161
+31,stochastic modeling,ben seiyon lee,0.3156901865520845
+31,stochastic modeling,alexander levis,0.2722213600562674
+31,stochastic modeling,tianshu feng,0.2660510499483913
+31,stochastic modeling,vadim sokolov,0.2534928375821955
+31,stochastic modeling,qi wei,0.2441147996106059
+31,stochastic modeling,lily wang,0.2316287945983783
+31,stochastic modeling,edward huang,0.2194235781159497
+31,stochastic modeling,kim blackwell,0.2136822066185754
+31,stochastic modeling,ran ji,0.2123274655640301
+32,systems engineering,janis terpenny,0.2459141233615781
+32,systems engineering,gheorghe tecuci,0.1837739117474393
+32,systems engineering,george hazelrigg,0.1798881591048695
+32,systems engineering,thomas latoza,0.172623715554873
+32,systems engineering,edward huang,0.1697002002982465
+32,systems engineering,jim chen,0.1623110594393031
+32,systems engineering,mihai boicu,0.1617157571852597
+32,systems engineering,aditya johri,0.1611081828675255
+32,systems engineering,ali k raz,0.1494051296700685
+32,systems engineering,ariela sofer,0.1492390900630398
+33,civilian government ngos,jonathan l auerbach,0.1137700329793816
+33,civilian government ngos,nathan kathir,0.1117041503877186
+33,civilian government ngos,christine alonzo yee,0.095906440948193
+33,civilian government ngos,riki morikawa,0.0956986621154726
+33,civilian government ngos,myeong lee,0.0916111916817988
+33,civilian government ngos,alexander levis,0.0838053106071649
+33,civilian government ngos,john mclaughlin,0.0786560404759271
+33,civilian government ngos,mohamed gebril,0.0716778865720363
+33,civilian government ngos,michael hieb,0.0702258695772019
+33,civilian government ngos,duoduo liao,0.0688428390821514
+34,education,gheorghe tecuci,0.2526209262835449
+34,education,mihai boicu,0.224182346495718
+34,education,aditya johri,0.1852209251576783
+34,education,bo liu,0.1825255188514278
+34,education,rochelle jones,0.1765157793672494
+34,education,sharon adamus,0.1679234773433136
+34,education,michael eagle,0.1567447342459461
+34,education,khondkar islam,0.1556013071388307
+34,education,elizabeth white,0.153964295828012
+34,education,ioulia rytikova,0.1507472130866593
+35,energy,ebrima ceesay,0.1413901961174735
+35,energy,lucas henneman,0.132265094194339
+35,energy,liling huang,0.0953837346447223
+35,energy,tolga soyata,0.094158361539382
+35,energy,deborah goodings,0.0890227311966964
+35,energy,hakan aydin,0.0888966789339422
+35,energy,ivan avramovic,0.0765514972543768
+35,energy,george hazelrigg,0.0760533581351231
+35,energy,zelalem eshete,0.0714741689891863
+35,energy,jianli pan,0.0696056733229789
+36,finance,sam salem,0.1169147755769194
+36,finance,duminda wijesekera,0.1066891721382966
+36,finance,michael hieb,0.0976405101187322
+36,finance,elise miller hooks,0.0972150345586035
+36,finance,aditya johri,0.0943909737618119
+36,finance,mahdi hashemi,0.0920258282980456
+36,finance,vadim sokolov,0.0888775056163725
+36,finance,myeong lee,0.0877462708038668
+36,finance,tolga soyata,0.0873436996947092
+36,finance,george hazelrigg,0.0873203329619449
+37,humanities,ningshi yao,0.1743346514750834
+37,humanities,rochelle jones,0.1474637654821601
+37,humanities,jan allbeck,0.1358519850647478
+37,humanities,gheorghe tecuci,0.1309435528529142
+37,humanities,scott lewis,0.1211253957778773
+37,humanities,lucas henneman,0.1185255719483448
+37,humanities,ray hong,0.1112899616855093
+37,humanities,aditya johri,0.1090304403342234
+37,humanities,mihai boicu,0.1012182951714523
+37,humanities,myeong lee,0.1001672575353661
+38,manufacturing,janis terpenny,0.1227762856485302
+38,manufacturing,tamara maddox,0.0997509336107633
+38,manufacturing,viviana maggioni,0.0766325030609269
+38,manufacturing,jan allbeck,0.0739265219080253
+38,manufacturing,filipe veiga,0.0690065559342354
+38,manufacturing,martha bushong,0.0685388660679887
+38,manufacturing,colleen berg,0.0671156055214024
+38,manufacturing,sherif hashem,0.0599009492511946
+38,manufacturing,yotam gingold,0.0592786260819352
+38,manufacturing,duoduo liao,0.0562099427319342
+39,national security,tokunbo fadahunsi,0.1089288868662355
+39,national security,mohamed gebril,0.091989815247042
+39,national security,paul ammann,0.0850322836167825
+39,national security,foteini baldimtsi,0.0849518732802721
+39,national security,md tanvir arafin,0.0831399684742722
+39,national security,xiaonan guo,0.0801484087117539
+39,national security,andrzej manitius,0.0783188380753497
+39,national security,qiliang li,0.0782999178755629
+39,national security,joy hughes,0.0743894419815896
+39,national security,massimiliano albanese,0.0730171094885568
+40,sports,ali beheshti,0.0541557285412248
+40,sports,zhisheng yan,0.0495096174537039
+40,sports,myeong lee,0.0476329594164322
+40,sports,jeffrey moran,0.0457492790609397
+40,sports,hadi el amine,0.0445679410547875
+40,sports,eugene kim,0.043534303581345
+40,sports,thomas latoza,0.0433177573164775
+40,sports,william rosenberger,0.0431519088816908
+40,sports,irina hashmi,0.0424749988542846
+40,sports,aditya johri,0.0418621585523007
+41,transportation,ebrima ceesay,0.1443034086015553
+41,transportation,sharon adamus,0.1261312447773782
+41,transportation,thanhvu nguyen,0.1017174750611735
+41,transportation,deborah goodings,0.0915452714550947
+41,transportation,lance sherry,0.0913344457323806
+41,transportation,elise miller hooks,0.0854415297398117
+41,transportation,charles white,0.082572282384477
+41,transportation,mohan venigalla,0.0816944842454511
+41,transportation,gurdip singh,0.0775275332202219
+41,transportation,lucas henneman,0.0752817651507476
