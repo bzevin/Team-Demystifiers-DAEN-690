@@ -1,50 +1,117 @@
-USING PERIODIC COMMIT 5000
-LOAD CSV WITH HEADERS from 'file:///VSE%20Research%20Portfolio%20Explode.csv' as row with row where row.Topic is not null
-MERGE (n:Topic {Name: row.Topic})
-MERGE (m:Area {Name: row.Area})
-MERGE (b:Category {Name: row.Category})
-MERGE (n)-[ra:SUB_AREA]->(m)
-MERGE (m)-[rc:SUB_CATEGORY]-> (b)
-
-LOAD CSV WITH HEADERS from 'file:///CEC_GS.csv' as row with row where row.Name is not null
+MATCH (n)
+DETACH DELETE n
 
 
 
 
-LOAD CSV WITH HEADERS from 'file:///CEC_GS.csv' as row with row where row.Name is not null
-MERGE (n:Person {Name: row.Name})
+LOAD CSV WITH HEADERS from 'file:///loadable_profiles_final_all.csv' as row with row where row.Name is not null
+MERGE (n:person {Name: row.Name})
 SET n.ID = row.ID
-SET n.Title = row.Title
-SET n.Personal_Link = row.Personal_Link
-SET n.Email = row.Email
-SET n.Phone = row.Phone_Number
-SET n.Degrees = row.Degrees
+SET n.title = row.Title
+SET n.personal_link = row.`Personal Link`
+SET n.email = row.Email
+SET n.phone = row.`Phone Number`
+SET n.degrees = row.Degrees
 
-LOAD CSV WITH HEADERS from 'file:///VSE%20Research%20Portfolio%20Explode.csv' as row with row where row.Topic is not null
-MERGE (topic:Topic {Name: row.Topic})
-SET topic.ID = row.Topic_ID
-MERGE (area:Area {Name: row.Area})
-SET area.ID = row.Area_ID
-MERGE (category:Category {Name: row.Category})
-SET category.ID = row.Category_ID
-MERGE (topic)-[ra:SUB_AREA]->(area)
-MERGE (area)-[rc:SUB_CATEGORY]-> (category)
+LOAD CSV WITH HEADERS from 'file:///loadable_VSE_Research_Portfolio_Explode.csv' as row with row where row.Topic is not null
+MERGE (topic:topic {Name: row.Topic})
+MERGE (area:area {Name: row.Area})
+MERGE (category:category {Name: row.Category})
+MERGE (topic)-[ra:sub_area]->(area)
+MERGE (area)-[rc:sub_category]-> (category)
 
 
-LOAD CSV WITH HEADERS from 'file:///in_area.csv' as row with row where row.Name is not null
-MATCH (n:Name {Name: row.Name})
-MATCH (area:Area {Name: row.All_Research_Interest})
-MERGE (n) - [:Research_Interest]->(area)
+LOAD CSV WITH HEADERS from 'file:///loadable_in_area.csv' as row with row where row.Name is not null
+MATCH (n:person {Name: row.Name})
+MATCH (area:area {Name: row.All_Research_Interest})
+MERGE (n) - [:research_interest{score: toFloat(1)}]->(area)
+MERGE (area) - [:expert{score: toFloat(1)}]->(n)
 
-LOAD CSV WITH HEADERS from 'file:///in_cat.csv' as row with row where row.Name is not null
-MATCH (n:Person {Name: row.Name})
-MATCH (category:Category {Name: row.All_Research_Interest})
-MERGE (n) - [:Research_Interest]->(category)
+LOAD CSV WITH HEADERS from 'file:///loadable_in_cat.csv' as row with row where row.Name is not null
+MATCH (n:person {Name: row.Name})
+MATCH (category:category {Name: row.All_Research_Interest})
+MERGE (n) - [:research_interest{score: toFloat(1)}]->(category)
+MERGE (category) - [:expert{score: toFloat(1)}]->(n)
 
-LOAD CSV WITH HEADERS from 'file:///not_in_cat_or_area.csv' as row with row where row.Name is not null
-MATCH (n:Person {Name: row.Name})
-MERGE (category:Category {Name: row.All_Research_Interest})
-MERGE (n) - [:No_Area_Research_Interest]->(category)
+LOAD CSV WITH HEADERS from 'file:///loadable_not_in_cat_or_area.csv' as row with row where row.Name is not null
+MATCH (n:person {Name: row.Name})
+MERGE (category:category {Name: row.All_Research_Interest})
+MERGE (n) - [:research_interest{score: toFloat(1)}]->(category)
+MERGE (category) - [:expert{score: toFloat(1)}]->(n)
+
+LOAD CSV WITH HEADERS from 'file:///loadable_cosine_scores_cat.csv' as row with row where row.Name is not null
+MATCH (n:person {Name: row.Name})
+MERGE (category:category {Name: row.similar_categories})
+MERGE (n) - [:possible_research_interest{score: toFloat(row.category_score)}]->(category)
+
+LOAD CSV WITH HEADERS from 'file:///loadable_cosine_scores_area.csv' as row with row where row.Name is not null
+MATCH (n:person {Name: row.Name})
+MERGE (area:area {Name: row.similar_area})
+MERGE (n) - [:possible_research_interest{score: toFloat(row.area_score)}]->(area)
+
+LOAD CSV WITH HEADERS from 'file:///loadable_cosine_scores_cat_au.csv' as row with row where row.Category is not null
+MATCH (n:person {Name: row.top10})
+MERGE (category:category {Name: row.Category})
+MERGE (category) - [:possible_expert{score: toFloat(row.top10_scores)}]->(n)
+
+LOAD CSV WITH HEADERS from 'file:///loadable_cosine_scores_area_au.csv' as row with row where row.area is not null
+MATCH (n:person {Name: row.top10})
+MERGE (area:area {Name: row.area})
+MERGE (area) - [:possible_expert{score: toFloat(row.top10_scores)}]->(n)
+
+LOAD CSV WITH HEADERS from 'file:///loadable_CEC_bio.csv' as row with row where row.Name is not null
+MATCH (n:person {Name: row.Name})
+MERGE (d:document {ID: row.Doc_ID})
+SET d.Name = row.loc
+SET d.description = row.descriptions
+SET d.type = row.Location
+MERGE (n) - [:cec_biography]->(cec)
+
+LOAD CSV WITH HEADERS from 'file:///loadable_GS_Doc.csv' as row with row where row.Name is not null
+MATCH (n:person {Name: row.Name})
+MERGE (d:document {ID: row.Doc_ID})
+SET d.Name = row.titles
+SET d.description = row.descriptions
+SET d.date = row.date
+SET d.citations = row.citations
+SET d.type = row.Location
+MERGE (n) - [:author_of]->(d)
+
+LOAD CSV WITH HEADERS from 'file:///loadable_ASC_Doc.csv' as row with row where row.Name is not null
+MATCH (n:person {Name: row.Name})
+MERGE (d:document {ID: row.Doc_ID})
+SET d.Name = row.titles
+SET d.description = row.descriptions
+SET d.date = row.date
+SET d.type = row.Location
+MERGE (n) - [:author_of]->(d)
+
+LOAD CSV WITH HEADERS from 'file:///loadable_L_Doc.csv' as row with row where row.Name is not null
+MATCH (n:person {Name: row.Name})
+MERGE (d:document {ID: row.Doc_ID})
+SET d.Name = row.titles
+SET d.description = row.descriptions
+SET d.date = row.date
+SET d.type = row.Location
+MERGE (n) - [:author_of]->(d)
+
+LOAD CSV WITH HEADERS from 'file:///loadable_L_about.csv' as row with row where row.Name is not null
+MATCH (n:person {Name: row.Name})
+MERGE (d:document {ID: row.Doc_ID})
+SET d.Name = row.loc
+SET d.description = row.descriptions
+SET d.type = row.Location
+MERGE (n) - [:about_section]->(d)
+
+LOAD CSV WITH HEADERS from 'file:///loadable_cosine_pub_data_cat.csv' as row with row where row.Doc_ID is not null
+MATCH (d:document {ID: row.Doc_ID})
+MATCH (category:category {Name: row.similar_categories})
+MERGE (d) - [:possible_document_subject{score: toFloat(row.category_score)}]->(category)
+
+LOAD CSV WITH HEADERS from 'file:///loadable_cosine_pub_data_area.csv' as row with row where row.Doc_ID is not null
+MATCH (d:document {ID: row.Doc_ID})
+MATCH (area:area {Name: row.similar_area})
+MERGE (d) - [:possible_document_subject{score: toFloat(row.area_score)}]->(area)
 
 MATCH (n:Person {ID: '4'})-[cat]->(c)
 RETURN *
